@@ -24,7 +24,7 @@ Tang_poetry_teaching/
 │   ├── 任务七_诗人意象共现网络构建.py        (Task 7: poet imagery networks / 诗人意象网络, supplementary exploration 扩展分析，论文未采用)
 │   ├── 任务八_时期意象共现网络构建.py        (Task 8: period imagery networks / 时期意象网络, supplementary exploration 扩展分析，论文未采用)
 │   ├── 任务九_稳健性检验.py                  (Task 9: robustness checks / 稳健性检验)
-│   ├── 任务十_论文配图工具.py                (Task 10: figure utilities, drawing only / 论文配图工具)
+
 │   ├── README.md              ← program usage guide (Chinese) / 程序使用说明
 │   └── input/                 ← input data (see Section 4) / 输入数据（见第四节）
 ├── data/                      ← intermediate data products / 中间过程产物
@@ -64,7 +64,6 @@ python 任务四_共享意象矩阵与自我网络.py
 python 任务五_教材正典证据包.py
 python 任务六_单字共现二元词对比.py
 python 任务九_稳健性检验.py
-python 任务十_论文配图工具.py
 ```
 
 **EN** Each task writes its outputs to `code/output/<task>/`. Tasks 7–8 (network analysis) are supplementary explorations not used in the final paper; Task 10 is figure-only.
@@ -93,7 +92,7 @@ python 任务十_论文配图工具.py
 
 | Paper content 论文内容 | Producing script 产出程序 | Data / figure file 数据/图文件 |
 |---|---|---|
-| Figure 1 paradigm architecture 总框架图 | Task 10 `draw_framework` 任务十 | `figures/paper/Figure1_总框架图/` |
+| Figure 1 paradigm architecture 总框架图 | PowerPoint Drawing | `figures/paper/Figure1_总框架图/` |
 | Figure 2 four-poet boxplots 四诗人箱线图 | Task 2 任务二 | `figures/paper/Figure2_四诗人箱线图/` |
 | Figure 3 signature imageries (12×4) 签名意象 | Task 2 任务二 | `figures/paper/Figure3_签名意象/` |
 | Figure 4 shared-imagery matrix 共享意象矩阵 | Task 4 任务四 | `figures/paper/Figure4_共享意象矩阵/` |
