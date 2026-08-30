@@ -1,0 +1,2997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1526.2434"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-810.869202 -1044.713745 1526.243408 1568.724854"
+     height="1568.7249" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.6086087"
+              d="M 99.078232,326.614349 L 47.988220,299.815582"
+              class="id_悠悠 id_丈夫" stroke-opacity="1.0" stroke="#f0cee6"/>
+        <path fill="none" stroke-width="0.62843055"
+              d="M 111.680664,322.068298 L 128.535675,281.675140"
+              class="id_悠悠 id_中原" stroke-opacity="1.0" stroke="#f0d1e7"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 97.977074,332.039673 L -17.593227,341.606934"
+              class="id_悠悠 id_为我" stroke-opacity="1.0" stroke="#f0cfe7"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M 102.953217,339.839905 L 35.168369,458.868408"
+              class="id_悠悠 id_亦有" stroke-opacity="1.0" stroke="#f0cee6"/>
+        <path fill="none" stroke-width="0.8912192"
+              d="M 106.666367,341.067230 L 90.500893,474.264984"
+              class="id_悠悠 id_出门" stroke-opacity="1.0" stroke="#f2dfee"/>
+        <path fill="none" stroke-width="0.7364552"
+              d="M 98.278000,333.776367 L 48.908878,346.938354"
+              class="id_悠悠 id_功名" stroke-opacity="1.0" stroke="#e772be"/>
+        <path fill="none" stroke-width="0.76982474"
+              d="M 103.290527,322.419434 L 62.408730,243.692657"
+              class="id_悠悠 id_十年" stroke-opacity="1.0" stroke="#efe0ef"/>
+        <path fill="none" stroke-width="0.7930675"
+              d="M 112.431938,340.023529 L 129.737625,373.350616"
+              class="id_悠悠 id_浮云" stroke-opacity="1.0" stroke="#eeb9dd"/>
+        <path fill="none" stroke-width="0.83494866"
+              d="M 117.777260,331.018799 L 199.419205,329.350403"
+              class="id_悠悠 id_男儿" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.70640314"
+              d="M 102.059494,339.265472 L 64.694077,391.071472"
+              class="id_悠悠 id_骨肉" stroke-opacity="1.0" stroke="#c2b6e9"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 100.623871,324.440063 L -359.699524,-106.877312"
+              class="id_悠悠 id_吾道" stroke-opacity="1.0" stroke="#eebcde"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 110.634010,321.698853 L 270.467010,-227.230545"
+              class="id_悠悠 id_淹留" stroke-opacity="1.0" stroke="#efc6e3"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 110.331573,321.615967 L 242.468384,-192.187271"
+              class="id_悠悠 id_漠漠" stroke-opacity="1.0" stroke="#dbceec"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M 106.439880,321.405792 L 39.554741,-140.471619"
+              class="id_悠悠 id_沧海" stroke-opacity="1.0" stroke="#f1d3e9"/>
+        <path fill="none" stroke-width="0.6262942"
+              d="M -69.031677,424.468506 L -26.800508,347.580994"
+              class="id_几时 id_为我" stroke-opacity="1.0" stroke="#f2deed"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -63.866783,436.795776 L 26.687414,462.345245"
+              class="id_几时 id_亦有" stroke-opacity="1.0" stroke="#f2dded"/>
+        <path fill="none" stroke-width="0.8619103"
+              d="M -63.858086,436.764771 L 84.638168,478.182007"
+              class="id_几时 id_出门" stroke-opacity="1.0" stroke="#f3eef4"/>
+        <path fill="none" stroke-width="0.89401454"
+              d="M -65.504234,427.582062 L 40.027977,351.158997"
+              class="id_几时 id_功名" stroke-opacity="1.0" stroke="#e981c4"/>
+        <path fill="none" stroke-width="0.80563974"
+              d="M -64.143623,430.118774 L 199.812592,331.405212"
+              class="id_几时 id_男儿" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M -63.869274,430.955414 L 56.324146,396.932587"
+              class="id_几时 id_骨肉" stroke-opacity="1.0" stroke="#c4c5ef"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -72.743401,423.241699 L -8.373834,-46.550732"
+              class="id_几时 id_纵横" stroke-opacity="1.0" stroke="#f1daeb"/>
+        <path fill="none" stroke-width="0.6262942"
+              d="M -81.114075,425.663666 L -237.504776,239.789444"
+              class="id_几时 id_青山" stroke-opacity="1.0" stroke="#f3e9f2"/>
+        <path fill="none" stroke-width="0.7806772"
+              d="M -81.351456,425.869415 L -333.303802,143.608353"
+              class="id_几时 id_青云" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -83.858681,438.573395 L -220.755661,505.102173"
+              class="id_几时 id_凄凉" stroke-opacity="1.0" stroke="#7a7fe6"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M -72.458344,423.284668 L -11.381894,51.946117"
+              class="id_几时 id_尚书" stroke-opacity="1.0" stroke="#efc7e3"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M 43.852268,343.231445 L 42.063431,303.583160"
+              class="id_功名 id_丈夫" stroke-opacity="1.0" stroke="#e873be"/>
+        <path fill="none" stroke-width="0.89401454"
+              d="M 47.862831,344.959534 L 124.541809,278.781250"
+              class="id_功名 id_中原" stroke-opacity="1.0" stroke="#e876bf"/>
+        <path fill="none" stroke-width="0.90233666"
+              d="M 39.097733,347.778442 L -17.597038,342.678955"
+              class="id_功名 id_为我" stroke-opacity="1.0" stroke="#e874bf"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M 43.570778,353.200623 L 32.878361,458.135834"
+              class="id_功名 id_亦有" stroke-opacity="1.0" stroke="#e873be"/>
+        <path fill="none" stroke-width="0.9550102"
+              d="M 45.722282,352.948151 L 88.069649,474.526611"
+              class="id_功名 id_出门" stroke-opacity="1.0" stroke="#e984c6"/>
+        <path fill="none" stroke-width="0.7971117"
+              d="M 44.582485,343.251923 L 54.533955,245.198212"
+              class="id_功名 id_十年" stroke-opacity="1.0" stroke="#e685c7"/>
+        <path fill="none" stroke-width="0.92332345"
+              d="M 48.757744,349.986084 L 125.024757,378.662140"
+              class="id_功名 id_浮云" stroke-opacity="1.0" stroke="#e55eb5"/>
+        <path fill="none" stroke-width="1.1005327"
+              d="M 49.043400,347.642334 L 199.460556,329.950806"
+              class="id_功名 id_男儿" stroke-opacity="1.0" stroke="#e55bb4"/>
+        <path fill="none" stroke-width="0.9550102"
+              d="M 45.810551,352.916473 L 59.654491,390.384613"
+              class="id_功名 id_骨肉" stroke-opacity="1.0" stroke="#ba5bc1"/>
+        <path fill="none" stroke-width="0.6604148"
+              d="M 45.618576,343.469757 L 156.266403,1.919475"
+              class="id_功名 id_落日" stroke-opacity="1.0" stroke="#c969c3"/>
+        <path fill="none" stroke-width="0.98506224"
+              d="M 44.638092,343.257904 L 98.816002,-137.027206"
+              class="id_功名 id_富贵" stroke-opacity="1.0" stroke="#df1f99"/>
+        <path fill="none" stroke-width="0.78268045"
+              d="M 43.175583,343.308411 L -97.602394,-424.211914"
+              class="id_功名 id_巫山" stroke-opacity="1.0" stroke="#e988c7"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 39.177082,347.234100 L -290.803894,280.418091"
+              class="id_功名 id_长安" stroke-opacity="1.0" stroke="#e453b0"/>
+        <path fill="none" stroke-width="0.9909174"
+              d="M 32.616707,458.115143 L 41.348064,303.579102"
+              class="id_亦有 id_丈夫" stroke-opacity="1.0" stroke="#f1d0e7"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 34.983036,458.767273 L 127.698929,281.282898"
+              class="id_亦有 id_中原" stroke-opacity="1.0" stroke="#f1d2e8"/>
+        <path fill="none" stroke-width="1.1938668"
+              d="M 29.854204,458.639404 L -21.195860,347.779266"
+              class="id_亦有 id_为我" stroke-opacity="1.0" stroke="#f1d0e7"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M 37.902740,465.457825 L 84.630165,478.211029"
+              class="id_亦有 id_出门" stroke-opacity="1.0" stroke="#f2e0ee"/>
+        <path fill="none" stroke-width="0.8619103"
+              d="M 36.829407,460.285767 L 126.569389,388.355713"
+              class="id_亦有 id_浮云" stroke-opacity="1.0" stroke="#eebadd"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M 36.883888,460.354797 L 200.728317,333.045319"
+              class="id_亦有 id_男儿" stroke-opacity="1.0" stroke="#eeb8dc"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M 34.574181,458.573547 L 59.404663,400.434235"
+              class="id_亦有 id_骨肉" stroke-opacity="1.0" stroke="#c3b7e9"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M 29.945391,458.598358 L -86.515053,193.810532"
+              class="id_亦有 id_岂无" stroke-opacity="1.0" stroke="#f2dfee"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 28.142336,459.841583 L -127.127151,306.899170"
+              class="id_亦有 id_道路" stroke-opacity="1.0" stroke="#e9dcef"/>
+        <path fill="none" stroke-width="0.8271637"
+              d="M 60.468494,390.154358 L 43.128181,303.453430"
+              class="id_骨肉 id_丈夫" stroke-opacity="1.0" stroke="#c3b7e9"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M 64.226601,390.769592 L 127.317261,281.073578"
+              class="id_骨肉 id_中原" stroke-opacity="1.0" stroke="#c3baea"/>
+        <path fill="none" stroke-width="1.0684284"
+              d="M 56.942081,392.591675 L -18.519064,345.422791"
+              class="id_骨肉 id_为我" stroke-opacity="1.0" stroke="#c3b8ea"/>
+        <path fill="none" stroke-width="0.92495805"
+              d="M 63.254494,400.586578 L 88.124077,474.507965"
+              class="id_骨肉 id_出门" stroke-opacity="1.0" stroke="#c4c8f1"/>
+        <path fill="none" stroke-width="0.9057974"
+              d="M 61.345718,390.052429 L 56.425255,245.261749"
+              class="id_骨肉 id_十年" stroke-opacity="1.0" stroke="#c1c9f2"/>
+        <path fill="none" stroke-width="0.70640314"
+              d="M 66.851074,394.486176 L 124.551956,383.936493"
+              class="id_骨肉 id_浮云" stroke-opacity="1.0" stroke="#c0a2e0"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M 66.444992,393.199982 L 199.987091,331.824585"
+              class="id_骨肉 id_男儿" stroke-opacity="1.0" stroke="#c09fdf"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M 66.305878,392.919037 L 352.239136,240.859528"
+              class="id_骨肉 id_万事" stroke-opacity="1.0" stroke="#c2caf2"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 61.013523,390.073975 L 23.926992,2.975070"
+              class="id_骨肉 id_日暮" stroke-opacity="1.0" stroke="#acb4ef"/>
+        <path fill="none" stroke-width="0.6660962"
+              d="M 62.124332,390.082092 L 99.870750,48.895420"
+              class="id_骨肉 id_至今" stroke-opacity="1.0" stroke="#bcc4f1"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 59.040764,390.655731 L -250.088516,-205.991821"
+              class="id_骨肉 id_消息" stroke-opacity="1.0" stroke="#c4c7f0"/>
+        <path fill="none" stroke-width="0.6418298"
+              d="M 57.265221,392.130066 L -239.129639,160.736893"
+              class="id_骨肉 id_白日" stroke-opacity="1.0" stroke="#c1abe4"/>
+        <path fill="none" stroke-width="0.75743765"
+              d="M 122.310692,274.588501 L 48.546928,294.687927"
+              class="id_中原 id_丈夫" stroke-opacity="1.0" stroke="#f1d2e8"/>
+        <path fill="none" stroke-width="0.80563974"
+              d="M 122.877403,276.168976 L -18.119900,339.566223"
+              class="id_中原 id_为我" stroke-opacity="1.0" stroke="#f1d3e8"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M 130.504196,282.282440 L 90.940628,474.336823"
+              class="id_中原 id_出门" stroke-opacity="1.0" stroke="#f2e3ef"/>
+        <path fill="none" stroke-width="0.80563974"
+              d="M 141.107269,278.408020 L 200.752914,325.369476"
+              class="id_中原 id_男儿" stroke-opacity="1.0" stroke="#eebadd"/>
+        <path fill="none" stroke-width="0.7152777"
+              d="M 124.613861,264.667267 L -133.678589,37.103760"
+              class="id_中原 id_出入" stroke-opacity="1.0" stroke="#eca7d5"/>
+        <path fill="none" stroke-width="0.7806772"
+              d="M 134.158539,261.131439 L 161.863586,63.116463"
+              class="id_中原 id_惆怅" stroke-opacity="1.0" stroke="#afa7e8"/>
+        <path fill="none" stroke-width="0.7356985"
+              d="M 122.356918,274.752960 L -88.669395,335.877350"
+              class="id_中原 id_故乡" stroke-opacity="1.0" stroke="#c1b8ea"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 134.409988,261.169678 L 185.876892,-52.368111"
+              class="id_中原 id_西南" stroke-opacity="1.0" stroke="#f1d4e9"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 130.962158,261.164642 L 88.458092,-2.559625"
+              class="id_中原 id_岁月" stroke-opacity="1.0" stroke="#f2dfee"/>
+        <path fill="none" stroke-width="0.6262942"
+              d="M 141.618683,265.829926 L 557.102905,-9.780551"
+              class="id_中原 id_蹉跎" stroke-opacity="1.0" stroke="#ebe0f0"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 136.089874,261.586792 L 274.473022,-150.373657"
+              class="id_中原 id_感激" stroke-opacity="1.0" stroke="#f1d5e9"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 129.590927,261.479004 L -64.028503,-385.220337"
+              class="id_中原 id_北斗" stroke-opacity="1.0" stroke="#edaad6"/>
+        <path fill="none" stroke-width="0.78674656"
+              d="M 127.027092,375.418335 L 46.920757,301.327576"
+              class="id_浮云 id_丈夫" stroke-opacity="1.0" stroke="#eebadd"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 124.693611,379.718384 L -17.762547,343.649872"
+              class="id_浮云 id_为我" stroke-opacity="1.0" stroke="#eebbde"/>
+        <path fill="none" stroke-width="0.8912192"
+              d="M 130.192734,391.176544 L 92.093948,474.713318"
+              class="id_浮云 id_出门" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 142.273376,376.243042 L 200.644531,332.934967"
+              class="id_浮云 id_男儿" stroke-opacity="1.0" stroke="#eca2d3"/>
+        <path fill="none" stroke-width="0.68327534"
+              d="M 127.862648,374.614716 L -62.005066,152.568344"
+              class="id_浮云 id_颜色" stroke-opacity="1.0" stroke="#eca6d4"/>
+        <path fill="none" stroke-width="0.7445866"
+              d="M 136.460220,372.470947 L 227.984100,-39.299160"
+              class="id_浮云 id_万古" stroke-opacity="1.0" stroke="#efc8e4"/>
+        <path fill="none" stroke-width="0.7364552"
+              d="M 133.648743,372.256622 L 99.708954,-137.006760"
+              class="id_浮云 id_富贵" stroke-opacity="1.0" stroke="#e666b8"/>
+        <path fill="none" stroke-width="0.7364552"
+              d="M 136.484741,372.476440 L 213.522476,29.979027"
+              class="id_浮云 id_往来" stroke-opacity="1.0" stroke="#e9c9e6"/>
+        <path fill="none" stroke-width="0.7744902"
+              d="M 199.538177,328.004944 L 48.658798,297.919617"
+              class="id_男儿 id_丈夫" stroke-opacity="1.0" stroke="#eeb8dc"/>
+        <path fill="none" stroke-width="1.0121579"
+              d="M 199.427719,329.572723 L -17.581808,341.771271"
+              class="id_男儿 id_为我" stroke-opacity="1.0" stroke="#eeb8dd"/>
+        <path fill="none" stroke-width="1.0684284"
+              d="M 201.847229,334.159241 L 93.149277,475.348785"
+              class="id_男儿 id_出门" stroke-opacity="1.0" stroke="#f0c8e4"/>
+        <path fill="none" stroke-width="1.0667487"
+              d="M 200.434937,325.811829 L 67.677269,238.928848"
+              class="id_男儿 id_十年" stroke-opacity="1.0" stroke="#edcae5"/>
+        <path fill="none" stroke-width="0.867053"
+              d="M 210.303391,325.084442 L 343.256409,206.903275"
+              class="id_男儿 id_不敢" stroke-opacity="1.0" stroke="#f0c8e4"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M 206.212753,323.019318 L 227.813705,85.977371"
+              class="id_男儿 id_不足" stroke-opacity="1.0" stroke="#edaad6"/>
+        <path fill="none" stroke-width="1.0391195"
+              d="M 207.523972,323.282959 L 299.841583,31.056067"
+              class="id_男儿 id_借问" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M 207.430908,323.254364 L 270.999084,110.513245"
+              class="id_男儿 id_古人" stroke-opacity="1.0" stroke="#e5c2e4"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 209.363297,324.223206 L 340.989319,147.113739"
+              class="id_男儿 id_壮士" stroke-opacity="1.0" stroke="#edabd7"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M 208.935028,323.931763 L 287.637726,197.261383"
+              class="id_男儿 id_寂寥" stroke-opacity="0.99607843" stroke="#af8fdd"/>
+        <path fill="none" stroke-width="1.0311964"
+              d="M 203.293976,323.455261 L 138.288330,164.138702"
+              class="id_男儿 id_少年" stroke-opacity="1.0" stroke="#edabd7"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M 208.200562,323.540833 L 253.016327,223.798721"
+              class="id_男儿 id_岂知" stroke-opacity="1.0" stroke="#eeb9dd"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 204.858185,323.043793 L 179.776596,126.665009"
+              class="id_男儿 id_英雄" stroke-opacity="1.0" stroke="#e450af"/>
+        <path fill="none" stroke-width="0.74189544"
+              d="M 207.541611,323.288574 L 321.037628,-32.296173"
+              class="id_男儿 id_萧萧" stroke-opacity="1.0" stroke="#8d6fd8"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 202.806107,323.679321 L -15.992714,-103.228325"
+              class="id_男儿 id_三年" stroke-opacity="1.0" stroke="#efc1e0"/>
+        <path fill="none" stroke-width="0.7744902"
+              d="M -18.686993,338.564392 L 35.958244,300.565582"
+              class="id_为我 id_丈夫" stroke-opacity="1.0" stroke="#f1d0e7"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M -19.832968,346.922699 L 86.402756,475.465393"
+              class="id_为我 id_出门" stroke-opacity="1.0" stroke="#f2e1ef"/>
+        <path fill="none" stroke-width="0.7087369"
+              d="M -20.163786,337.063812 L 47.764355,242.631821"
+              class="id_为我 id_十年" stroke-opacity="1.0" stroke="#efe2f0"/>
+        <path fill="none" stroke-width="0.83494866"
+              d="M -25.610283,336.159760 L -142.499725,-49.067333"
+              class="id_为我 id_主人" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.819611"
+              d="M -27.476608,337.090942 L -170.519897,141.314514"
+              class="id_为我 id_清晨" stroke-opacity="1.0" stroke="#eca0d2"/>
+        <path fill="none" stroke-width="0.7659657"
+              d="M -28.571999,338.114746 L -239.398270,161.068619"
+              class="id_为我 id_白日" stroke-opacity="1.0" stroke="#efc4e2"/>
+        <path fill="none" stroke-width="1.0684284"
+              d="M -22.754526,335.979980 L 15.670564,110.601944"
+              class="id_为我 id_青冥" stroke-opacity="1.0" stroke="#efc6e3"/>
+        <path fill="none" stroke-width="0.819611"
+              d="M -26.569901,336.540314 L -117.308311,153.629105"
+              class="id_为我 id_头白" stroke-opacity="1.0" stroke="#f2deee"/>
+        <path fill="none" stroke-width="0.6134227"
+              d="M -29.999802,341.498138 L -218.823975,322.526917"
+              class="id_为我 id_相见" stroke-opacity="1.0" stroke="#ecdff0"/>
+        <path fill="none" stroke-width="0.6262942"
+              d="M -29.872486,340.724487 L -290.863556,280.694031"
+              class="id_为我 id_长安" stroke-opacity="1.0" stroke="#edb0d9"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -19.336733,337.776611 L 297.423645,29.565182"
+              class="id_为我 id_借问" stroke-opacity="1.0" stroke="#f0cfe7"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -20.394197,336.905792 L 159.152100,62.099342"
+              class="id_为我 id_惆怅" stroke-opacity="1.0" stroke="#afa5e7"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M -22.967346,335.947479 L 22.028913,2.938250"
+              class="id_为我 id_日暮" stroke-opacity="1.0" stroke="#dacded"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M -29.633097,339.930176 L -125.275215,304.000977"
+              class="id_为我 id_道路" stroke-opacity="1.0" stroke="#e9dcef"/>
+        <path fill="none" stroke-width="0.65465504"
+              d="M -144.387741,-98.165359 L 48.666172,219.277786"
+              class="id_风尘 id_十年" stroke-opacity="1.0" stroke="#f0eef5"/>
+        <path fill="none" stroke-width="0.6062132"
+              d="M -156.519684,-95.297585 L -180.333145,193.931503"
+              class="id_风尘 id_江海" stroke-opacity="1.0" stroke="#f1d7ea"/>
+        <path fill="none" stroke-width="0.6800128"
+              d="M -156.581482,-135.484268 L -168.390320,-273.710205"
+              class="id_风尘 id_天地" stroke-opacity="1.0" stroke="#eca8d5"/>
+        <path fill="none" stroke-width="0.769719"
+              d="M -147.060150,-133.985641 L -9.204481,-462.371124"
+              class="id_风尘 id_摇落" stroke-opacity="1.0" stroke="#dcdbf2"/>
+        <path fill="none" stroke-width="0.7356985"
+              d="M 66.694443,222.253494 L 297.133179,29.243544"
+              class="id_十年 id_借问" stroke-opacity="1.0" stroke="#efe0ef"/>
+        <path fill="none" stroke-width="0.6387957"
+              d="M 68.027237,224.141449 L 266.707092,107.151207"
+              class="id_十年 id_古人" stroke-opacity="1.0" stroke="#e6ecf8"/>
+        <path fill="none" stroke-width="0.76500744"
+              d="M 69.938591,230.383743 L 249.834106,219.199799"
+              class="id_十年 id_岂知" stroke-opacity="1.0" stroke="#efe3f0"/>
+        <path fill="none" stroke-width="0.9932145"
+              d="M 64.215736,219.934265 L 376.382019,-207.508301"
+              class="id_十年 id_四十" stroke-opacity="1.0" stroke="#eedbed"/>
+        <path fill="none" stroke-width="0.7356985"
+              d="M 42.180668,228.629211 L -488.525909,127.478523"
+              class="id_十年 id_南国" stroke-opacity="1.0" stroke="#edcce6"/>
+        <path fill="none" stroke-width="0.75344217"
+              d="M 42.672035,226.761688 L -420.209076,70.165779"
+              class="id_十年 id_洞庭" stroke-opacity="1.0" stroke="#f1f4f8"/>
+        <path fill="none" stroke-width="0.8271637"
+              d="M 88.474464,474.403137 L 43.536919,303.358948"
+              class="id_出门 id_丈夫" stroke-opacity="1.0" stroke="#f2e0ee"/>
+        <path fill="none" stroke-width="0.72502273"
+              d="M 42.995186,289.603577 L 105.656921,-58.318817"
+              class="id_丈夫 id_回首" stroke-opacity="1.0" stroke="#e1d4ee"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 36.314491,292.047516 L -84.374161,192.193222"
+              class="id_丈夫 id_岂无" stroke-opacity="1.0" stroke="#f2dfee"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 40.692604,289.571075 L -18.531874,-102.409958"
+              class="id_丈夫 id_三年" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 47.418339,292.356384 L 341.888123,75.122498"
+              class="id_丈夫 id_怅望" stroke-opacity="1.0" stroke="#dcd0ed"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M 34.886456,294.915863 L -286.902496,218.669296"
+              class="id_丈夫 id_相望" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M 39.518345,289.853119 L -43.889492,39.407318"
+              class="id_丈夫 id_宾客" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M 45.129135,290.357025 L 225.914597,-40.077347"
+              class="id_丈夫 id_万古" stroke-opacity="1.0" stroke="#f2deed"/>
+        <path fill="none" stroke-width="0.72936934"
+              d="M 37.529400,290.891907 L -184.119934,-6.084362"
+              class="id_丈夫 id_诸侯" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.65483403"
+              d="M 45.645142,290.668701 L 130.199615,163.332184"
+              class="id_丈夫 id_少年" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 338.582458,136.649841 L 234.306808,82.428421"
+              class="id_壮士 id_不足" stroke-opacity="1.0" stroke="#eeb5db"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 342.948822,132.744873 L 303.688599,30.936640"
+              class="id_壮士 id_借问" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 338.551666,136.709656 L 279.780151,106.753708"
+              class="id_壮士 id_古人" stroke-opacity="1.0" stroke="#e6cee9"/>
+        <path fill="none" stroke-width="0.83260137"
+              d="M 339.860138,146.101517 L 297.040863,185.850967"
+              class="id_壮士 id_寂寥" stroke-opacity="0.99607843" stroke="#b09ae2"/>
+        <path fill="none" stroke-width="0.95881313"
+              d="M 339.664368,145.882950 L 259.326294,215.326385"
+              class="id_壮士 id_岂知" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.7929273"
+              d="M 337.719696,139.388367 L 186.935593,119.533798"
+              class="id_壮士 id_英雄" stroke-opacity="1.0" stroke="#e55bb4"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 337.921753,138.360931 L -5.272415,47.985641"
+              class="id_壮士 id_尚书" stroke-opacity="1.0" stroke="#edadd7"/>
+        <path fill="none" stroke-width="0.8543405"
+              d="M 337.691559,141.309250 L -1.359697,175.894638"
+              class="id_壮士 id_白马" stroke-opacity="1.0" stroke="#edafd8"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 349.142609,132.840240 L 425.741089,-48.915321"
+              class="id_壮士 id_为君" stroke-opacity="1.0" stroke="#efc1e0"/>
+        <path fill="none" stroke-width="0.87758005"
+              d="M 340.766479,133.996078 L 191.091400,-53.728516"
+              class="id_壮士 id_西南" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 346.160339,132.193726 L 347.680786,78.150497"
+              class="id_壮士 id_怅望" stroke-opacity="1.0" stroke="#dbc3e8"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M 345.225433,132.220261 L 317.529297,-193.188019"
+              class="id_壮士 id_丹青" stroke-opacity="1.0" stroke="#eca7d5"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 172.088699,-6.854575 L 295.948608,24.095867"
+              class="id_落日 id_借问" stroke-opacity="1.0" stroke="#d1c4eb"/>
+        <path fill="none" stroke-width="0.62588835"
+              d="M 158.231689,2.383007 L 136.304001,147.503067"
+              class="id_落日 id_少年" stroke-opacity="1.0" stroke="#d0b9e6"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 164.835022,1.572451 L 253.155548,213.869293"
+              class="id_落日 id_岂知" stroke-opacity="1.0" stroke="#d2c7ec"/>
+        <path fill="none" stroke-width="0.7595946"
+              d="M 159.243713,-22.203831 L 138.093887,-334.181274"
+              class="id_落日 id_孤城" stroke-opacity="1.0" stroke="#aeb7f0"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 148.330765,-5.965868 L -5.368092,44.908066"
+              class="id_落日 id_尚书" stroke-opacity="1.0" stroke="#cfafe2"/>
+        <path fill="none" stroke-width="0.6604148"
+              d="M 158.649033,-22.149073 L 97.004227,-551.438599"
+              class="id_落日 id_佳人" stroke-opacity="1.0" stroke="#cea0dc"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 147.714371,-10.366085 L -52.955856,-18.657396"
+              class="id_落日 id_浮生" stroke-opacity="1.0" stroke="#d1bce8"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 185.234467,113.334496 L 223.197968,83.470383"
+              class="id_英雄 id_不足" stroke-opacity="1.0" stroke="#e55ab3"/>
+        <path fill="none" stroke-width="0.92950416"
+              d="M 185.330109,113.458473 L 296.953400,29.017742"
+              class="id_英雄 id_借问" stroke-opacity="1.0" stroke="#e666b9"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 186.902710,117.146637 L 265.769012,104.543503"
+              class="id_英雄 id_古人" stroke-opacity="1.0" stroke="#de72c1"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 185.693619,122.926666 L 285.298035,186.894989"
+              class="id_英雄 id_寂寥" stroke-opacity="0.99607843" stroke="#a73fba"/>
+        <path fill="none" stroke-width="0.9159996"
+              d="M 172.453827,123.854378 L 141.590408,150.425323"
+              class="id_英雄 id_少年" stroke-opacity="1.0" stroke="#e55bb4"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 183.745087,125.038094 L 251.954865,214.561005"
+              class="id_英雄 id_岂知" stroke-opacity="1.0" stroke="#e769ba"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 171.492172,114.430199 L -282.785522,-138.138870"
+              class="id_英雄 id_从来" stroke-opacity="1.0" stroke="#e768ba"/>
+        <path fill="none" stroke-width="0.69974303"
+              d="M 175.724365,110.738342 L 120.830818,-30.264872"
+              class="id_英雄 id_天下" stroke-opacity="1.0" stroke="#e340a8"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 176.663101,110.435928 L 164.439377,62.970722"
+              class="id_英雄 id_惆怅" stroke-opacity="1.0" stroke="#a53db9"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 179.111221,110.183220 L 186.644821,-52.287556"
+              class="id_英雄 id_西南" stroke-opacity="1.0" stroke="#e76aba"/>
+        <path fill="none" stroke-width="0.8121805"
+              d="M 181.165070,110.541252 L 227.374786,-39.460453"
+              class="id_英雄 id_万古" stroke-opacity="1.0" stroke="#e876c0"/>
+        <path fill="none" stroke-width="0.8121805"
+              d="M 182.013260,110.854202 L 313.739105,-193.805878"
+              class="id_英雄 id_丹青" stroke-opacity="1.0" stroke="#e44bad"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 172.371506,113.148796 L 61.663952,20.764374"
+              class="id_英雄 id_君王" stroke-opacity="1.0" stroke="#e554b1"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 171.870651,123.091644 L 79.454254,185.608505"
+              class="id_英雄 id_裴回" stroke-opacity="1.0" stroke="#d96ec0"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M 179.589020,126.686790 L 194.696762,271.116547"
+              class="id_英雄 id_相逢" stroke-opacity="1.0" stroke="#e768b9"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 170.614746,116.805077 L -320.924316,16.961790"
+              class="id_英雄 id_今朝" stroke-opacity="1.0" stroke="#e660b6"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 170.925278,115.685722 L -181.692551,-9.377258"
+              class="id_英雄 id_诸侯" stroke-opacity="1.0" stroke="#e344a9"/>
+        <path fill="none" stroke-width="0.6183113"
+              d="M 298.927917,192.174683 L 341.086670,199.335129"
+              class="id_寂寥 id_不敢" stroke-opacity="0.99607843" stroke="#b3b7ef"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 287.899445,184.434692 L 231.687180,85.143120"
+              class="id_寂寥 id_不足" stroke-opacity="0.99607843" stroke="#b099e1"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 292.025238,183.480316 L 301.242767,31.315746"
+              class="id_寂寥 id_借问" stroke-opacity="0.99607843" stroke="#b1a5e7"/>
+        <path fill="none" stroke-width="0.6886703"
+              d="M 290.037079,183.626770 L 274.671692,110.665375"
+              class="id_寂寥 id_古人" stroke-opacity="0.99607843" stroke="#a8b1ef"/>
+        <path fill="none" stroke-width="0.81438935"
+              d="M 284.293213,189.305893 L 143.487076,157.980865"
+              class="id_寂寥 id_少年" stroke-opacity="0.99607843" stroke="#b09ae2"/>
+        <path fill="none" stroke-width="0.8068142"
+              d="M 285.660767,195.471893 L 259.522400,215.566864"
+              class="id_寂寥 id_岂知" stroke-opacity="0.99607843" stroke="#b1a8e8"/>
+        <path fill="none" stroke-width="0.8080061"
+              d="M 292.620544,183.540421 L 323.132019,-31.817148"
+              class="id_寂寥 id_萧萧" stroke-opacity="0.99607843" stroke="#505ee3"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 287.107300,184.952118 L 42.765965,-141.802673"
+              class="id_寂寥 id_沧海" stroke-opacity="0.99607843" stroke="#b2acea"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 285.248016,186.973984 L -308.049652,-183.632568"
+              class="id_寂寥 id_苍生" stroke-opacity="0.99607843" stroke="#a9b2ef"/>
+        <path fill="none" stroke-width="0.8068142"
+              d="M 289.296722,198.028503 L 210.366318,444.187439"
+              class="id_寂寥 id_天涯" stroke-opacity="0.99607843" stroke="#b2baf0"/>
+        <path fill="none" stroke-width="0.8068142"
+              d="M 284.119690,190.667084 L 201.109589,187.787399"
+              class="id_寂寥 id_经过" stroke-opacity="0.99607843" stroke="#b2bbf0"/>
+        <path fill="none" stroke-width="0.6604148"
+              d="M 343.619171,194.429016 L 233.113800,84.057312"
+              class="id_不敢 id_不足" stroke-opacity="1.0" stroke="#f1d2e8"/>
+        <path fill="none" stroke-width="0.89401454"
+              d="M 347.632935,192.089020 L 303.144928,31.116112"
+              class="id_不敢 id_借问" stroke-opacity="1.0" stroke="#f2dfee"/>
+        <path fill="none" stroke-width="0.6183113"
+              d="M 344.420898,193.715866 L 277.754822,109.222237"
+              class="id_不敢 id_古人" stroke-opacity="1.0" stroke="#e9ebf6"/>
+        <path fill="none" stroke-width="0.7392256"
+              d="M 341.149139,199.004471 L 143.512085,157.864700"
+              class="id_不敢 id_少年" stroke-opacity="1.0" stroke="#f1d4e9"/>
+        <path fill="none" stroke-width="0.92332345"
+              d="M 341.117950,202.555939 L 260.548401,217.854904"
+              class="id_不敢 id_岂知" stroke-opacity="1.0" stroke="#f2e2ef"/>
+        <path fill="none" stroke-width="0.6183113"
+              d="M 345.197845,193.166245 L 87.709846,-214.490891"
+              class="id_不敢 id_昆仑" stroke-opacity="1.0" stroke="#eeb9dd"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 233.763443,75.429924 L 296.907593,28.956360"
+              class="id_不足 id_借问" stroke-opacity="1.0" stroke="#efc0e0"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 234.266235,82.505219 L 266.562347,99.839035"
+              class="id_不足 id_古人" stroke-opacity="1.0" stroke="#e6cce9"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 223.285797,83.579636 L 141.719788,150.579178"
+              class="id_不足 id_少年" stroke-opacity="1.0" stroke="#eeb5db"/>
+        <path fill="none" stroke-width="0.8489177"
+              d="M 229.669632,85.885384 L 254.212234,213.551559"
+              class="id_不足 id_岂知" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.71693295"
+              d="M 232.497314,74.128479 L 317.065826,-34.391636"
+              class="id_不足 id_萧萧" stroke-opacity="1.0" stroke="#8e79dd"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 228.483231,72.726418 L 229.612015,-39.112106"
+              class="id_不足 id_万古" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 230.514023,73.066208 L 335.722168,-242.850769"
+              class="id_不足 id_将军" stroke-opacity="1.0" stroke="#efc7e3"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 222.506149,76.340210 L -242.814545,-161.845322"
+              class="id_不足 id_波涛" stroke-opacity="1.0" stroke="#f1d3e8"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 222.776047,75.862679 L -198.033676,-185.474258"
+              class="id_不足 id_咫尺" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 228.805847,72.737526 L 239.796402,-114.226692"
+              class="id_不足 id_忆昔" stroke-opacity="1.0" stroke="#efc6e3"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 221.778214,79.497894 L -288.640472,89.684151"
+              class="id_不足 id_黄金" stroke-opacity="1.0" stroke="#eca4d4"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 222.187378,77.067101 L -136.074677,-55.124775"
+              class="id_不足 id_主人" stroke-opacity="1.0" stroke="#eebcde"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 235.038162,78.884834 L 340.451111,71.234360"
+              class="id_不足 id_怅望" stroke-opacity="1.0" stroke="#dbc2e7"/>
+        <path fill="none" stroke-width="0.6719542"
+              d="M 320.698242,-32.409756 L 275.600616,96.326881"
+              class="id_萧萧 id_古人" stroke-opacity="1.0" stroke="#8791eb"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M 321.654358,-32.116268 L 256.617554,213.634323"
+              class="id_萧萧 id_岂知" stroke-opacity="1.0" stroke="#9088e3"/>
+        <path fill="none" stroke-width="0.76885706"
+              d="M 328.902618,-56.630325 L 378.004333,-206.677032"
+              class="id_萧萧 id_四十" stroke-opacity="1.0" stroke="#8f80e0"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M 319.921600,-56.244637 L 180.309723,-384.537872"
+              class="id_萧萧 id_如今" stroke-opacity="1.0" stroke="#909aec"/>
+        <path fill="none" stroke-width="0.7471726"
+              d="M 314.099152,-51.281273 L 152.223450,-153.007858"
+              class="id_萧萧 id_归来" stroke-opacity="1.0" stroke="#919aeb"/>
+        <path fill="none" stroke-width="0.8552751"
+              d="M 315.427521,-53.038464 L 245.117783,-116.409531"
+              class="id_萧萧 id_忆昔" stroke-opacity="1.0" stroke="#908be5"/>
+        <path fill="none" stroke-width="0.6493502"
+              d="M 322.834320,-57.092293 L 256.559540,-456.841309"
+              class="id_萧萧 id_白露" stroke-opacity="1.0" stroke="#8c96eb"/>
+        <path fill="none" stroke-width="0.6936934"
+              d="M 312.893005,-48.804050 L 45.177895,-145.062927"
+              class="id_萧萧 id_沧海" stroke-opacity="1.0" stroke="#908ce5"/>
+        <path fill="none" stroke-width="0.71693295"
+              d="M 318.988831,-55.802696 L 247.204651,-192.737045"
+              class="id_萧萧 id_漠漠" stroke-opacity="1.0" stroke="#7b86e9"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M 313.423492,-38.891605 L 21.446100,102.905754"
+              class="id_萧萧 id_青冥" stroke-opacity="1.0" stroke="#8e7cde"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M 318.705170,-33.305801 L 198.334778,182.873306"
+              class="id_萧萧 id_经过" stroke-opacity="1.0" stroke="#919bec"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M 141.843887,150.733826 L 297.014496,29.097073"
+              class="id_少年 id_借问" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.81438935"
+              d="M 143.123108,152.995499 L 266.166016,106.026550"
+              class="id_少年 id_古人" stroke-opacity="1.0" stroke="#e6cee9"/>
+        <path fill="none" stroke-width="0.7526284"
+              d="M 142.707886,160.115234 L 250.437943,216.360382"
+              class="id_少年 id_岂知" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.8141626"
+              d="M 126.639252,158.437103 L -290.988129,275.391479"
+              class="id_少年 id_长安" stroke-opacity="1.0" stroke="#eca3d3"/>
+        <path fill="none" stroke-width="0.8843306"
+              d="M 128.196304,150.697784 L -103.271004,-32.729420"
+              class="id_少年 id_骑马" stroke-opacity="1.0" stroke="#edabd7"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M 127.836090,151.186478 L -39.882454,36.386219"
+              class="id_少年 id_宾客" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 134.218430,147.441299 L 87.007141,-371.327209"
+              class="id_少年 id_蓬莱" stroke-opacity="1.0" stroke="#ea92cc"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M 127.370049,160.239487 L 79.748482,186.092682"
+              class="id_少年 id_裴回" stroke-opacity="1.0" stroke="#e2c9e8"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M 130.228104,148.837128 L -207.653915,-364.369965"
+              class="id_少年 id_处处" stroke-opacity="1.0" stroke="#efc4e2"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M 256.494873,213.603394 L 300.237732,31.165993"
+              class="id_岂知 id_借问" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.8068142"
+              d="M 256.062103,213.518112 L 271.992157,110.737465"
+              class="id_岂知 id_古人" stroke-opacity="1.0" stroke="#e8dcef"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M 249.828888,218.626984 L -174.996613,199.986664"
+              class="id_岂知 id_江海" stroke-opacity="1.0" stroke="#f0cce5"/>
+        <path fill="none" stroke-width="0.6660962"
+              d="M 251.726608,214.744919 L 108.322929,46.303543"
+              class="id_岂知 id_至今" stroke-opacity="1.0" stroke="#eadeef"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M 249.966278,217.630219 L -57.732582,145.548416"
+              class="id_岂知 id_颜色" stroke-opacity="1.0" stroke="#efbdde"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 275.695374,96.360794 L 299.596680,30.972679"
+              class="id_古人 id_借问" stroke-opacity="1.0" stroke="#e7d9ee"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M 277.104706,109.681129 L 354.423553,232.660767"
+              class="id_古人 id_万事" stroke-opacity="1.0" stroke="#e7edf8"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 268.362640,97.633606 L -99.897797,-344.783051"
+              class="id_古人 id_欢娱" stroke-opacity="1.0" stroke="#e2a2d6"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 266.754364,99.502556 L 93.080772,-5.675091"
+              class="id_古人 id_岁月" stroke-opacity="1.0" stroke="#e9e7f5"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 278.388550,98.071854 L 448.316956,-73.170815"
+              class="id_古人 id_当时" stroke-opacity="1.0" stroke="#e7d4ec"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 266.620178,99.733360 L -1.674011,-49.894760"
+              class="id_古人 id_纵横" stroke-opacity="1.0" stroke="#e7d7ed"/>
+        <path fill="none" stroke-width="0.62843055"
+              d="M 268.158600,97.809792 L -36.292843,-242.170013"
+              class="id_古人 id_今日" stroke-opacity="1.0" stroke="#e8ddf0"/>
+        <path fill="none" stroke-width="0.6886703"
+              d="M 266.784882,99.452606 L -325.304047,-265.500854"
+              class="id_古人 id_衣冠" stroke-opacity="1.0" stroke="#e6c6e6"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 300.941376,19.723833 L 273.068420,-227.007782"
+              class="id_借问 id_淹留" stroke-opacity="1.0" stroke="#efc6e3"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M 295.776917,25.357656 L -281.415741,10.568530"
+              class="id_借问 id_天子" stroke-opacity="1.0" stroke="#eca1d2"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 299.731934,19.993212 L 123.567383,-501.436157"
+              class="id_借问 id_可怜" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 299.343079,20.140263 L 242.754745,-114.732292"
+              class="id_借问 id_忆昔" stroke-opacity="1.0" stroke="#f0d2e8"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 298.520752,20.565098 L 33.287659,-405.823975"
+              class="id_借问 id_江水" stroke-opacity="1.0" stroke="#f2e3ef"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 300.149078,19.869446 L 245.771225,-192.186127"
+              class="id_借问 id_漠漠" stroke-opacity="1.0" stroke="#dbceec"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 299.017975,20.288555 L 191.002686,-198.458054"
+              class="id_借问 id_别离" stroke-opacity="1.0" stroke="#837ae0"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M 304.486908,20.456615 L 378.061096,-108.010651"
+              class="id_借问 id_文章" stroke-opacity="1.0" stroke="#e879c1"/>
+        <path fill="none" stroke-width="0.7602633"
+              d="M 301.985992,19.700222 L 316.332855,-193.177475"
+              class="id_借问 id_丹青" stroke-opacity="1.0" stroke="#edb2da"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M 307.035858,23.442266 L 515.192810,-55.534988"
+              class="id_借问 id_四海" stroke-opacity="1.0" stroke="#eca3d3"/>
+        <path fill="none" stroke-width="0.754311"
+              d="M -512.552002,-359.832642 L -697.854919,-154.522598"
+              class="id_巫峡 id_云雨" stroke-opacity="1.0" stroke="#d8ddf5"/>
+        <path fill="none" stroke-width="0.66906285"
+              d="M -486.415710,-370.925049 L -283.112793,-364.043152"
+              class="id_巫峡 id_分明" stroke-opacity="1.0" stroke="#d5bae5"/>
+        <path fill="none" stroke-width="0.6441003"
+              d="M -486.423401,-372.176392 L -72.565071,-391.274658"
+              class="id_巫峡 id_北斗" stroke-opacity="1.0" stroke="#d3a2db"/>
+        <path fill="none" stroke-width="0.9871954"
+              d="M -637.413940,110.521507 L -589.757690,144.824814"
+              class="id_北风 id_今年" stroke-opacity="1.0" stroke="#e9eef7"/>
+        <path fill="none" stroke-width="1.0141569"
+              d="M -637.786133,102.293434 L -534.935913,13.119075"
+              class="id_北风 id_去年" stroke-opacity="1.0" stroke="#d6ddf5"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -636.870422,109.624596 L -310.921906,273.464691"
+              class="id_北风 id_长安" stroke-opacity="1.0" stroke="#e4bbe1"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -644.312561,100.177452 L -700.974670,-142.425186"
+              class="id_北风 id_云雨" stroke-opacity="1.0" stroke="#e9eef7"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M -649.221069,108.340576 L -776.149292,141.914398"
+              class="id_北风 id_何所" stroke-opacity="1.0" stroke="#e9e7f4"/>
+        <path fill="none" stroke-width="0.93733084"
+              d="M -636.276245,105.422653 L -440.144226,68.754066"
+              class="id_北风 id_洞庭" stroke-opacity="1.0" stroke="#e9edf7"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M -636.221008,107.517578 L -500.011597,125.622139"
+              class="id_北风 id_南国" stroke-opacity="1.0" stroke="#e5c5e5"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -725.332397,30.593973 L -536.324036,9.938896"
+              class="id_蛟龙 id_去年" stroke-opacity="1.0" stroke="#dcbae3"/>
+        <path fill="none" stroke-width="1.0391195"
+              d="M -582.442261,142.658813 L -532.649719,14.730032"
+              class="id_今年 id_去年" stroke-opacity="1.0" stroke="#e0e5f6"/>
+        <path fill="none" stroke-width="0.80563974"
+              d="M -579.038330,151.058716 L -311.090027,273.814819"
+              class="id_今年 id_长安" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M -579.191833,145.557648 L -439.127136,71.674644"
+              class="id_今年 id_洞庭" stroke-opacity="1.0" stroke="#f4f5f7"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -526.764221,13.736220 L -308.292480,270.114288"
+              class="id_去年 id_长安" stroke-opacity="1.0" stroke="#dbb2df"/>
+        <path fill="none" stroke-width="0.7253334"
+              d="M -525.420410,6.537153 L -58.604660,-246.051666"
+              class="id_去年 id_今日" stroke-opacity="1.0" stroke="#dfd5ef"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M -526.474365,5.141469 L -105.237907,-426.539398"
+              class="id_去年 id_巫山" stroke-opacity="1.0" stroke="#e0e6f6"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -291.437500,274.106720 L -94.218597,190.749054"
+              class="id_长安 id_岂无" stroke-opacity="1.0" stroke="#efbfe0"/>
+        <path fill="none" stroke-width="0.7356985"
+              d="M -291.016205,281.281158 L -102.997101,335.872742"
+              class="id_长安 id_故乡" stroke-opacity="1.0" stroke="#bd96db"/>
+        <path fill="none" stroke-width="0.83260137"
+              d="M -306.389038,268.816925 L -329.599274,225.385666"
+              class="id_长安 id_辛苦" stroke-opacity="1.0" stroke="#bf97db"/>
+        <path fill="none" stroke-width="0.65247405"
+              d="M -292.073120,272.842407 L -81.955826,149.230011"
+              class="id_长安 id_颜色" stroke-opacity="1.0" stroke="#eb9bd0"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M -309.696106,285.015686 L -360.665955,325.999451"
+              class="id_长安 id_往往" stroke-opacity="1.0" stroke="#efc0e0"/>
+        <path fill="none" stroke-width="0.7170143"
+              d="M -292.136353,283.837891 L -239.458191,315.649872"
+              class="id_长安 id_相见" stroke-opacity="1.0" stroke="#e9bfe1"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M -293.918488,270.515564 L 95.926224,-138.376877"
+              class="id_长安 id_富贵" stroke-opacity="1.0" stroke="#e55cb4"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -304.036469,267.896606 L -336.050385,145.079910"
+              class="id_长安 id_青云" stroke-opacity="1.0" stroke="#eb9ed1"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M 76.904320,-223.812866 L -338.972687,-407.641266"
+              class="id_昆仑 id_万国" stroke-opacity="1.0" stroke="#e55bb4"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 76.314301,-219.963409 L -197.194351,-189.195145"
+              class="id_昆仑 id_咫尺" stroke-opacity="1.0" stroke="#eda9d6"/>
+        <path fill="none" stroke-width="0.6605348"
+              d="M 76.509087,-222.680054 L -156.744263,-283.527954"
+              class="id_昆仑 id_天地" stroke-opacity="1.0" stroke="#e774bf"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 87.231422,-214.212967 L 212.270294,20.687260"
+              class="id_昆仑 id_往来" stroke-opacity="1.0" stroke="#e8b7de"/>
+        <path fill="none" stroke-width="0.9172541"
+              d="M 91.115273,-219.775528 L 237.545273,-199.526840"
+              class="id_昆仑 id_漠漠" stroke-opacity="1.0" stroke="#d8a8dc"/>
+        <path fill="none" stroke-width="0.6886703"
+              d="M 76.438789,-222.386368 L -114.248474,-263.966187"
+              class="id_昆仑 id_儿童" stroke-opacity="1.0" stroke="#eb9dd1"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 83.856041,-213.339371 L 87.286423,-15.752728"
+              class="id_昆仑 id_岁月" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 88.523346,-215.085190 L 224.631088,-53.006477"
+              class="id_昆仑 id_万古" stroke-opacity="1.0" stroke="#eeb7dc"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 77.812103,-216.252350 L -182.746750,-16.028757"
+              class="id_昆仑 id_诸侯" stroke-opacity="1.0" stroke="#e985c6"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 91.158905,-220.167023 L 309.021240,-201.693375"
+              class="id_昆仑 id_丹青" stroke-opacity="1.0" stroke="#ea8cc9"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M 86.734177,-227.623032 L 134.002838,-334.899017"
+              class="id_昆仑 id_孤城" stroke-opacity="1.0" stroke="#c99ada"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 91.168434,-221.302643 L 265.699036,-233.155304"
+              class="id_昆仑 id_淹留" stroke-opacity="1.0" stroke="#eca0d2"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 76.289894,-220.220322 L -85.153534,-207.695465"
+              class="id_昆仑 id_烟尘" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.9172541"
+              d="M 78.041016,-225.625458 L 28.718414,-267.510498"
+              class="id_昆仑 id_由来" stroke-opacity="1.0" stroke="#eb95cd"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 90.273712,-224.371017 L 247.412064,-310.145142"
+              class="id_昆仑 id_远游" stroke-opacity="1.0" stroke="#edb3da"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M -326.571503,219.500000 L -94.628838,189.236313"
+              class="id_辛苦 id_岂无" stroke-opacity="1.0" stroke="#c4c6f0"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -327.132111,222.845825 L -102.511711,334.629333"
+              class="id_辛苦 id_故乡" stroke-opacity="1.0" stroke="#929dec"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M -330.994995,214.591385 L -263.451324,-69.244446"
+              class="id_辛苦 id_多病" stroke-opacity="1.0" stroke="#b3bcf0"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -329.272949,215.308472 L -192.053986,-5.744477"
+              class="id_辛苦 id_诸侯" stroke-opacity="1.0" stroke="#bf93d9"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M -334.005096,225.830017 L -363.336182,324.205139"
+              class="id_辛苦 id_往往" stroke-opacity="1.0" stroke="#c4c7f1"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -332.191132,214.435257 L -327.190918,21.949160"
+              class="id_辛苦 id_今朝" stroke-opacity="1.0" stroke="#c1afe6"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -89.129395,194.296692 L -95.486176,330.501678"
+              class="id_岂无 id_故乡" stroke-opacity="1.0" stroke="#c2c5f0"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -83.543846,186.111115 L 378.272919,-20.041107"
+              class="id_岂无 id_千里" stroke-opacity="1.0" stroke="#f3eaf2"/>
+        <path fill="none" stroke-width="0.9909174"
+              d="M -86.794388,183.041870 L 36.044792,-140.856934"
+              class="id_岂无 id_沧海" stroke-opacity="1.0" stroke="#f3e4f0"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -94.542007,187.233749 L -236.874573,155.942215"
+              class="id_岂无 id_白日" stroke-opacity="1.0" stroke="#f1d3e8"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -83.239166,186.967957 L 340.688873,72.636696"
+              class="id_岂无 id_怅望" stroke-opacity="1.0" stroke="#dedff4"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M -88.876907,182.663712 L -90.122383,-202.308762"
+              class="id_岂无 id_烟尘" stroke-opacity="1.0" stroke="#f3ecf4"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M -94.339760,186.528931 L -420.264191,70.324486"
+              class="id_岂无 id_洞庭" stroke-opacity="1.0" stroke="#f4f2f6"/>
+        <path fill="none" stroke-width="0.7602633"
+              d="M -87.333870,182.866821 L -48.436760,39.535782"
+              class="id_岂无 id_宾客" stroke-opacity="1.0" stroke="#f1d2e8"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M -86.044579,183.388962 L -13.119268,51.343636"
+              class="id_岂无 id_尚书" stroke-opacity="1.0" stroke="#f0c9e4"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -100.373489,343.871124 L -222.448105,503.028168"
+              class="id_故乡 id_凄凉" stroke-opacity="1.0" stroke="#4958e2"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -89.865387,333.478912 L 379.347076,-18.214209"
+              class="id_故乡 id_千里" stroke-opacity="1.0" stroke="#c2c0ee"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -103.056381,339.816162 L -299.669189,390.547363"
+              class="id_故乡 id_茫茫" stroke-opacity="0.99607843" stroke="#7b86e9"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M -90.786713,332.460510 L 158.291000,61.429695"
+              class="id_故乡 id_惆怅" stroke-opacity="1.0" stroke="#7f8be9"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -94.228592,330.668365 L -43.116806,98.746529"
+              class="id_故乡 id_游子" stroke-opacity="1.0" stroke="#c0b6e9"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -101.131561,332.701691 L -127.145294,306.917542"
+              class="id_故乡 id_道路" stroke-opacity="1.0" stroke="#b9c2f1"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -88.549889,336.346375 L 351.655884,239.276001"
+              class="id_故乡 id_万事" stroke-opacity="1.0" stroke="#c0c8f2"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M -92.279190,331.395081 L -11.731896,182.807190"
+              class="id_故乡 id_白马" stroke-opacity="1.0" stroke="#bfa2e0"/>
+        <path fill="none" stroke-width="0.70640314"
+              d="M 12.776440,101.421860 L -138.406723,-51.504879"
+              class="id_青冥 id_主人" stroke-opacity="1.0" stroke="#eec0e0"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M 11.240048,106.137177 L -168.046234,135.284927"
+              class="id_青冥 id_清晨" stroke-opacity="1.0" stroke="#ea95cd"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 16.900162,99.868721 L 22.647171,2.998274" class="id_青冥 id_日暮"
+              stroke-opacity="1.0" stroke="#d8c2e8"/>
+        <path fill="none" stroke-width="0.9550102"
+              d="M 18.881935,100.373512 L 55.697281,22.085505"
+              class="id_青冥 id_君王" stroke-opacity="1.0" stroke="#edb1da"/>
+        <path fill="none" stroke-width="0.7526284"
+              d="M 18.952223,100.407181 L 141.056656,-149.822388"
+              class="id_青冥 id_归来" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.62715703"
+              d="M 87.069183,-81.652603 L -323.702118,-101.085457"
+              class="id_回首 id_苍梧" stroke-opacity="1.0" stroke="#c5cdf3"/>
+        <path fill="none" stroke-width="0.7502282"
+              d="M 87.628586,-85.693558 L -11.703934,-108.725777"
+              class="id_回首 id_三年" stroke-opacity="1.0" stroke="#e2ddf2"/>
+        <path fill="none" stroke-width="0.7951459"
+              d="M 117.300674,-101.879623 L 195.995148,-321.413940"
+              class="id_回首 id_生涯" stroke-opacity="1.0" stroke="#d5dcf5"/>
+        <path fill="none" stroke-width="0.62715703"
+              d="M 132.253479,-79.301979 L 514.875671,-57.591919"
+              class="id_回首 id_四海" stroke-opacity="1.0" stroke="#dda9db"/>
+        <path fill="none" stroke-width="0.72936934"
+              d="M 308.756531,-498.279419 L 68.819283,-597.556335"
+              class="id_谁能 id_冥冥" stroke-opacity="1.0" stroke="#f1e7f2"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 316.835663,-488.711182 L 378.521881,-217.882431"
+              class="id_谁能 id_四十" stroke-opacity="1.0" stroke="#f0dced"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M 311.233459,-489.805420 L 202.783524,-334.550385"
+              class="id_谁能 id_生涯" stroke-opacity="1.0" stroke="#e5eaf7"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M 499.906952,-164.644287 L 455.196167,-82.414536"
+              class="id_萧条 id_当时" stroke-opacity="1.0" stroke="#9384e1"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M 496.272888,-167.950333 L 168.291275,52.833599"
+              class="id_萧条 id_惆怅" stroke-opacity="1.0" stroke="#5260e3"/>
+        <path fill="none" stroke-width="0.72243917"
+              d="M 506.162659,-163.474777 L 519.227478,-62.267529"
+              class="id_萧条 id_四海" stroke-opacity="1.0" stroke="#8f60d0"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M 508.321289,-163.994049 L 560.194580,-19.089153"
+              class="id_萧条 id_蹉跎" stroke-opacity="1.0" stroke="#8e98eb"/>
+        <path fill="none" stroke-width="0.6923871"
+              d="M 494.992310,-176.828888 L 92.036072,-304.132019"
+              class="id_萧条 id_圣朝" stroke-opacity="1.0" stroke="#8c3cc1"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M 499.725586,-182.690018 L 371.021149,-408.461395"
+              class="id_萧条 id_江城" stroke-opacity="1.0" stroke="#9495e8"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -28.527815,213.360428 L 68.971619,190.213577"
+              class="id_风吹 id_裴回" stroke-opacity="1.0" stroke="#e1e6f6"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -41.115509,204.194763 L -58.311447,-13.096117"
+              class="id_风吹 id_浮生" stroke-opacity="1.0" stroke="#edd7eb"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -157.773193,-167.071793 L -287.264984,-68.545555"
+              class="id_有馀 id_不易" stroke-opacity="1.0" stroke="#ead8ed"/>
+        <path fill="none" stroke-width="0.9389933"
+              d="M -157.015991,-179.465012 L -216.204941,-237.142517"
+              class="id_有馀 id_不肯" stroke-opacity="1.0" stroke="#f1dfee"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -140.769836,-171.663422 L 94.414192,-142.608734"
+              class="id_有馀 id_富贵" stroke-opacity="1.0" stroke="#e877c0"/>
+        <path fill="none" stroke-width="0.82565594"
+              d="M -143.021759,-179.057220 L 81.388611,-373.590363"
+              class="id_有馀 id_蓬莱" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.74100316"
+              d="M -146.575363,-164.041595 L -44.496490,83.010559"
+              class="id_有馀 id_游子" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.6232769"
+              d="M -152.396301,-163.576660 L -186.712616,-18.593227"
+              class="id_有馀 id_诸侯" stroke-opacity="1.0" stroke="#eda7d5"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M -287.606232,-62.087860 L -80.183182,133.485245"
+              class="id_不易 id_颜色" stroke-opacity="1.0" stroke="#e9c8e6"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M -289.005554,-61.047073 L -273.877777,-30.833946"
+              class="id_不易 id_平生" stroke-opacity="1.0" stroke="#ecebf5"/>
+        <path fill="none" stroke-width="0.6183113"
+              d="M -295.176605,-68.605934 L -496.643921,-226.808502"
+              class="id_不易 id_江湖" stroke-opacity="1.0" stroke="#ebe0f0"/>
+        <path fill="none" stroke-width="0.90233666"
+              d="M -288.735504,-61.192829 L -177.320541,130.895905"
+              class="id_不易 id_清晨" stroke-opacity="1.0" stroke="#e6acda"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M -287.061676,-68.257851 L 18.103901,-268.169891"
+              class="id_不易 id_由来" stroke-opacity="1.0" stroke="#e9c9e6"/>
+        <path fill="none" stroke-width="0.60264874"
+              d="M -83.435799,139.551926 L -288.864166,91.823784"
+              class="id_颜色 id_黄金" stroke-opacity="1.0" stroke="#ec9dd1"/>
+        <path fill="none" stroke-width="0.65247405"
+              d="M -80.760605,134.139725 L -260.787933,-14.398817"
+              class="id_颜色 id_平生" stroke-opacity="1.0" stroke="#f0c9e4"/>
+        <path fill="none" stroke-width="0.62086076"
+              d="M -66.861572,129.876846 L 118.583992,-501.336334"
+              class="id_颜色 id_可怜" stroke-opacity="1.0" stroke="#edafd8"/>
+        <path fill="none" stroke-width="0.754311"
+              d="M -64.471611,130.841293 L 138.328995,-257.415588"
+              class="id_颜色 id_终日" stroke-opacity="1.0" stroke="#f0cde6"/>
+        <path fill="none" stroke-width="0.70551354"
+              d="M -58.414253,147.648499 L 340.074463,315.008301"
+              class="id_颜色 id_新诗" stroke-opacity="1.0" stroke="#ea8fca"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M -77.047791,154.042343 L -199.394501,371.702515"
+              class="id_颜色 id_乔木" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.6515334"
+              d="M 207.562592,-813.592957 L 155.373016,-646.005188"
+              class="id_衣裳 id_秋风" stroke-opacity="1.0" stroke="#cec5ec"/>
+        <path fill="none" stroke-width="0.74368715"
+              d="M 91.139061,32.803894 L -195.248474,-111.334366"
+              class="id_至今 id_潇湘" stroke-opacity="1.0" stroke="#aab3ef"/>
+        <path fill="none" stroke-width="0.68968576"
+              d="M 102.992645,26.830376 L 112.706657,-29.448368"
+              class="id_至今 id_天下" stroke-opacity="1.0" stroke="#e6b5dd"/>
+        <path fill="none" stroke-width="0.7669267"
+              d="M 107.044373,28.387268 L 268.780670,-227.989838"
+              class="id_至今 id_淹留" stroke-opacity="1.0" stroke="#e9d4eb"/>
+        <path fill="none" stroke-width="0.7669267"
+              d="M 108.496269,29.478094 L 182.545166,-53.954124"
+              class="id_至今 id_西南" stroke-opacity="1.0" stroke="#eadff0"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M 92.410362,30.828512 L -107.115196,-129.665131"
+              class="id_至今 id_东西" stroke-opacity="1.0" stroke="#ecf1f8"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M -503.205078,-157.369431 L -208.766083,-187.943497"
+              class="id_此时 id_咫尺" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M -503.247101,-156.026611 L -414.823944,-141.208221"
+              class="id_此时 id_苍茫" stroke-opacity="1.0" stroke="#c3c0ed"/>
+        <path fill="none" stroke-width="0.7364552"
+              d="M -511.811310,-153.417664 L -577.879883,-90.942581"
+              class="id_此时 id_江边" stroke-opacity="1.0" stroke="#f3edf4"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 237.679276,-197.013748 L 45.384941,-149.150650"
+              class="id_漠漠 id_沧海" stroke-opacity="1.0" stroke="#dcd4ef"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 243.254013,-192.035034 L 215.273407,20.143822"
+              class="id_漠漠 id_往来" stroke-opacity="1.0" stroke="#d7def5"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 237.985321,-196.083282 L 152.897705,-160.947098"
+              class="id_漠漠 id_归来" stroke-opacity="1.0" stroke="#dde3f5"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 238.433792,-195.193253 L -170.210129,50.796429"
+              class="id_漠漠 id_风雨" stroke-opacity="1.0" stroke="#cad2f3"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 246.789215,-204.697433 L 285.908630,-293.873260"
+              class="id_漠漠 id_光辉" stroke-opacity="1.0" stroke="#d484cc"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 241.674423,-204.789093 L 123.969551,-501.583740"
+              class="id_漠漠 id_可怜" stroke-opacity="1.0" stroke="#dac3e7"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 249.882965,-201.917786 L 329.797852,-247.700699"
+              class="id_漠漠 id_将军" stroke-opacity="1.0" stroke="#dcd4ef"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 243.786407,-191.986526 L 240.521652,-127.485443"
+              class="id_漠漠 id_忆昔" stroke-opacity="1.0" stroke="#dcd3ef"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 250.757736,-198.837341 L 308.997437,-200.767838"
+              class="id_漠漠 id_丹青" stroke-opacity="1.0" stroke="#d9b3e0"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 240.175461,-203.956421 L 142.670883,-335.863037"
+              class="id_漠漠 id_孤城" stroke-opacity="1.0" stroke="#b8c1f1"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 248.288574,-203.786606 L 268.156586,-228.435944"
+              class="id_漠漠 id_淹留" stroke-opacity="1.0" stroke="#dbc7e9"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 237.820862,-200.709274 L 29.958834,-269.716248"
+              class="id_漠漠 id_由来" stroke-opacity="1.0" stroke="#dabce4"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 244.568542,-205.241699 L 251.464554,-307.552063"
+              class="id_漠漠 id_远游" stroke-opacity="1.0" stroke="#dcd9f1"/>
+        <path fill="none" stroke-width="0.6614364"
+              d="M 257.218506,417.099274 L -35.747887,96.770851"
+              class="id_故人 id_游子" stroke-opacity="1.0" stroke="#ded2ed"/>
+        <path fill="none" stroke-width="0.6614364"
+              d="M 261.228973,414.374695 L 199.178925,286.795166"
+              class="id_故人 id_相逢" stroke-opacity="1.0" stroke="#dfd2ed"/>
+        <path fill="none" stroke-width="0.69837177"
+              d="M 252.580475,434.853790 L 213.851517,447.642609"
+              class="id_故人 id_天涯" stroke-opacity="1.0" stroke="#dfe5f6"/>
+        <path fill="none" stroke-width="0.61713874"
+              d="M 278.230194,415.679626 L 342.414795,323.036713"
+              class="id_故人 id_新诗" stroke-opacity="1.0" stroke="#daa6da"/>
+        <path fill="none" stroke-width="0.72243917"
+              d="M -290.952484,-143.821671 L -381.855591,-221.706100"
+              class="id_从来 id_白首" stroke-opacity="1.0" stroke="#f2e1ef"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M -288.787720,-145.294586 L -329.218842,-262.364319"
+              class="id_从来 id_衣冠" stroke-opacity="1.0" stroke="#efbcdf"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M -216.160263,-244.075104 L -109.519081,-345.346710"
+              class="id_不肯 id_欢娱" stroke-opacity="1.0" stroke="#ecabd7"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M -219.105316,-235.678574 L -189.295761,-18.717150"
+              class="id_不肯 id_诸侯" stroke-opacity="1.0" stroke="#eec0e0"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -108.077362,-344.182312 L -199.947800,-193.513397"
+              class="id_欢娱 id_咫尺" stroke-opacity="1.0" stroke="#eb98ce"/>
+        <path fill="none" stroke-width="0.72936934"
+              d="M -98.003090,-353.146057 L 23.159883,-408.864441"
+              class="id_欢娱 id_江水" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.6501697"
+              d="M -100.775261,-344.159576 L -53.350212,-265.280579"
+              class="id_欢娱 id_今日" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M -103.821182,-357.225647 L -80.963165,-631.074219"
+              class="id_欢娱 id_为客" stroke-opacity="1.0" stroke="#dc9cd5"/>
+        <path fill="none" stroke-width="0.8024164"
+              d="M -56.065025,-1017.864258 L -47.753181,-904.912170"
+              class="id_纷纷 id_江上" stroke-opacity="1.0" stroke="#f1dbec"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M 375.444153,-216.051270 L 182.255020,-385.943695"
+              class="id_四十 id_如今" stroke-opacity="1.0" stroke="#f0dced"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M 374.145599,-210.891266 L 153.330124,-159.596817"
+              class="id_四十 id_归来" stroke-opacity="1.0" stroke="#f1ddec"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M 382.572266,-207.083405 L 449.658264,-82.426453"
+              class="id_四十 id_当时" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.7602633"
+              d="M 374.084320,-211.190506 L 324.609589,-202.404404"
+              class="id_四十 id_丹青" stroke-opacity="1.0" stroke="#edadd7"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M 380.047302,-206.393082 L 383.154938,-128.822693"
+              class="id_四十 id_文章" stroke-opacity="1.0" stroke="#e774be"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M 374.715729,-209.402237 L 280.445648,-157.524048"
+              class="id_四十 id_感激" stroke-opacity="1.0" stroke="#f0cce5"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M 374.914978,-215.348923 L 204.791565,-324.409912"
+              class="id_四十 id_生涯" stroke-opacity="1.0" stroke="#e4d1eb"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -111.824127,-127.495682 L -119.890221,141.821823"
+              class="id_东西 id_头白" stroke-opacity="1.0" stroke="#f3f2f6"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M -105.856209,-133.862000 L 136.217194,-156.810852"
+              class="id_东西 id_归来" stroke-opacity="1.0" stroke="#f4f8f8"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -107.430626,-129.304474 L 17.135387,-10.967800"
+              class="id_东西 id_日暮" stroke-opacity="1.0" stroke="#dbe1f6"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -116.683014,-136.234451 L -245.078125,-210.767639"
+              class="id_东西 id_消息" stroke-opacity="1.0" stroke="#f4f4f7"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M -106.002846,-131.905853 L 180.509933,-60.524818"
+              class="id_东西 id_西南" stroke-opacity="1.0" stroke="#f2e6f1"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -111.439636,-127.496872 L -108.378418,-42.823898"
+              class="id_东西 id_骑马" stroke-opacity="1.0" stroke="#f0cce5"/>
+        <path fill="none" stroke-width="0.8619103"
+              d="M -114.043404,-128.008057 L -141.300446,-67.598465"
+              class="id_东西 id_主人" stroke-opacity="1.0" stroke="#f1dfed"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -117.346222,-132.120865 L -194.645355,-115.947136"
+              class="id_东西 id_潇湘" stroke-opacity="1.0" stroke="#b2bbf0"/>
+        <path fill="none" stroke-width="0.6134574"
+              d="M -117.373039,-134.368332 L -333.903992,-174.305634"
+              class="id_东西 id_乾坤" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -117.398705,-132.407257 L -444.021973,-80.961517"
+              class="id_东西 id_扁舟" stroke-opacity="1.0" stroke="#f3f0f5"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M -105.833130,-133.129181 L 372.459167,-118.035698"
+              class="id_东西 id_文章" stroke-opacity="1.0" stroke="#ea8fca"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -106.000343,-131.915924 L -27.805359,-112.582756"
+              class="id_东西 id_三年" stroke-opacity="1.0" stroke="#f3edf4"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -111.573097,-139.131912 L -107.079613,-479.582550"
+              class="id_东西 id_故园" stroke-opacity="1.0" stroke="#f3f8f9"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M -116.629730,-136.324371 L -197.997711,-185.532944"
+              class="id_东西 id_咫尺" stroke-opacity="1.0" stroke="#f2e5f0"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M -107.582962,-137.475510 L 19.017902,-267.059082"
+              class="id_东西 id_由来" stroke-opacity="1.0" stroke="#f0d1e7"/>
+        <path fill="none" stroke-width="0.69995487"
+              d="M -115.996628,143.341125 L 139.176300,-151.065262"
+              class="id_头白 id_归来" stroke-opacity="1.0" stroke="#f3f1f6"/>
+        <path fill="none" stroke-width="0.6134227"
+              d="M -123.410728,153.310776 L -223.949539,311.995911"
+              class="id_头白 id_相见" stroke-opacity="1.0" stroke="#ededf6"/>
+        <path fill="none" stroke-width="0.72107124"
+              d="M 180.875168,-384.818359 L 382.240509,-32.173779"
+              class="id_如今 id_千里" stroke-opacity="1.0" stroke="#f2edf4"/>
+        <path fill="none" stroke-width="0.6923871"
+              d="M 172.830765,-390.235291 L -250.809814,-447.047424"
+              class="id_如今 id_白发" stroke-opacity="1.0" stroke="#f1e3f0"/>
+        <path fill="none" stroke-width="0.7526284"
+              d="M 172.847336,-390.349579 L -90.585068,-431.419464"
+              class="id_如今 id_巫山" stroke-opacity="1.0" stroke="#f2f7f9"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 173.078354,-391.279999 L -99.144005,-485.161438"
+              class="id_如今 id_故园" stroke-opacity="1.0" stroke="#f1f6f9"/>
+        <path fill="none" stroke-width="0.7747153"
+              d="M 139.443680,-150.842728 L 28.304905,-11.733817"
+              class="id_归来 id_日暮" stroke-opacity="1.0" stroke="#dbe0f5"/>
+        <path fill="none" stroke-width="0.61406815"
+              d="M 144.989258,-166.318527 L 151.391052,-621.010986"
+              class="id_归来 id_秋风" stroke-opacity="1.0" stroke="#cfd5f3"/>
+        <path fill="none" stroke-width="0.7014327"
+              d="M 137.093964,-161.513046 L -33.010654,-246.471085"
+              class="id_归来 id_今日" stroke-opacity="1.0" stroke="#f2e6f1"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 424.416748,-57.308704 L 276.660065,-228.578064"
+              class="id_为君 id_淹留" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 422.684113,-53.634930 L 193.590027,-58.770966"
+              class="id_为君 id_西南" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 423.638519,-50.582920 L 394.646210,-29.507599"
+              class="id_为君 id_千里" stroke-opacity="1.0" stroke="#f1d8ea"/>
+        <path fill="none" stroke-width="0.6134227"
+              d="M -281.755768,7.536338 L -114.190804,-35.063560"
+              class="id_天子 id_骑马" stroke-opacity="1.0" stroke="#ea8ac8"/>
+        <path fill="none" stroke-width="0.6500243"
+              d="M -292.515289,-0.864457 L -291.327637,-299.472717"
+              class="id_天子 id_朝廷" stroke-opacity="1.0" stroke="#ea91cb"/>
+        <path fill="none" stroke-width="0.6660962"
+              d="M -283.378998,16.606241 L -251.891525,38.293491"
+              class="id_天子 id_洛阳" stroke-opacity="1.0" stroke="#e876c0"/>
+        <path fill="none" stroke-width="0.6134227"
+              d="M -292.943085,21.423939 L -305.486847,385.877930"
+              class="id_天子 id_茫茫" stroke-opacity="0.99607843" stroke="#a673d2"/>
+        <path fill="none" stroke-width="0.8188509"
+              d="M -293.709290,-0.805102 L -312.385284,-180.927124"
+              class="id_天子 id_苍生" stroke-opacity="1.0" stroke="#e4aedb"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 447.906158,-73.623718 L 394.323853,-29.926090"
+              class="id_当时 id_千里" stroke-opacity="1.0" stroke="#f1d4e9"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 447.133331,-74.860481 L 168.810501,53.756039"
+              class="id_当时 id_惆怅" stroke-opacity="1.0" stroke="#ae9ee4"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 446.715332,-78.471672 L 246.689835,-119.519913"
+              class="id_当时 id_忆昔" stroke-opacity="1.0" stroke="#f0cde6"/>
+        <path fill="none" stroke-width="0.6683977"
+              d="M 385.901001,-14.467322 L 358.430023,231.743469"
+              class="id_千里 id_万事" stroke-opacity="1.0" stroke="#f1edf4"/>
+        <path fill="none" stroke-width="0.6450309"
+              d="M 379.021423,-29.157032 L 245.726059,-117.195518"
+              class="id_千里 id_忆昔" stroke-opacity="1.0" stroke="#f2deed"/>
+        <path fill="none" stroke-width="0.6450309"
+              d="M 378.006073,-20.704887 L 169.032608,54.298306"
+              class="id_千里 id_惆怅" stroke-opacity="1.0" stroke="#b0afeb"/>
+        <path fill="none" stroke-width="0.6450309"
+              d="M 377.458710,-23.447605 L 94.032928,-9.442068"
+              class="id_千里 id_岁月" stroke-opacity="1.0" stroke="#f3e7f1"/>
+        <path fill="none" stroke-width="0.6450309"
+              d="M 377.589478,-25.556015 L 193.492294,-57.775208"
+              class="id_千里 id_西南" stroke-opacity="1.0" stroke="#f2dcec"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 383.326569,-15.128370 L 350.737244,63.799999"
+              class="id_千里 id_怅望" stroke-opacity="1.0" stroke="#dddaf2"/>
+        <path fill="none" stroke-width="0.6232769"
+              d="M 385.316010,-33.282692 L 319.836334,-407.382324"
+              class="id_千里 id_故国" stroke-opacity="1.0" stroke="#e7e3f3"/>
+        <path fill="none" stroke-width="0.6683977"
+              d="M 396.445892,-23.338114 L 556.076172,-13.603315"
+              class="id_千里 id_蹉跎" stroke-opacity="1.0" stroke="#ece8f3"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 380.817535,-31.178644 L 279.292786,-151.294708"
+              class="id_千里 id_感激" stroke-opacity="1.0" stroke="#f2ddec"/>
+        <path fill="none" stroke-width="0.78268045"
+              d="M 685.665710,-299.406189 L 539.584412,-247.209808"
+              class="id_风起 id_春风" stroke-opacity="1.0" stroke="#f0cfe7"/>
+        <path fill="none" stroke-width="0.6418298"
+              d="M -455.655670,-211.440460 L -254.470535,142.965363"
+              class="id_独立 id_白日" stroke-opacity="1.0" stroke="#d4bce7"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M -455.591095,-220.812515 L -298.175568,-489.422729"
+              class="id_独立 id_寂寞" stroke-opacity="1.0" stroke="#7480e8"/>
+        <path fill="none" stroke-width="0.7595946"
+              d="M 132.454895,-540.861877 L -60.627609,-395.572723"
+              class="id_白头 id_北斗" stroke-opacity="1.0" stroke="#eeb3da"/>
+        <path fill="none" stroke-width="0.65085083"
+              d="M 136.205536,-537.247070 L 5.792007,-349.940887"
+              class="id_白头 id_春草" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.60264874"
+              d="M 158.555862,-540.565430 L 313.086060,-418.691223"
+              class="id_白头 id_故国" stroke-opacity="1.0" stroke="#e7e4f3"/>
+        <path fill="none" stroke-width="0.90233666"
+              d="M 523.334778,-53.706039 L 557.974426,-17.712650"
+              class="id_四海 id_蹉跎" stroke-opacity="1.0" stroke="#e6b2dc"/>
+        <path fill="none" stroke-width="0.6381384"
+              d="M -255.850449,143.880402 L -292.036133,96.749130"
+              class="id_白日 id_黄金" stroke-opacity="1.0" stroke="#eca5d4"/>
+        <path fill="none" stroke-width="0.88057095"
+              d="M -248.086807,141.414871 L -230.400177,-303.039490"
+              class="id_白日 id_青春" stroke-opacity="1.0" stroke="#eb98ce"/>
+        <path fill="none" stroke-width="0.6756036"
+              d="M -243.351059,142.599808 L -232.933823,121.066528"
+              class="id_白日 id_从此" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -236.666977,154.679123 L 68.849022,188.233963"
+              class="id_白日 id_裴回" stroke-opacity="1.0" stroke="#e2c9e8"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M -183.761246,56.731945 L -288.986328,87.424583"
+              class="id_风雨 id_黄金" stroke-opacity="1.0" stroke="#dcb4e0"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M -181.564514,60.210777 L -224.270401,108.109657"
+              class="id_风雨 id_从此" stroke-opacity="1.0" stroke="#dfd2ed"/>
+        <path fill="none" stroke-width="0.7595946"
+              d="M -257.442993,-204.716293 L -296.161499,81.247551"
+              class="id_消息 id_黄金" stroke-opacity="1.0" stroke="#efc1e1"/>
+        <path fill="none" stroke-width="0.7806772"
+              d="M -251.335144,-228.531906 L -149.799698,-492.243958"
+              class="id_消息 id_东流" stroke-opacity="1.0" stroke="#f4f3f6"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M -255.382706,-204.610840 L -247.610901,35.955109"
+              class="id_消息 id_洛阳" stroke-opacity="1.0" stroke="#eeb3db"/>
+        <path fill="none" stroke-width="0.6441003"
+              d="M -249.822891,-227.829300 L -110.956482,-480.604645"
+              class="id_消息 id_故园" stroke-opacity="1.0" stroke="#f3f3f7"/>
+        <path fill="none" stroke-width="0.7595946"
+              d="M -253.651672,-229.173706 L -214.203705,-454.905212"
+              class="id_消息 id_春色" stroke-opacity="1.0" stroke="#eeb7dc"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M -297.818390,81.182877 L -312.656525,-180.905396"
+              class="id_黄金 id_苍生" stroke-opacity="1.0" stroke="#e6bde2"/>
+        <path fill="none" stroke-width="0.7526284"
+              d="M -299.685669,98.219833 L -363.413483,324.182709"
+              class="id_黄金 id_往往" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.9805399"
+              d="M -290.971588,83.933350 L -193.492737,-6.927179"
+              class="id_黄金 id_诸侯" stroke-opacity="1.0" stroke="#ea8eca"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M -289.171753,86.861168 L -146.968948,34.615620"
+              class="id_黄金 id_出入" stroke-opacity="1.0" stroke="#e986c7"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M -302.867889,96.550194 L -333.491211,133.541031"
+              class="id_黄金 id_青云" stroke-opacity="1.0" stroke="#eca0d2"/>
+        <path fill="none" stroke-width="0.83027023"
+              d="M -431.402710,-372.643036 L -303.019775,-317.319824"
+              class="id_杜陵 id_朝廷" stroke-opacity="1.0" stroke="#eed1e8"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M -432.473633,-371.071655 L -336.906219,-274.710785"
+              class="id_杜陵 id_衣冠" stroke-opacity="1.0" stroke="#eecee7"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M 227.350693,-54.493195 L 140.090775,-334.554718"
+              class="id_万古 id_孤城" stroke-opacity="1.0" stroke="#cecff1"/>
+        <path fill="none" stroke-width="0.6504394"
+              d="M 233.566727,-53.828983 L 312.986664,-194.180099"
+              class="id_万古 id_丹青" stroke-opacity="1.0" stroke="#efc1e1"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 221.825226,-47.184475 L -0.835437,-52.956562"
+              class="id_万古 id_纵横" stroke-opacity="1.0" stroke="#f1daec"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 223.010620,-51.138138 L -115.203384,-261.614258"
+              class="id_万古 id_儿童" stroke-opacity="1.0" stroke="#f0d2e8"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 235.267914,-41.428814 L 342.604523,65.431847"
+              class="id_万古 id_怅望" stroke-opacity="1.0" stroke="#dddef4"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 231.475372,-54.644524 L 287.070618,-293.486847"
+              class="id_万古 id_光辉" stroke-opacity="1.0" stroke="#ea93cc"/>
+        <path fill="none" stroke-width="0.8177508"
+              d="M 228.080948,-39.278275 L 215.643036,20.206745"
+              class="id_万古 id_往来" stroke-opacity="1.0" stroke="#edecf6"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 224.375076,-52.781860 L 28.143333,-266.913300"
+              class="id_万古 id_由来" stroke-opacity="1.0" stroke="#f0cae5"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 222.112732,-49.097675 L 193.346878,-57.133453"
+              class="id_万古 id_西南" stroke-opacity="1.0" stroke="#f2e0ee"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -338.655823,132.081467 L -388.250641,-218.199890"
+              class="id_青云 id_白首" stroke-opacity="1.0" stroke="#f0cfe6"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -333.046021,133.944885 L -193.304108,-6.732455"
+              class="id_青云 id_诸侯" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M -331.251831,137.179428 L -237.179016,115.732147"
+              class="id_青云 id_从此" stroke-opacity="1.0" stroke="#efbedf"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -333.561737,133.483444 L -64.285858,-201.017944"
+              class="id_青云 id_闻道" stroke-opacity="1.0" stroke="#eeb4db"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 58.614830,-594.245667 L -62.456551,-397.237274"
+              class="id_冥冥 id_北斗" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.65483403"
+              d="M 57.413128,-595.176575 L -93.139572,-439.012939"
+              class="id_冥冥 id_巫山" stroke-opacity="1.0" stroke="#f2e8f2"/>
+        <path fill="none" stroke-width="0.7320801"
+              d="M -230.779510,310.298523 L -260.260071,-68.994934"
+              class="id_相见 id_多病" stroke-opacity="1.0" stroke="#dde4f6"/>
+        <path fill="none" stroke-width="0.682274"
+              d="M -219.005554,319.124115 L -141.127472,302.789124"
+              class="id_相见 id_道路" stroke-opacity="1.0" stroke="#e5ebf7"/>
+        <path fill="none" stroke-width="0.6660962"
+              d="M -241.043808,322.070251 L -359.481506,329.070251"
+              class="id_相见 id_往往" stroke-opacity="1.0" stroke="#eeeff7"/>
+        <path fill="none" stroke-width="0.6386608"
+              d="M -225.743927,311.075012 L -182.988586,205.128342"
+              class="id_相见 id_江海" stroke-opacity="1.0" stroke="#ebd9ed"/>
+        <path fill="none" stroke-width="0.6660962"
+              d="M -219.281326,318.069153 L 190.542221,189.222366"
+              class="id_相见 id_经过" stroke-opacity="1.0" stroke="#edf3f8"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -302.163635,397.231415 L -229.294739,502.855621"
+              class="id_茫茫 id_凄凉" stroke-opacity="0.99607843" stroke="#3342df"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M -309.976593,387.573029 L -361.169037,333.324005"
+              class="id_茫茫 id_往往" stroke-opacity="0.99607843" stroke="#acb1ee"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -302.309021,386.878784 L -183.979630,204.612778"
+              class="id_茫茫 id_江海" stroke-opacity="0.99607843" stroke="#aa9be4"/>
+        <path fill="none" stroke-width="0.72243917"
+              d="M -404.335052,-326.044739 L -268.899567,-441.712891"
+              class="id_公子 id_白发" stroke-opacity="1.0" stroke="#eca4d4"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M -406.043304,-318.257111 L -273.566956,-30.983387"
+              class="id_公子 id_平生" stroke-opacity="1.0" stroke="#edb2da"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M -324.481873,-98.631630 L -194.278214,-15.526180"
+              class="id_苍梧 id_诸侯" stroke-opacity="1.0" stroke="#d1a4dc"/>
+        <path fill="none" stroke-width="0.6183113"
+              d="M -332.697449,-104.320511 L -496.452087,-227.058563"
+              class="id_苍梧 id_江湖" stroke-opacity="1.0" stroke="#d5cced"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 348.779816,311.463318 L 477.463257,6.885182"
+              class="id_新诗 id_百年" stroke-opacity="1.0" stroke="#eca6d4"/>
+        <path fill="none" stroke-width="0.76885706"
+              d="M -312.591736,-192.522095 L -292.575500,-487.697174"
+              class="id_苍生 id_寂寞" stroke-opacity="1.0" stroke="#8792eb"/>
+        <path fill="none" stroke-width="0.9691782"
+              d="M -314.266937,-192.392593 L -330.011292,-262.138763"
+              class="id_苍生 id_衣冠" stroke-opacity="1.0" stroke="#e7c7e6"/>
+        <path fill="none" stroke-width="0.7602633"
+              d="M -310.187683,-191.818787 L -215.763901,-364.042419"
+              class="id_苍生 id_处处" stroke-opacity="1.0" stroke="#e9dcef"/>
+        <path fill="none" stroke-width="0.8469371"
+              d="M -318.098267,-189.495667 L -380.625061,-223.492416"
+              class="id_苍生 id_白首" stroke-opacity="1.0" stroke="#eaecf6"/>
+        <path fill="none" stroke-width="0.68327534"
+              d="M -168.126328,-273.735443 L -146.422150,-68.421158"
+              class="id_天地 id_主人" stroke-opacity="1.0" stroke="#ea96cd"/>
+        <path fill="none" stroke-width="0.75743765"
+              d="M -173.765915,-274.366180 L -201.102310,-194.053848"
+              class="id_天地 id_咫尺" stroke-opacity="1.0" stroke="#eb9cd0"/>
+        <path fill="none" stroke-width="0.640114"
+              d="M -156.374130,-288.086578 L -98.627625,-293.481415"
+              class="id_天地 id_人间" stroke-opacity="1.0" stroke="#eca7d5"/>
+        <path fill="none" stroke-width="0.70551354"
+              d="M -160.233398,-296.241486 L -70.601730,-386.860352"
+              class="id_天地 id_北斗" stroke-opacity="1.0" stroke="#e773be"/>
+        <path fill="none" stroke-width="1.0755701"
+              d="M 160.763657,50.216541 L 100.897629,-137.232712"
+              class="id_惆怅 id_富贵" stroke-opacity="1.0" stroke="#a651c2"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M 157.267975,52.845333 L -198.142883,-185.305008"
+              class="id_惆怅 id_咫尺" stroke-opacity="1.0" stroke="#afa5e7"/>
+        <path fill="none" stroke-width="0.87758005"
+              d="M 156.712311,53.854038 L 30.707798,-1.915269"
+              class="id_惆怅 id_日暮" stroke-opacity="1.0" stroke="#98a2ed"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 164.143860,50.042664 L 185.592056,-52.421272"
+              class="id_惆怅 id_西南" stroke-opacity="1.0" stroke="#afa7e8"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 99.102005,-146.988159 L 86.769852,-371.309906"
+              class="id_富贵 id_蓬莱" stroke-opacity="1.0" stroke="#e34bac"/>
+        <path fill="none" stroke-width="0.9909174"
+              d="M 94.541550,-140.721481 L -11.763317,-112.705498"
+              class="id_富贵 id_三年" stroke-opacity="1.0" stroke="#e985c6"/>
+        <path fill="none" stroke-width="0.8177508"
+              d="M 104.201866,-143.305466 L 309.267883,-198.967239"
+              class="id_富贵 id_丹青" stroke-opacity="1.0" stroke="#e55fb5"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 101.022057,-146.717148 L 139.437210,-256.936066"
+              class="id_富贵 id_终日" stroke-opacity="1.0" stroke="#ea8dca"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 101.723892,-146.410400 L 195.010193,-321.849609"
+              class="id_富贵 id_生涯" stroke-opacity="1.0" stroke="#dc83c9"/>
+        <path fill="none" stroke-width="0.98506224"
+              d="M 102.708389,-145.723740 L 248.468887,-308.812714"
+              class="id_富贵 id_远游" stroke-opacity="1.0" stroke="#e986c6"/>
+        <path fill="none" stroke-width="0.7364552"
+              d="M 97.137772,-146.466522 L -37.660748,-415.668518"
+              class="id_富贵 id_柴门" stroke-opacity="1.0" stroke="#ea8bc9"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 99.669212,-146.987122 L 120.432869,-501.014832"
+              class="id_富贵 id_可怜" stroke-opacity="1.0" stroke="#e76fbc"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 82.093552,-372.890594 L -50.579071,-217.547318"
+              class="id_蓬莱 id_闻道" stroke-opacity="1.0" stroke="#eb95cd"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 89.764786,-372.212524 L 183.148392,-213.021805"
+              class="id_蓬莱 id_别离" stroke-opacity="1.0" stroke="#7e4acb"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M 80.226891,-375.508820 L 8.029588,-347.108887"
+              class="id_蓬莱 id_春草" stroke-opacity="1.0" stroke="#ea8fcb"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 90.825615,-382.893280 L 131.773468,-428.786499"
+              class="id_蓬莱 id_他日" stroke-opacity="1.0" stroke="#ea93cc"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 86.777596,-384.568146 L 96.145508,-551.412903"
+              class="id_蓬莱 id_佳人" stroke-opacity="1.0" stroke="#e87ac1"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 88.092743,-384.360596 L 118.813614,-501.272461"
+              class="id_蓬莱 id_可怜" stroke-opacity="1.0" stroke="#ea92cc"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 91.878624,-374.180939 L 130.343719,-347.768158"
+              class="id_蓬莱 id_孤城" stroke-opacity="1.0" stroke="#c890d5"/>
+        <path fill="none" stroke-width="0.8975227"
+              d="M -360.459167,326.274078 L -185.568512,203.082916"
+              class="id_往往 id_江海" stroke-opacity="1.0" stroke="#f1dbec"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M -103.836258,-32.107414 L 189.820831,273.381958"
+              class="id_骑马 id_相逢" stroke-opacity="1.0" stroke="#eeb7dc"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -112.467453,-41.092377 L -326.488190,-264.033813"
+              class="id_骑马 id_衣冠" stroke-opacity="1.0" stroke="#eca3d4"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -106.777153,-42.674053 L -46.006264,-310.963318"
+              class="id_骑马 id_他乡" stroke-opacity="1.0" stroke="#d0aee1"/>
+        <path fill="none" stroke-width="0.8121805"
+              d="M -49.550907,91.680077 L -221.697906,113.015213"
+              class="id_游子 id_从此" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.87758005"
+              d="M -34.791603,85.590385 L 82.153938,-5.047176"
+              class="id_游子 id_岁月" stroke-opacity="1.0" stroke="#f1dded"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -44.642059,98.251343 L -129.718109,293.500122"
+              class="id_游子 id_道路" stroke-opacity="1.0" stroke="#e9dcef"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -40.452995,82.430283 L -20.650745,-102.364182"
+              class="id_游子 id_三年" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -37.223007,83.476608 L 194.807159,-321.961670"
+              class="id_游子 id_生涯" stroke-opacity="1.0" stroke="#e4d7ee"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -36.279663,84.105972 L 182.281830,-199.325195"
+              class="id_游子 id_别离" stroke-opacity="1.0" stroke="#837be1"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M -48.440006,86.412537 L -132.829620,35.940895"
+              class="id_游子 id_出入" stroke-opacity="1.0" stroke="#eca4d4"/>
+        <path fill="none" stroke-width="0.8489177"
+              d="M -223.497345,-309.591675 L 81.468124,-305.828461"
+              class="id_青春 id_圣朝" stroke-opacity="1.0" stroke="#e455b1"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -231.579895,-316.154053 L -258.800262,-438.339386"
+              class="id_青春 id_白发" stroke-opacity="1.0" stroke="#eca5d4"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M -229.388565,-316.270691 L -213.686356,-454.830750"
+              class="id_青春 id_春色" stroke-opacity="1.0" stroke="#e87cc2"/>
+        <path fill="none" stroke-width="0.6923871"
+              d="M -251.490265,-444.501984 L 81.872139,-307.814087"
+              class="id_白发 id_圣朝" stroke-opacity="1.0" stroke="#e981c5"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M -252.311859,-453.931824 L -2.920781,-611.309692"
+              class="id_白发 id_此身" stroke-opacity="1.0" stroke="#f2e4f0"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M -265.518066,-439.110687 L -406.564392,-145.492142"
+              class="id_白发 id_苍茫" stroke-opacity="1.0" stroke="#c2b7ea"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M -269.199127,-442.080414 L -450.057617,-301.447327"
+              class="id_白发 id_长沙" stroke-opacity="1.0" stroke="#ecdff0"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 88.843819,-310.801575 L 134.276108,-427.251282"
+              class="id_圣朝 id_他日" stroke-opacity="1.0" stroke="#e775bf"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M 90.713921,-301.947449 L 181.466431,-211.718048"
+              class="id_圣朝 id_别离" stroke-opacity="1.0" stroke="#7b2cbe"/>
+        <path fill="none" stroke-width="0.73482245"
+              d="M 87.462563,-300.383606 L 113.651161,-59.628609"
+              class="id_圣朝 id_天下" stroke-opacity="1.0" stroke="#e559b3"/>
+        <path fill="none" stroke-width="0.8619103"
+              d="M 92.172943,-304.654846 L 328.604340,-255.235336"
+              class="id_圣朝 id_将军" stroke-opacity="1.0" stroke="#e986c7"/>
+        <path fill="none" stroke-width="0.8271637"
+              d="M 85.297905,-300.587646 L 40.602798,-154.190002"
+              class="id_圣朝 id_沧海" stroke-opacity="1.0" stroke="#e986c7"/>
+        <path fill="none" stroke-width="0.6923871"
+              d="M 82.343552,-302.810577 L -252.404587,-84.925743"
+              class="id_圣朝 id_多病" stroke-opacity="1.0" stroke="#da86cb"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M -403.418152,-141.574127 L -208.643723,-187.216782"
+              class="id_苍茫 id_咫尺" stroke-opacity="1.0" stroke="#c2b7ea"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -403.333374,-141.138153 L -256.055359,-163.977051"
+              class="id_苍茫 id_波涛" stroke-opacity="1.0" stroke="#c4c8f1"/>
+        <path fill="none" stroke-width="0.6134574"
+              d="M -404.261017,-143.502792 L -369.702423,-166.835083"
+              class="id_苍茫 id_乾坤" stroke-opacity="1.0" stroke="#bb6cc9"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -404.650116,-136.477203 L -277.251770,-28.186871"
+              class="id_苍茫 id_平生" stroke-opacity="1.0" stroke="#c3c5f0"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -404.203064,-137.077423 L -369.470337,-114.528770"
+              class="id_苍茫 id_吾道" stroke-opacity="1.0" stroke="#c0a5e1"/>
+        <path fill="none" stroke-width="0.8469371"
+              d="M -403.703033,-138.030396 L -270.610260,-83.224281"
+              class="id_苍茫 id_多病" stroke-opacity="1.0" stroke="#b3bcf0"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -406.092133,-145.237869 L -335.488800,-263.017120"
+              class="id_苍茫 id_衣冠" stroke-opacity="1.0" stroke="#c0a3e1"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -405.998108,-135.312393 L -137.415359,294.070923"
+              class="id_苍茫 id_道路" stroke-opacity="1.0" stroke="#bbc3f1"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 5.504184,-609.768372 L 132.301498,-441.574402"
+              class="id_此身 id_他日" stroke-opacity="1.0" stroke="#f0d8eb"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 6.360861,-610.560730 L 114.715332,-514.762817"
+              class="id_此身 id_可怜" stroke-opacity="1.0" stroke="#f0d7ea"/>
+        <path fill="none" stroke-width="1.0076344"
+              d="M -200.619888,-183.223846 L -149.397476,-67.625786"
+              class="id_咫尺 id_主人" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -208.163269,-185.903198 L -242.808136,-168.256683"
+              class="id_咫尺 id_波涛" stroke-opacity="1.0" stroke="#f2e1ef"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -208.318344,-190.856369 L -449.258423,-295.148743"
+              class="id_咫尺 id_长沙" stroke-opacity="1.0" stroke="#ecdff0"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -198.779526,-192.575119 L 24.479412,-406.927551"
+              class="id_咫尺 id_江水" stroke-opacity="1.0" stroke="#f2e5f0"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -198.748993,-192.543076 L -126.955925,-260.430450"
+              class="id_咫尺 id_儿童" stroke-opacity="1.0" stroke="#efc4e2"/>
+        <path fill="none" stroke-width="0.9487574"
+              d="M -201.369141,-182.951569 L -141.757568,24.339582"
+              class="id_咫尺 id_出入" stroke-opacity="1.0" stroke="#eca5d4"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M -244.171478,-160.007065 L -152.298950,-65.663620"
+              class="id_波涛 id_主人" stroke-opacity="1.0" stroke="#f1dbec"/>
+        <path fill="none" stroke-width="0.8271637"
+              d="M -253.335236,-170.684372 L -404.125305,-370.531097"
+              class="id_波涛 id_白雪" stroke-opacity="1.0" stroke="#efc3e1"/>
+        <path fill="none" stroke-width="0.72936934"
+              d="M -242.053421,-164.626526 L 31.508469,-147.878784"
+              class="id_波涛 id_沧海" stroke-opacity="1.0" stroke="#f3e6f1"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M -146.830505,-48.746761 L -173.283630,130.122101"
+              class="id_主人 id_清晨" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M -142.765076,-68.125320 L -28.307018,-486.973053"
+              class="id_主人 id_凤凰" stroke-opacity="1.0" stroke="#eb9cd0"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 286.844055,-293.543793 L 241.917770,-127.264107"
+              class="id_光辉 id_忆昔" stroke-opacity="1.0" stroke="#e989c8"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 281.973602,-299.251892 L 30.259844,-272.509552"
+              class="id_光辉 id_由来" stroke-opacity="1.0" stroke="#e771bd"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 283.622131,-304.373932 L 143.461914,-429.451630"
+              class="id_光辉 id_他日" stroke-opacity="1.0" stroke="#e879c1"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M -222.172073,111.133919 L 81.212814,-6.710435"
+              class="id_从此 id_岁月" stroke-opacity="1.0" stroke="#f2dded"/>
+        <path fill="none" stroke-width="0.6504394"
+              d="M -223.695221,108.678146 L -145.394623,37.206841"
+              class="id_从此 id_出入" stroke-opacity="1.0" stroke="#eca4d4"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M -227.058044,106.504982 L -190.530121,-5.034485"
+              class="id_从此 id_诸侯" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.7793788"
+              d="M -452.907928,-72.498009 L -493.058472,120.691017"
+              class="id_扁舟 id_南国" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.6886703"
+              d="M -447.407532,-86.107780 L -335.636353,-263.107880"
+              class="id_扁舟 id_衣冠" stroke-opacity="1.0" stroke="#f0c7e3"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M 277.682007,-229.685562 L 310.510712,-205.673965"
+              class="id_淹留 id_丹青" stroke-opacity="1.0" stroke="#edabd7"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 267.164734,-237.785110 L 144.256699,-337.379883"
+              class="id_淹留 id_孤城" stroke-opacity="1.0" stroke="#ccb9e7"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 265.760773,-234.613358 L 30.220005,-270.799957"
+              class="id_淹留 id_由来" stroke-opacity="1.0" stroke="#eeb4db"/>
+        <path fill="none" stroke-width="1.0755701"
+              d="M 270.652496,-240.030884 L 253.058929,-307.701599"
+              class="id_淹留 id_远游" stroke-opacity="1.0" stroke="#f0d1e8"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M 266.183929,-236.133270 L 7.992686,-342.456421"
+              class="id_淹留 id_春草" stroke-opacity="1.0" stroke="#eeb8dd"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 268.245087,-238.844498 L 203.093582,-322.549316"
+              class="id_淹留 id_生涯" stroke-opacity="1.0" stroke="#e4cfeb"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -552.184753,-29.049650 L -396.223083,-220.419861"
+              class="id_江流 id_白首" stroke-opacity="1.0" stroke="#f4f3f6"/>
+        <path fill="none" stroke-width="0.8593681"
+              d="M -551.491089,-19.409931 L -412.818695,108.056366"
+              class="id_江流 id_老病" stroke-opacity="1.0" stroke="#e6eaf6"/>
+        <path fill="none" stroke-width="0.6504394"
+              d="M -89.731079,-286.416473 L -47.437664,24.144722"
+              class="id_人间 id_宾客" stroke-opacity="1.0" stroke="#f0cee6"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M -85.164581,-299.712524 L 24.522310,-406.883240"
+              class="id_人间 id_江水" stroke-opacity="1.0" stroke="#f3f0f5"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M -85.590332,-288.309753 L 33.883858,-152.736664"
+              class="id_人间 id_沧海" stroke-opacity="1.0" stroke="#f2e0ee"/>
+        <path fill="none" stroke-width="0.6427663"
+              d="M -303.155457,-446.752777 L -349.706512,-197.307526"
+              class="id_丹砂 id_乾坤" stroke-opacity="1.0" stroke="#e76ebc"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M -301.020660,-457.358643 L -294.410522,-487.956238"
+              class="id_丹砂 id_寂寞" stroke-opacity="1.0" stroke="#8d6fd8"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M -297.060608,-450.273163 L -3.643058,-346.898499"
+              class="id_丹砂 id_春草" stroke-opacity="1.0" stroke="#eda9d6"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M -402.669708,-377.503723 L -350.098602,-407.103455"
+              class="id_白雪 id_万国" stroke-opacity="1.0" stroke="#e665b8"/>
+        <path fill="none" stroke-width="0.6134574"
+              d="M -384.502106,-219.500381 L -274.472931,-30.512119"
+              class="id_白首 id_平生" stroke-opacity="1.0" stroke="#f3eff5"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M -379.798035,-231.366180 L -3.739231,-343.054901"
+              class="id_白首 id_春草" stroke-opacity="1.0" stroke="#f1d1e8"/>
+        <path fill="none" stroke-width="0.7500343"
+              d="M -381.262054,-234.383240 L -337.746735,-265.112091"
+              class="id_白首 id_衣冠" stroke-opacity="1.0" stroke="#f0cde6"/>
+        <path fill="none" stroke-width="0.7296135"
+              d="M -381.641357,-234.886993 L -218.119720,-366.019440"
+              class="id_白首 id_处处" stroke-opacity="1.0" stroke="#f2e1ef"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -380.475494,-233.073502 L -71.861847,-388.592896"
+              class="id_白首 id_北斗" stroke-opacity="1.0" stroke="#eeb9dd"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M -283.397522,-302.188660 L -13.837439,42.347271"
+              class="id_朝廷 id_尚书" stroke-opacity="1.0" stroke="#eca8d5"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M -289.703583,-299.569763 L -248.101807,35.993393"
+              class="id_朝廷 id_洛阳" stroke-opacity="1.0" stroke="#ea93cc"/>
+        <path fill="none" stroke-width="0.6493502"
+              d="M -283.031738,-322.033112 L -55.377838,-591.892395"
+              class="id_朝廷 id_沧浪" stroke-opacity="1.0" stroke="#edb4db"/>
+        <path fill="none" stroke-width="0.83027023"
+              d="M -279.940338,-306.344299 L -94.571396,-209.621719"
+              class="id_朝廷 id_烟尘" stroke-opacity="1.0" stroke="#f0cce5"/>
+        <path fill="none" stroke-width="0.7471726"
+              d="M -285.380920,-323.605988 L -216.714157,-455.754211"
+              class="id_朝廷 id_春色" stroke-opacity="1.0" stroke="#eb96cd"/>
+        <path fill="none" stroke-width="0.87008727"
+              d="M -177.974121,194.649979 L -61.607136,-13.816069"
+              class="id_江海 id_浮生" stroke-opacity="1.0" stroke="#efc1e0"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -180.207138,193.943268 L -174.841064,142.480499"
+              class="id_江海 id_清晨" stroke-opacity="1.0" stroke="#eb9acf"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -178.130066,194.566010 L -23.581944,-103.247574"
+              class="id_江海 id_三年" stroke-opacity="1.0" stroke="#f0d3e8"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M -175.042633,198.958130 L -15.359138,177.546799"
+              class="id_江海 id_白马" stroke-opacity="1.0" stroke="#eeb6db"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M -182.969406,194.327057 L -265.087372,-11.260880"
+              class="id_江海 id_平生" stroke-opacity="1.0" stroke="#f1d8eb"/>
+        <path fill="none" stroke-width="0.7602633"
+              d="M -177.171814,195.189835 L -51.296013,38.082523"
+              class="id_江海 id_宾客" stroke-opacity="1.0" stroke="#eebddf"/>
+        <path fill="none" stroke-width="0.76650727"
+              d="M -54.823330,-599.941833 L -75.348717,-632.447998"
+              class="id_沧浪 id_为客" stroke-opacity="1.0" stroke="#e0c9e9"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M -48.076603,-592.819946 L 204.368683,-413.622345"
+              class="id_沧浪 id_草堂" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -194.496674,-114.604797 L 233.547363,-120.759140"
+              class="id_潇湘 id_忆昔" stroke-opacity="1.0" stroke="#b1aae9"/>
+        <path fill="none" stroke-width="0.91290796"
+              d="M -207.066055,-110.120506 L -421.903442,60.434528"
+              class="id_潇湘 id_洞庭" stroke-opacity="1.0" stroke="#b2b9ef"/>
+        <path fill="none" stroke-width="0.7744902"
+              d="M -204.616608,-120.848289 L -341.956024,-404.552734"
+              class="id_潇湘 id_万国" stroke-opacity="1.0" stroke="#a959c5"/>
+        <path fill="none" stroke-width="0.7350252"
+              d="M -338.696350,-408.394104 L -219.527115,-373.172607"
+              class="id_万国 id_处处" stroke-opacity="1.0" stroke="#e983c5"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -349.194702,-414.441986 L -463.982483,-523.086670"
+              class="id_万国 id_草木" stroke-opacity="1.0" stroke="#e985c6"/>
+        <path fill="none" stroke-width="0.84484917"
+              d="M -170.477173,131.286133 L -62.243813,-14.228050"
+              class="id_清晨 id_浮生" stroke-opacity="1.0" stroke="#eb96ce"/>
+        <path fill="none" stroke-width="0.819611"
+              d="M -366.970703,-116.738403 L -452.249969,-292.021637"
+              class="id_吾道 id_长沙" stroke-opacity="1.0" stroke="#eacde7"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -358.989410,-114.480652 L -127.829514,-261.551331"
+              class="id_吾道 id_儿童" stroke-opacity="1.0" stroke="#edb2da"/>
+        <path fill="none" stroke-width="0.8214823"
+              d="M -56.967194,-24.430861 L 21.600281,-265.495605"
+              class="id_浮生 id_由来" stroke-opacity="1.0" stroke="#eeb3da"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -56.289879,-24.162130 L 133.756226,-427.474854"
+              class="id_浮生 id_他日" stroke-opacity="1.0" stroke="#eebbde"/>
+        <path fill="none" stroke-width="1.1432104"
+              d="M 23.220182,-414.882507 L -142.471008,-495.138062"
+              class="id_江水 id_东流" stroke-opacity="1.0" stroke="#f4f8f8"/>
+        <path fill="none" stroke-width="0.9389933"
+              d="M 33.697842,-406.099518 L 236.292831,-126.232689"
+              class="id_江水 id_忆昔" stroke-opacity="1.0" stroke="#f2e8f2"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M 32.522911,-418.207855 L 94.327278,-551.866699"
+              class="id_江水 id_佳人" stroke-opacity="1.0" stroke="#eebfe0"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 34.384861,-416.952881 L 115.256256,-503.238953"
+              class="id_江水 id_可怜" stroke-opacity="1.0" stroke="#f1d8ea"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 244.164246,-126.170097 L 332.680969,-244.441711"
+              class="id_忆昔 id_将军" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.8489177"
+              d="M 234.665161,-117.166626 L -6.005429,43.602997"
+              class="id_忆昔 id_尚书" stroke-opacity="1.0" stroke="#eebddf"/>
+        <path fill="none" stroke-width="0.8489177"
+              d="M 233.886124,-118.758812 L -242.302979,39.654457"
+              class="id_忆昔 id_洛阳" stroke-opacity="1.0" stroke="#eca8d6"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M -142.050827,-496.311951 L -115.018768,-489.799500"
+              class="id_东流 id_故园" stroke-opacity="1.0" stroke="#f3f7f8"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -8.651974,169.566345 L -19.440430,-102.323563"
+              class="id_白马 id_三年" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.8271637"
+              d="M -8.488044,169.561752 L -10.415216,52.017113"
+              class="id_白马 id_尚书" stroke-opacity="1.0" stroke="#eca5d4"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M -10.163490,169.792130 L -44.376595,39.552242"
+              class="id_白马 id_宾客" stroke-opacity="1.0" stroke="#edaed8"/>
+        <path fill="none" stroke-width="0.6134227"
+              d="M 382.792603,-106.565910 L 358.191101,231.721451"
+              class="id_文章 id_万事" stroke-opacity="1.0" stroke="#e88dca"/>
+        <path fill="none" stroke-width="0.70152724"
+              d="M 376.633301,-126.385612 L 321.780457,-194.886261"
+              class="id_文章 id_丹青" stroke-opacity="1.0" stroke="#e55eb5"/>
+        <path fill="none" stroke-width="0.682274"
+              d="M 373.433136,-122.253403 L 194.888519,-202.487686"
+              class="id_文章 id_别离" stroke-opacity="1.0" stroke="#7b26bb"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 360.589417,232.395294 L 476.785461,6.568190"
+              class="id_万事 id_百年" stroke-opacity="1.0" stroke="#f0e4f1"/>
+        <path fill="none" stroke-width="0.73482245"
+              d="M 102.950645,-35.531479 L -6.121930,43.435520"
+              class="id_天下 id_尚书" stroke-opacity="1.0" stroke="#ea91cb"/>
+        <path fill="none" stroke-width="0.6535894"
+              d="M 130.244949,-47.485573 L 180.443985,-57.607460"
+              class="id_天下 id_西南" stroke-opacity="1.0" stroke="#edaad6"/>
+        <path fill="none" stroke-width="0.7887062"
+              d="M 105.856102,-32.503262 L 91.514267,-14.326626"
+              class="id_天下 id_岁月" stroke-opacity="1.0" stroke="#eeb5db"/>
+        <path fill="none" stroke-width="0.6303499"
+              d="M 106.188538,-56.695938 L 42.757225,-141.796158"
+              class="id_天下 id_沧海" stroke-opacity="1.0" stroke="#edadd8"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 119.030716,-517.340149 L 49.192158,-815.694214"
+              class="id_可怜 id_不是" stroke-opacity="1.0" stroke="#efc7e3"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M 121.634132,-501.031708 L 141.445328,-273.001160"
+              class="id_可怜 id_终日" stroke-opacity="1.0" stroke="#f1d5e9"/>
+        <path fill="none" stroke-width="0.9909174"
+              d="M 117.099854,-516.625183 L 98.731560,-551.968445"
+              class="id_可怜 id_佳人" stroke-opacity="1.0" stroke="#eb9ed1"/>
+        <path fill="none" stroke-width="0.74224085"
+              d="M 115.235817,-515.300476 L -58.815536,-699.748474"
+              class="id_可怜 id_桃花" stroke-opacity="1.0" stroke="#ea94cd"/>
+        <path fill="none" stroke-width="0.65153235"
+              d="M 124.181915,-501.671387 L 195.570969,-335.290161"
+              class="id_可怜 id_生涯" stroke-opacity="1.0" stroke="#e3cbe9"/>
+        <path fill="none" stroke-width="0.7929273"
+              d="M 122.698227,-501.194397 L 135.504440,-443.048706"
+              class="id_可怜 id_他日" stroke-opacity="1.0" stroke="#eeb8dc"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M 113.272697,-506.102478 L -204.714539,-373.961884"
+              class="id_可怜 id_处处" stroke-opacity="1.0" stroke="#efc4e2"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M 112.675217,-508.504639 L -98.727989,-488.635193"
+              class="id_可怜 id_故园" stroke-opacity="1.0" stroke="#f0d7ea"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 128.380188,-505.695160 L 312.266663,-417.377808"
+              class="id_可怜 id_故国" stroke-opacity="1.0" stroke="#e5cce9"/>
+        <path fill="none" stroke-width="0.6322802"
+              d="M 122.896530,-517.317993 L 148.514465,-621.380432"
+              class="id_可怜 id_秋风" stroke-opacity="1.0" stroke="#ccb5e5"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M 35.528378,-141.076675 L -43.009045,24.829401"
+              class="id_沧海 id_宾客" stroke-opacity="1.0" stroke="#f0c7e4"/>
+        <path fill="none" stroke-width="0.68990433"
+              d="M 45.466549,-148.780640 L 309.135010,-199.540955"
+              class="id_沧海 id_丹青" stroke-opacity="1.0" stroke="#eeb8dd"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 35.771057,-153.928696 L -63.320610,-385.476837"
+              class="id_沧海 id_北斗" stroke-opacity="1.0" stroke="#edadd8"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 37.706619,-154.447235 L 24.446798,-265.215851"
+              class="id_沧海 id_由来" stroke-opacity="1.0" stroke="#efc1e1"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M 32.152988,-150.421219 L -85.605064,-205.199844"
+              class="id_沧海 id_烟尘" stroke-opacity="1.0" stroke="#f2e2ef"/>
+        <path fill="none" stroke-width="0.65483403"
+              d="M 34.157520,-152.965775 L -207.300812,-456.663086"
+              class="id_沧海 id_春色" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.76500744"
+              d="M -46.534412,-415.664673 L -118.202354,-272.227783"
+              class="id_柴门 id_儿童" stroke-opacity="1.0" stroke="#f1d3e9"/>
+        <path fill="none" stroke-width="0.7253334"
+              d="M -41.397675,-414.643829 L -20.356100,-118.853561"
+              class="id_柴门 id_三年" stroke-opacity="1.0" stroke="#f3e8f2"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M -42.834400,-434.427765 L -62.379559,-698.177368"
+              class="id_柴门 id_桃花" stroke-opacity="1.0" stroke="#edb0d9"/>
+        <path fill="none" stroke-width="0.92757475"
+              d="M 78.415268,184.445541 L 211.370926,28.901623"
+              class="id_裴回 id_往来" stroke-opacity="1.0" stroke="#dee4f6"/>
+        <path fill="none" stroke-width="0.63036275"
+              d="M 475.823700,-10.504557 L 213.464172,-404.254059"
+              class="id_百年 id_草堂" stroke-opacity="1.0" stroke="#f2dded"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M 491.151398,-3.582822 L 556.121033,-12.387544"
+              class="id_百年 id_蹉跎" stroke-opacity="1.0" stroke="#ebdff0"/>
+        <path fill="none" stroke-width="0.70640314"
+              d="M 473.063416,3.239363 L 200.208344,184.605148"
+              class="id_百年 id_经过" stroke-opacity="1.0" stroke="#f2e6f1"/>
+        <path fill="none" stroke-width="0.78674656"
+              d="M 477.680847,-11.475895 L 321.209747,-407.769348"
+              class="id_百年 id_故国" stroke-opacity="1.0" stroke="#e6dbef"/>
+        <path fill="none" stroke-width="0.98506224"
+              d="M 127.428459,-702.921265 L 97.460876,-561.296692"
+              class="id_使君 id_佳人" stroke-opacity="1.0" stroke="#edabd7"/>
+        <path fill="none" stroke-width="0.8593681"
+              d="M 88.387405,-15.680145 L 136.216232,-334.257690"
+              class="id_岁月 id_孤城" stroke-opacity="1.0" stroke="#cecef1"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M 80.959320,-7.509084 L -397.991241,111.835419"
+              class="id_岁月 id_老病" stroke-opacity="1.0" stroke="#e6e4f4"/>
+        <path fill="none" stroke-width="0.77287734"
+              d="M 89.423424,-2.790348 L 156.668503,207.552399"
+              class="id_岁月 id_霜雪" stroke-opacity="1.0" stroke="#f2e6f1"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 88.792336,-15.606453 L 140.427841,-256.658478"
+              class="id_岁月 id_终日" stroke-opacity="1.0" stroke="#f3eef5"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 90.408180,-15.033997 L 183.588394,-198.499832"
+              class="id_岁月 id_别离" stroke-opacity="1.0" stroke="#8488e7"/>
+        <path fill="none" stroke-width="0.6493502"
+              d="M -279.054321,-502.279144 L 91.476959,-555.691650"
+              class="id_寂寞 id_佳人" stroke-opacity="1.0" stroke="#8b62d3"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M -279.009094,-498.977753 L -12.484097,-467.984131"
+              class="id_寂寞 id_摇落" stroke-opacity="1.0" stroke="#7985e9"/>
+        <path fill="none" stroke-width="0.60400903"
+              d="M -274.156738,-30.689137 L -343.973022,-160.491440"
+              class="id_平生 id_乾坤" stroke-opacity="1.0" stroke="#ea93cd"/>
+        <path fill="none" stroke-width="0.7356985"
+              d="M -258.449890,-19.650103 L 340.513000,69.595177"
+              class="id_平生 id_怅望" stroke-opacity="1.0" stroke="#dddef4"/>
+        <path fill="none" stroke-width="0.6789677"
+              d="M -259.275909,-16.831705 L 190.768402,185.382614"
+              class="id_平生 id_经过" stroke-opacity="1.0" stroke="#f3f2f6"/>
+        <path fill="none" stroke-width="0.89153445"
+              d="M -336.804352,-167.066742 L -15.029707,43.644325"
+              class="id_乾坤 id_尚书" stroke-opacity="1.0" stroke="#e76fbc"/>
+        <path fill="none" stroke-width="0.64469373"
+              d="M -348.777863,-197.111023 L -333.372772,-262.156464"
+              class="id_乾坤 id_衣冠" stroke-opacity="1.0" stroke="#e771be"/>
+        <path fill="none" stroke-width="0.9172541"
+              d="M -114.084137,-265.876221 L 17.024458,-271.522461"
+              class="id_儿童 id_由来" stroke-opacity="1.0" stroke="#edb0d9"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M -119.709190,-258.323517 L -48.303299,24.312464"
+              class="id_儿童 id_宾客" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M -126.394012,-271.215607 L -206.856293,-364.970978"
+              class="id_儿童 id_处处" stroke-opacity="1.0" stroke="#efc4e2"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -11.822129,-58.144798 L -272.805756,-359.125854"
+              class="id_纵横 id_分明" stroke-opacity="1.0" stroke="#eebcde"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -11.658409,-47.975029 L -237.587921,230.187256"
+              class="id_纵横 id_青山" stroke-opacity="1.0" stroke="#f1d8eb"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M -1.431652,-55.883327 L 309.702393,-197.763672"
+              class="id_纵横 id_丹青" stroke-opacity="1.0" stroke="#edb0d9"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M -10.233748,-47.090679 L -43.103325,24.785532"
+              class="id_纵横 id_宾客" stroke-opacity="1.0" stroke="#efbfe0"/>
+        <path fill="none" stroke-width="0.6604148"
+              d="M -8.288956,-59.717575 L -79.087585,-631.111755"
+              class="id_纵横 id_为客" stroke-opacity="1.0" stroke="#e1d1ec"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M 44.123772,-823.655273 L -39.584236,-889.548523"
+              class="id_不是 id_江上" stroke-opacity="1.0" stroke="#f1dded"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M 527.028687,-236.779022 L 351.645477,64.249474"
+              class="id_春风 id_怅望" stroke-opacity="1.0" stroke="#dabbe4"/>
+        <path fill="none" stroke-width="0.69995487"
+              d="M 532.553894,-235.674438 L 561.468628,-19.398693"
+              class="id_春风 id_蹉跎" stroke-opacity="1.0" stroke="#e9c9e6"/>
+        <path fill="none" stroke-width="0.7526284"
+              d="M 523.375427,-247.611450 L -2.112481,-465.288879"
+              class="id_春风 id_摇落" stroke-opacity="1.0" stroke="#d9bae4"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M 149.939301,-261.916595 L 309.469574,-203.725037"
+              class="id_终日 id_丹青" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M 141.924774,-273.028839 L 137.522202,-426.688477"
+              class="id_终日 id_他日" stroke-opacity="1.0" stroke="#f1d6ea"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 134.976517,-268.865387 L 7.639276,-341.734436"
+              class="id_终日 id_春草" stroke-opacity="1.0" stroke="#f1d2e8"/>
+        <path fill="none" stroke-width="0.8177508"
+              d="M 271.740234,-152.604401 L -39.569412,27.993040"
+              class="id_感激 id_宾客" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="1.0101706"
+              d="M 279.386230,-158.851105 L 311.635376,-195.146210"
+              class="id_感激 id_丹青" stroke-opacity="1.0" stroke="#eeb6db"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 271.952515,-157.957001 L -60.471725,-387.804779"
+              class="id_感激 id_北斗" stroke-opacity="1.0" stroke="#edaad6"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 274.023010,-159.677338 L 201.558578,-321.626953"
+              class="id_感激 id_生涯" stroke-opacity="1.0" stroke="#e5daef"/>
+        <path fill="none" stroke-width="0.6504394"
+              d="M -54.244705,31.938257 L -131.713974,31.905294"
+              class="id_宾客 id_出入" stroke-opacity="1.0" stroke="#eb97ce"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M -44.931931,24.206366 L -21.287792,-102.457626"
+              class="id_宾客 id_三年" stroke-opacity="1.0" stroke="#f0cbe5"/>
+        <path fill="none" stroke-width="0.78769875"
+              d="M -39.092258,34.919533 L -15.511374,44.560680"
+              class="id_宾客 id_尚书" stroke-opacity="1.0" stroke="#edacd7"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M -207.307205,-364.611816 L -24.685841,-117.255928"
+              class="id_处处 id_三年" stroke-opacity="1.0" stroke="#f1d9eb"/>
+        <path fill="none" stroke-width="0.7350252"
+              d="M -211.234146,-378.775635 L -207.155136,-421.561005"
+              class="id_处处 id_关山" stroke-opacity="1.0" stroke="#dcd0ed"/>
+        <path fill="none" stroke-width="0.8121805"
+              d="M -206.722946,-376.796539 L -112.502220,-481.701355"
+              class="id_处处 id_故园" stroke-opacity="1.0" stroke="#f1e4f0"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M -204.137405,-370.311798 L 128.845627,-343.546082"
+              class="id_处处 id_孤城" stroke-opacity="1.0" stroke="#cdc2eb"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M -217.981354,-365.851685 L -325.965881,-274.240173"
+              class="id_处处 id_衣冠" stroke-opacity="1.0" stroke="#efbcdf"/>
+        <path fill="none" stroke-width="1.0684284"
+              d="M -200.453659,-428.975433 L -12.416752,-466.305817"
+              class="id_关山 id_摇落" stroke-opacity="1.0" stroke="#c6cef3"/>
+        <path fill="none" stroke-width="0.69995487"
+              d="M -200.515869,-426.269806 L 129.070770,-344.931671"
+              class="id_关山 id_孤城" stroke-opacity="1.0" stroke="#b8c1f1"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M -201.230255,-430.980896 L -114.058510,-483.583282"
+              class="id_关山 id_故园" stroke-opacity="1.0" stroke="#dce3f6"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -210.425491,-422.874146 L -327.030029,-275.267731"
+              class="id_关山 id_衣冠" stroke-opacity="1.0" stroke="#dabbe4"/>
+        <path fill="none" stroke-width="0.6397136"
+              d="M -209.128403,-422.085236 L -425.740601,57.443920"
+              class="id_关山 id_洞庭" stroke-opacity="1.0" stroke="#dde2f5"/>
+        <path fill="none" stroke-width="0.95881313"
+              d="M -10.822176,41.207542 L -19.281609,-102.331390"
+              class="id_尚书 id_三年" stroke-opacity="1.0" stroke="#efc2e1"/>
+        <path fill="none" stroke-width="0.83260137"
+              d="M -13.908833,-116.443733 L 193.232452,-323.166504"
+              class="id_三年 id_生涯" stroke-opacity="1.0" stroke="#e5e0f2"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -21.964588,-102.613602 L -130.829178,293.107483"
+              class="id_三年 id_道路" stroke-opacity="1.0" stroke="#eae5f3"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -14.729198,-117.163879 L 205.741135,-404.511719"
+              class="id_三年 id_草堂" stroke-opacity="1.0" stroke="#f2e4f0"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -21.633060,-118.661766 L -105.105957,-479.794495"
+              class="id_三年 id_故园" stroke-opacity="1.0" stroke="#f2ecf4"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -26.909809,-106.407578 L -182.255661,-15.299739"
+              class="id_三年 id_诸侯" stroke-opacity="1.0" stroke="#eeb5db"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M -18.994469,-118.838150 L 1.649903,-338.626282"
+              class="id_三年 id_春草" stroke-opacity="1.0" stroke="#f0c9e4"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -17.615364,-118.589485 L 21.930748,-265.397308"
+              class="id_三年 id_由来" stroke-opacity="1.0" stroke="#efc5e2"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M -16.160904,-118.046967 L 133.677338,-427.512543"
+              class="id_三年 id_他日" stroke-opacity="1.0" stroke="#f0cde6"/>
+        <path fill="none" stroke-width="0.8177508"
+              d="M 52.838173,17.923113 L -131.734650,31.331800"
+              class="id_君王 id_出入" stroke-opacity="1.0" stroke="#ea90cb"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 59.708366,12.929087 L 195.702530,-321.525848"
+              class="id_君王 id_生涯" stroke-opacity="1.0" stroke="#e3c3e6"/>
+        <path fill="none" stroke-width="0.7350252"
+              d="M -143.112183,38.934898 L -238.721313,229.454971"
+              class="id_出入 id_青山" stroke-opacity="1.0" stroke="#edb0d9"/>
+        <path fill="none" stroke-width="0.7350252"
+              d="M -136.810608,24.537596 L 0.037797,-338.998383"
+              class="id_出入 id_春草" stroke-opacity="1.0" stroke="#eb95cd"/>
+        <path fill="none" stroke-width="0.71165836"
+              d="M -135.857437,24.970835 L 20.514357,-265.960022"
+              class="id_出入 id_由来" stroke-opacity="1.0" stroke="#ea91cb"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -252.504776,-85.076759 L 18.157616,-268.089203"
+              class="id_多病 id_由来" stroke-opacity="1.0" stroke="#e0c1e5"/>
+        <path fill="none" stroke-width="0.6163468"
+              d="M -254.112701,-86.933372 L -49.005898,-312.526154"
+              class="id_多病 id_他乡" stroke-opacity="1.0" stroke="#c3cbf3"/>
+        <path fill="none" stroke-width="0.9550102"
+              d="M -248.756500,46.608376 L -290.547516,212.667664"
+              class="id_洛阳 id_相望" stroke-opacity="1.0" stroke="#ec9fd2"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M -245.255371,46.312908 L -136.362457,293.513428"
+              class="id_洛阳 id_道路" stroke-opacity="1.0" stroke="#e5b0dc"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 341.942749,75.195595 L 163.984451,209.869904"
+              class="id_怅望 id_霜雪" stroke-opacity="1.0" stroke="#ddd9f2"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 347.044312,63.283581 L 317.754730,-193.210480"
+              class="id_怅望 id_丹青" stroke-opacity="1.0" stroke="#d9b3e1"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 342.081299,66.015839 L 192.123245,-54.755310"
+              class="id_怅望 id_西南" stroke-opacity="1.0" stroke="#dcd2ee"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M 354.836487,67.975769 L 556.493164,-10.953589"
+              class="id_怅望 id_蹉跎" stroke-opacity="1.0" stroke="#d6ddf5"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M -55.958977,-242.559875 L -86.658005,-210.898407"
+              class="id_今日 id_烟尘" stroke-opacity="1.0" stroke="#f2e0ee"/>
+        <path fill="none" stroke-width="0.6086087"
+              d="M -34.055897,-261.128967 L 251.630890,-458.927795"
+              class="id_今日 id_白露" stroke-opacity="1.0" stroke="#ede2f1"/>
+        <path fill="none" stroke-width="0.6734092"
+              d="M -31.994581,-256.697174 L 17.250303,-270.068390"
+              class="id_今日 id_由来" stroke-opacity="1.0" stroke="#efbfe0"/>
+        <path fill="none" stroke-width="0.87228453"
+              d="M -368.665863,369.344818 L -245.797897,239.546768"
+              class="id_昨夜 id_青山" stroke-opacity="1.0" stroke="#f3e7f1"/>
+        <path fill="none" stroke-width="0.7170027"
+              d="M 22.628748,-13.528927 L 2.615259,-338.610748"
+              class="id_日暮 id_春草" stroke-opacity="1.0" stroke="#d8bde6"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 22.301418,-13.502251 L -25.736954,-486.759766"
+              class="id_日暮 id_凤凰" stroke-opacity="1.0" stroke="#d59fd9"/>
+        <path fill="none" stroke-width="0.94221663"
+              d="M 8.440362,-344.310028 L 191.078964,-329.056305"
+              class="id_春草 id_生涯" stroke-opacity="1.0" stroke="#e3c8e8"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M 3.986352,-338.850983 L 21.788382,-278.178894"
+              class="id_春草 id_由来" stroke-opacity="1.0" stroke="#edadd8"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -270.710541,-364.644806 L -72.515427,-390.714844"
+              class="id_分明 id_北斗" stroke-opacity="1.0" stroke="#eb97ce"/>
+        <path fill="none" stroke-width="0.7744902"
+              d="M -240.202988,228.933029 L -189.821335,-4.842609"
+              class="id_青山 id_诸侯" stroke-opacity="1.0" stroke="#eeb7dc"/>
+        <path fill="none" stroke-width="0.78268045"
+              d="M -295.477966,214.164658 L -399.974792,119.760651"
+              class="id_相望 id_老病" stroke-opacity="1.0" stroke="#e4d2ec"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -125.093300,298.718292 L 152.329102,215.778198"
+              class="id_道路 id_霜雪" stroke-opacity="1.0" stroke="#eae5f3"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M -125.430260,304.384338 L 203.751541,447.185944"
+              class="id_道路 id_天涯" stroke-opacity="1.0" stroke="#eaeff8"/>
+        <path fill="none" stroke-width="0.84327424"
+              d="M -79.034714,-649.163635 L -48.279808,-886.000610"
+              class="id_为客 id_江上" stroke-opacity="1.0" stroke="#e2def2"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 98.469299,-551.841675 L 195.463608,-335.243103"
+              class="id_佳人 id_生涯" stroke-opacity="1.0" stroke="#e1b2de"/>
+        <path fill="none" stroke-width="0.7997283"
+              d="M 98.020241,-551.666077 L 134.645126,-442.810242"
+              class="id_佳人 id_他日" stroke-opacity="1.0" stroke="#eb9fd2"/>
+        <path fill="none" stroke-width="0.85721576"
+              d="M 91.971130,-554.134399 L -20.168467,-496.974182"
+              class="id_佳人 id_凤凰" stroke-opacity="1.0" stroke="#e87dc3"/>
+        <path fill="none" stroke-width="0.78268045"
+              d="M 97.370308,-551.495056 L 135.864944,-351.382019"
+              class="id_佳人 id_孤城" stroke-opacity="1.0" stroke="#c99cdb"/>
+        <path fill="none" stroke-width="0.6493502"
+              d="M 99.327309,-560.477051 L 144.150818,-623.382935"
+              class="id_佳人 id_秋风" stroke-opacity="1.0" stroke="#ca9ddb"/>
+        <path fill="none" stroke-width="0.72519296"
+              d="M -65.887787,-699.042175 L -208.112457,-470.837708"
+              class="id_桃花 id_春色" stroke-opacity="1.0" stroke="#e878c0"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -62.332359,-709.781189 L -47.835178,-885.953491"
+              class="id_桃花 id_江上" stroke-opacity="1.0" stroke="#ecaad7"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 180.800430,-61.416748 L -324.742340,-266.609467"
+              class="id_西南 id_衣冠" stroke-opacity="1.0" stroke="#efbedf"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M 181.297867,-62.399399 L -48.407669,-203.754669"
+              class="id_西南 id_闻道" stroke-opacity="1.0" stroke="#f0c8e4"/>
+        <path fill="none" stroke-width="0.8489177"
+              d="M 184.103043,-64.916634 L -4.788818,-462.472931"
+              class="id_西南 id_摇落" stroke-opacity="1.0" stroke="#dbd0ee"/>
+        <path fill="none" stroke-width="0.7087369"
+              d="M -498.604279,-246.156677 L -459.003571,-292.871490"
+              class="id_江湖 id_长沙" stroke-opacity="1.0" stroke="#ece2f1"/>
+        <path fill="none" stroke-width="0.6387957"
+              d="M -493.905029,-238.119553 L -338.977783,-268.002045"
+              class="id_江湖 id_衣冠" stroke-opacity="1.0" stroke="#efbfe0"/>
+        <path fill="none" stroke-width="0.8593681"
+              d="M 130.135056,-338.250305 L 29.290331,-275.322937"
+              class="id_孤城 id_由来" stroke-opacity="1.0" stroke="#cbaee2"/>
+        <path fill="none" stroke-width="0.615369"
+              d="M 144.321533,-337.460846 L 310.689606,-205.909164"
+              class="id_孤城 id_丹青" stroke-opacity="1.0" stroke="#caa5de"/>
+        <path fill="none" stroke-width="0.78268045"
+              d="M 145.904449,-340.622833 L 246.967865,-313.822357"
+              class="id_孤城 id_远游" stroke-opacity="1.0" stroke="#cecbef"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M 128.922211,-341.506317 L -324.284454,-270.568176"
+              class="id_孤城 id_衣冠" stroke-opacity="1.0" stroke="#cbade2"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M 145.961914,-340.852020 L 191.252960,-330.150665"
+              class="id_孤城 id_生涯" stroke-opacity="1.0" stroke="#c1c9f2"/>
+        <path fill="none" stroke-width="0.83686626"
+              d="M 205.659927,-326.303467 L 247.009415,-313.969910"
+              class="id_生涯 id_远游" stroke-opacity="1.0" stroke="#e5e1f3"/>
+        <path fill="none" stroke-width="0.6695548"
+              d="M 203.588593,-322.970490 L 311.506531,-206.793777"
+              class="id_生涯 id_丹青" stroke-opacity="1.0" stroke="#e2bbe2"/>
+        <path fill="none" stroke-width="0.9172541"
+              d="M 191.257050,-330.167877 L -59.474995,-390.038696"
+              class="id_生涯 id_北斗" stroke-opacity="1.0" stroke="#e1afdd"/>
+        <path fill="none" stroke-width="0.7307738"
+              d="M 191.415939,-326.137360 L 29.974020,-273.853729"
+              class="id_生涯 id_由来" stroke-opacity="1.0" stroke="#e3c4e6"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M -85.788689,-209.774231 L 17.881601,-268.534271"
+              class="id_烟尘 id_由来" stroke-opacity="1.0" stroke="#f0c9e4"/>
+        <path fill="none" stroke-width="0.7090198"
+              d="M -85.148651,-207.626251 L -68.268593,-208.700348"
+              class="id_烟尘 id_闻道" stroke-opacity="1.0" stroke="#f1d3e9"/>
+        <path fill="none" stroke-width="0.6493502"
+              d="M 158.194550,-622.858887 L 253.151794,-466.050903"
+              class="id_秋风 id_白露" stroke-opacity="1.0" stroke="#cad1f3"/>
+        <path fill="none" stroke-width="0.61406815"
+              d="M 141.594849,-625.797913 L -92.391174,-438.192902"
+              class="id_秋风 id_巫山" stroke-opacity="1.0" stroke="#cfd6f4"/>
+        <path fill="none" stroke-width="0.61929816"
+              d="M 142.747574,-624.541870 L -3.377458,-471.274719"
+              class="id_秋风 id_摇落" stroke-opacity="1.0" stroke="#b8c0f1"/>
+        <path fill="none" stroke-width="0.7541407"
+              d="M -448.902679,-296.234283 L -338.924957,-271.077911"
+              class="id_长沙 id_衣冠" stroke-opacity="1.0" stroke="#eacbe7"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -19.814602,-491.390076 L 129.493729,-437.762238"
+              class="id_凤凰 id_他日" stroke-opacity="1.0" stroke="#eb96ce"/>
+        <path fill="none" stroke-width="0.65483403"
+              d="M -31.849003,-489.242004 L -92.513855,-438.342468"
+              class="id_凤凰 id_巫山" stroke-opacity="1.0" stroke="#eeb6dc"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -33.479080,-493.256714 L -98.713890,-488.466736"
+              class="id_凤凰 id_故园" stroke-opacity="1.0" stroke="#edb5dc"/>
+        <path fill="none" stroke-width="0.66495174"
+              d="M -489.973816,122.433502 L -437.567993,73.875549"
+              class="id_南国 id_洞庭" stroke-opacity="1.0" stroke="#f0cce5"/>
+        <path fill="none" stroke-width="0.8177508"
+              d="M 254.320526,-308.222046 L 312.896515,-207.825134"
+              class="id_远游 id_丹青" stroke-opacity="1.0" stroke="#eebddf"/>
+        <path fill="none" stroke-width="0.8789698"
+              d="M 246.878647,-311.661926 L 30.193644,-272.975067"
+              class="id_远游 id_由来" stroke-opacity="1.0" stroke="#efc6e3"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M 312.070496,-207.270370 L 142.326111,-428.396820"
+              class="id_丹青 id_他日" stroke-opacity="1.0" stroke="#eca8d5"/>
+        <path fill="none" stroke-width="0.6324169"
+              d="M 308.998627,-201.323120 L 195.610138,-205.571136"
+              class="id_丹青 id_别离" stroke-opacity="1.0" stroke="#805fd4"/>
+        <path fill="none" stroke-width="0.8968333"
+              d="M 309.212830,-202.875015 L 30.111610,-270.250153"
+              class="id_丹青 id_由来" stroke-opacity="1.0" stroke="#eca0d2"/>
+        <path fill="none" stroke-width="0.9159996"
+              d="M -105.809967,-479.663544 L -100.387711,-441.360626"
+              class="id_故园 id_巫山" stroke-opacity="1.0" stroke="#f3f8f9"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M -102.686996,-480.776031 L 20.222488,-277.489746"
+              class="id_故园 id_由来" stroke-opacity="1.0" stroke="#efd0e7"/>
+        <path fill="none" stroke-width="0.7696762"
+              d="M -98.860802,-486.195618 L -12.409782,-468.447205"
+              class="id_故园 id_摇落" stroke-opacity="1.0" stroke="#dbe2f6"/>
+        <path fill="none" stroke-width="0.6537296"
+              d="M -575.836487,-80.549179 L -332.838898,13.473781"
+              class="id_江边 id_今朝" stroke-opacity="1.0" stroke="#f1dcec"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M -206.147568,-457.767426 L -49.552681,-321.791687"
+              class="id_春色 id_他乡" stroke-opacity="1.0" stroke="#ce9eda"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -184.037781,-17.320545 L 132.236908,-428.402344"
+              class="id_诸侯 id_他日" stroke-opacity="1.0" stroke="#eca0d2"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M -182.073898,-14.969944 L 179.982651,-202.080231"
+              class="id_诸侯 id_别离" stroke-opacity="1.0" stroke="#8057d1"/>
+        <path fill="none" stroke-width="0.7511233"
+              d="M -183.882446,-17.197512 L 19.462793,-266.661865"
+              class="id_诸侯 id_由来" stroke-opacity="1.0" stroke="#eb98ce"/>
+        <path fill="none" stroke-width="0.63448447"
+              d="M -325.550537,-273.702820 L -106.279106,-427.762939"
+              class="id_衣冠 id_巫山" stroke-opacity="1.0" stroke="#f0d0e7"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M -70.102905,-396.747040 L -93.712685,-425.997009"
+              class="id_北斗 id_巫山" stroke-opacity="1.0" stroke="#eebcde"/>
+        <path fill="none" stroke-width="0.6029274"
+              d="M -49.039394,-215.926254 L 18.393789,-267.761841"
+              class="id_闻道 id_由来" stroke-opacity="1.0" stroke="#eeb2da"/>
+        <path fill="none" stroke-width="0.9389933"
+              d="M 311.810028,-412.508881 L -38.124554,-319.150085"
+              class="id_故国 id_他乡" stroke-opacity="1.0" stroke="#c8cff3"/>
+        <path fill="none" stroke-width="0.7744902"
+              d="M 325.669861,-414.261261 L 361.706757,-413.930481"
+              class="id_故国 id_江城" stroke-opacity="1.0" stroke="#e7e3f3"/>
+        <path fill="none" stroke-width="0.67188185"
+              d="M 311.617004,-415.123077 L 145.510681,-434.027618"
+              class="id_故国 id_他日" stroke-opacity="1.0" stroke="#e5cde9"/>
+        <path fill="none" stroke-width="0.9406011"
+              d="M -91.036865,-435.814758 L -12.174428,-465.455933"
+              class="id_巫山 id_摇落" stroke-opacity="1.0" stroke="#dce3f6"/>
+        <path fill="none" stroke-width="0.676588"
+              d="M -93.898857,-425.850861 L 19.629793,-277.086121"
+              class="id_巫山 id_由来" stroke-opacity="1.0" stroke="#f0d1e7"/>
+        <path fill="none" stroke-width="0.61439437"
+              d="M 139.052216,-426.875885 L 185.570129,-213.968964"
+              class="id_他日 id_别离" stroke-opacity="1.0" stroke="#8270dc"/>
+        <path fill="none" stroke-width="0.6936359"
+              d="M 132.553848,-428.170258 L 27.452024,-277.256409"
+              class="id_他日 id_由来" stroke-opacity="1.0" stroke="#edb1d9"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M 361.870087,-412.455109 L -38.074516,-318.950104"
+              class="id_江城 id_他乡" stroke-opacity="1.0" stroke="#d3d0f0"/>
+        <path fill="none" stroke-width="0.7962442"
+              d="M -323.000397,10.970345 L -48.833336,-312.374634"
+              class="id_今朝 id_他乡" stroke-opacity="1.0" stroke="#d1bee8"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f0cde6" r="9.12459" cx="107.8613"
+                class="id_悠悠" cy="331.22144" stroke="#786673"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#f3ebf3" r="9.878689" cx="-74.20103"
+                class="id_几时" cy="433.88" stroke="#797579" stroke-opacity="1.0"
+                stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#df1796" r="4.6" cx="44.07763"
+                class="id_功名" cy="348.22638" stroke="#6f0b4b"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f1d0e7" r="5.3540983" cx="32.288418"
+                class="id_亦有" cy="463.92554" stroke="#786873"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#959fec" r="4.977049" cx="61.529457"
+                class="id_骨肉" cy="395.45914" stroke="#4a4f76"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f1d5e9" r="9.878689" cx="132.67068"
+                class="id_中原" cy="271.76556" stroke="#786a74"
+                stroke-opacity="1.0" stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#eca5d4" r="9.12459" cx="134.30826"
+                class="id_浮云" cy="382.1527" stroke="#76526a"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#eca0d2" r="5.731148" cx="205.64742"
+                class="id_男儿" cy="329.2231" stroke="#765069"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="5.731148" cx="-23.801498"
+                class="id_为我" cy="342.12088" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f3e9f2" r="18.55082" cx="-154.8651"
+                class="id_风尘" cy="-115.39352" stroke="#797479"
+                stroke-opacity="1.0" stroke-width="3.2262294"/>
+        <circle fill-opacity="1.0" fill="#eef4f9" r="12.8950815" cx="55.949207"
+                class="id_十年" cy="231.25345" stroke="#777a7c"
+                stroke-opacity="1.0" stroke-width="2.2426229"/>
+        <circle fill-opacity="1.0" fill="#f4f1f6" r="4.977049" cx="89.84911"
+                class="id_出门" cy="479.6354" stroke="#7a787b"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f1d0e7" r="6.4852457" cx="41.745712"
+                class="id_丈夫" cy="296.54114" stroke="#786873"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#eeb7dc" r="7.6163936" cx="345.92752"
+                class="id_壮士" cy="140.46913" stroke="#775b6e"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#b3bbf1" r="11.386886" cx="160.08087"
+                class="id_落日" cy="-9.855124" stroke="#595d78"
+                stroke-opacity="1.0" stroke-width="1.9803278"/>
+        <circle fill-opacity="1.0" fill="#dd008c" r="7.6163936" cx="178.72775"
+                class="id_英雄" cy="118.453026" stroke="#6e0046"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#727ee8" r="6.862295" cx="291.57422"
+                class="id_寂寥" cy="190.92569" stroke="#393f74"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f4f1f6" r="8.370491" cx="350.05658"
+                class="id_不敢" cy="200.85863" stroke="#7a787b"
+                stroke-opacity="1.0" stroke-width="1.4557376"/>
+        <circle fill-opacity="1.0" fill="#eeb4db" r="6.1081967" cx="228.41623"
+                class="id_不足" cy="79.365425" stroke="#775a6d"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#2f3edf" r="11.763933" cx="324.92572"
+                class="id_萧萧" cy="-44.4776" stroke="#171f6f"
+                stroke-opacity="1.0" stroke-width="2.0459015"/>
+        <circle fill-opacity="1.0" fill="#eeb7dc" r="7.9934425" cx="135.00589"
+                class="id_少年" cy="156.09407" stroke="#775b6e"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#f1d3e8" r="4.977049" cx="255.23352"
+                class="id_岂知" cy="218.86412" stroke="#786974"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#dfe5f7" r="6.862295" cx="273.13458"
+                class="id_古人" cy="103.366455" stroke="#6f727b"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f0cde6" r="5.3540983" cx="301.59467"
+                class="id_借问" cy="25.506721" stroke="#786673"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#bdc5f2" r="14.403278" cx="-502.0625"
+                class="id_巫峡" cy="-371.4547" stroke="#5e6279"
+                stroke-opacity="1.0" stroke-width="2.504918"/>
+        <circle fill-opacity="1.0" fill="#dfe6f7" r="6.1081967" cx="-642.8025"
+                class="id_北风" cy="106.64279" stroke="#6f737b"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#eca1d3" r="11.009835" cx="-737.22876"
+                class="id_蛟龙" cy="31.894026" stroke="#765069"
+                stroke-opacity="1.0" stroke-width="1.914754"/>
+        <circle fill-opacity="1.0" fill="#f4f6f8" r="5.731148" cx="-584.7018"
+                class="id_今年" cy="148.4641" stroke="#7a7b7c"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#cdd4f4" r="5.3540983" cx="-530.5388"
+                class="id_去年" cy="9.306679" stroke="#666a7a"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#ea90cb" r="9.878689" cx="-301.32803"
+                class="id_长安" cy="278.2871" stroke="#754865"
+                stroke-opacity="1.0" stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#e982c5" r="6.862295" cx="83.72656"
+                class="id_昆仑" cy="-220.79726" stroke="#744162"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#949eec" r="5.3540983" cx="-332.34225"
+                class="id_辛苦" cy="220.25296" stroke="#4a4f76"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f4eff5" r="5.3540983" cx="-88.85808"
+                class="id_岂无" cy="188.48335" stroke="#7a777a"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#919cec" r="6.862295" cx="-95.833916"
+                class="id_故乡" cy="337.95258" stroke="#484e76"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#eebbde" r="4.977049" cx="16.579777"
+                class="id_青冥" cy="105.26906" stroke="#775d6f"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#d2d9f5" r="20.813116" cx="109.66686"
+                class="id_回首" cy="-80.58355" stroke="#696c7a"
+                stroke-opacity="1.0" stroke-width="3.619672"/>
+        <circle fill-opacity="1.0" fill="#f1f6f9" r="6.4852457" cx="315.27017"
+                class="id_谁能" cy="-495.58432" stroke="#787b7c"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#3746e0" r="9.50164" cx="504.84042"
+                class="id_萧条" cy="-173.71765" stroke="#1b2370"
+                stroke-opacity="1.0" stroke-width="1.652459"/>
+        <circle fill-opacity="1.0" fill="#ecf1f8" r="11.009835" cx="-40.171402"
+                class="id_风吹" cy="216.12468" stroke="#76787c"
+                stroke-opacity="1.0" stroke-width="1.914754"/>
+        <circle fill-opacity="1.0" fill="#f0c7e3" r="8.74754" cx="-150.2063"
+                class="id_有馀" cy="-172.82921" stroke="#786371"
+                stroke-opacity="1.0" stroke-width="1.5213113"/>
+        <circle fill-opacity="1.0" fill="#e5eaf7" r="4.6" cx="-291.24414"
+                class="id_不易" cy="-65.51795" stroke="#72757b"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#eda7d5" r="12.140984" cx="-70.58145"
+                class="id_颜色" cy="142.53844" stroke="#76536a"
+                stroke-opacity="1.0" stroke-width="2.1114752"/>
+        <circle fill-opacity="1.0" fill="#f1d7ea" r="7.2393446" cx="209.90225"
+                class="id_衣裳" cy="-821.10596" stroke="#786b75"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#e4eaf7" r="10.255737" cx="101.09656"
+                class="id_至今" cy="37.81548" stroke="#72757b"
+                stroke-opacity="1.0" stroke-width="1.7836065"/>
+        <circle fill-opacity="1.0" fill="#f2e2ef" r="4.6" cx="-508.17834"
+                class="id_此时" cy="-156.85301" stroke="#797177"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c7cff3" r="6.1081967" cx="244.12204"
+                class="id_漠漠" cy="-198.61739" stroke="#636779"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#cdd4f4" r="15.534427" cx="268.61417"
+                class="id_故人" cy="429.55923" stroke="#666a7a"
+                stroke-opacity="1.0" stroke-width="2.7016394"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="4.6" cx="-287.15552"
+                class="id_从来" cy="-140.5685" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f3f8f9" r="4.6" cx="-219.7859"
+                class="id_不肯" cy="-240.63203" stroke="#797c7c"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e65fb5" r="6.4852457" cx="-104.40753"
+                class="id_欢娱" cy="-350.2009" stroke="#732f5a"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#f1d4e9" r="6.4852457" cx="-56.582355"
+                class="id_纷纷" cy="-1024.8944" stroke="#786a74"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#efc3e1" r="5.3540983" cx="379.81433"
+                class="id_四十" cy="-212.20808" stroke="#776170"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f4f9f9" r="5.3540983" cx="-111.6499"
+                class="id_东西" cy="-133.31274" stroke="#7a7c7c"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f3ecf4" r="5.731148" cx="-120.07671"
+                class="id_头白" cy="148.04854" stroke="#79767a"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f1f6f9" r="4.977049" cx="178.1926"
+                class="id_如今" cy="-389.51624" stroke="#787b7c"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f4f7f8" r="7.9934425" cx="144.86694"
+                class="id_归来" cy="-157.63086" stroke="#7a7b7c"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#f0cce5" r="4.6" cx="427.68286"
+                class="id_为君" cy="-53.522865" stroke="#786672"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e875bf" r="10.255737" cx="-292.55963"
+                class="id_天子" cy="10.282996" stroke="#743a5f"
+                stroke-opacity="1.0" stroke-width="1.7836065"/>
+        <circle fill-opacity="1.0" fill="#efc3e2" r="5.3540983" cx="452.4162"
+                class="id_当时" cy="-77.301765" stroke="#776171"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f3e5f0" r="8.74754" cx="386.95532"
+                class="id_千里" cy="-23.916882" stroke="#797278"
+                stroke-opacity="1.0" stroke-width="1.5213113"/>
+        <circle fill-opacity="1.0" fill="#f4f7f9" r="4.6" cx="690.37415"
+                class="id_风起" cy="-301.08856" stroke="#7a7b7c"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#bac2f2" r="4.977049" cx="-458.32635"
+                class="id_独立" cy="-216.14511" stroke="#5d6179"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f3e6f1" r="15.157377" cx="145.61958"
+                class="id_白头" cy="-550.76794" stroke="#797378"
+                stroke-opacity="1.0" stroke-width="2.6360657"/>
+        <circle fill-opacity="1.0" fill="#e87ac1" r="4.6" cx="519.8676"
+                class="id_四海" cy="-57.308674" stroke="#743d60"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#eeb7dc" r="11.009835" cx="-248.56265"
+                class="id_白日" cy="153.37262" stroke="#775b6e"
+                stroke-opacity="1.0" stroke-width="1.914754"/>
+        <circle fill-opacity="1.0" fill="#ced5f4" r="6.862295" cx="-176.60063"
+                class="id_风雨" cy="54.643295" stroke="#676a7a"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f4eff5" r="11.386886" cx="-255.78235"
+                class="id_消息" cy="-216.98143" stroke="#7a777a"
+                stroke-opacity="1.0" stroke-width="1.9803278"/>
+        <circle fill-opacity="1.0" fill="#eb94cd" r="7.9934425" cx="-297.32727"
+                class="id_黄金" cy="89.85751" stroke="#754a66"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#eff4f9" r="4.6" cx="-435.9945"
+                class="id_杜陵" cy="-374.62177" stroke="#777a7c"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f3ecf4" r="7.2393446" cx="229.69144"
+                class="id_万古" cy="-46.980556" stroke="#79767a"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#edacd7" r="6.1081967" cx="-337.72507"
+                class="id_青云" cy="138.65524" stroke="#76566b"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f1d8eb" r="6.4852457" cx="62.30565"
+                class="id_冥冥" cy="-600.2514" stroke="#786c75"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#e8eef8" r="10.255737" cx="-229.91568"
+                class="id_相见" cy="321.41254" stroke="#74777c"
+                stroke-opacity="1.0" stroke-width="1.7836065"/>
+        <circle fill-opacity="1.0" fill="#6571e6" r="5.731148" cx="-305.70114"
+                class="id_茫茫" cy="392.10376" stroke="#323873"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f3e8f2" r="5.3540983" cx="-781.77545"
+                class="id_何所" cy="143.40259" stroke="#797479"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#e878c1" r="4.6" cx="-408.13715"
+                class="id_公子" cy="-322.79758" stroke="#743c60"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#b9c1f1" r="4.6" cx="-328.69653"
+                class="id_苍梧" cy="-101.32173" stroke="#5c6078"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e878c0" r="6.1081967" cx="346.19586"
+                class="id_新诗" cy="317.5792" stroke="#743c60"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#e1e7f7" r="5.3540983" cx="-312.98547"
+                class="id_苍生" cy="-186.71576" stroke="#70737b"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#e667b9" r="12.140984" cx="-169.51364"
+                class="id_天地" cy="-286.85904" stroke="#73335c"
+                stroke-opacity="1.0" stroke-width="2.1114752"/>
+        <circle fill-opacity="1.0" fill="#6d7ae7" r="6.1081967" cx="162.78357"
+                class="id_惆怅" cy="56.541164" stroke="#363d73"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#e0289d" r="4.6" cx="99.376465"
+                class="id_富贵" cy="-141.9957" stroke="#70144e"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e76ebc" r="6.1081967" cx="86.4054"
+                class="id_蓬莱" cy="-377.93924" stroke="#73375e"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f4f1f6" r="4.977049" cx="-364.88193"
+                class="id_往往" cy="329.38943" stroke="#7a787b"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#ec9fd2" r="5.731148" cx="-108.15335"
+                class="id_骑马" cy="-36.598457" stroke="#764f69"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f0d0e7" r="7.6163936" cx="-41.335075"
+                class="id_游子" cy="90.66184" stroke="#786873"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#e879c1" r="6.1081967" cx="-230.13618"
+                class="id_青春" cy="-309.67358" stroke="#743c60"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="9.50164" cx="-261.04605"
+                class="id_白发" cy="-448.42014" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="1.652459"/>
+        <circle fill-opacity="1.0" fill="#e132a2" r="4.977049" cx="86.87755"
+                class="id_圣朝" cy="-305.76172" stroke="#701951"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#949eec" r="5.3540983" cx="-409.08432"
+                class="id_苍茫" cy="-140.24634" stroke="#4a4f76"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f3f8f9" r="5.3540983" cx="2.0008655"
+                class="id_此身" cy="-614.41547" stroke="#797c7c"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="5.3540983" cx="-202.97754"
+                class="id_咫尺" cy="-188.54457" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f4f2f6" r="6.4852457" cx="-249.08943"
+                class="id_波涛" cy="-165.05728" stroke="#7a797b"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#efc5e2" r="9.12459" cx="-145.3795"
+                class="id_主人" cy="-58.55808" stroke="#776271"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#e23aa5" r="6.1081967" cx="288.5758"
+                class="id_光辉" cy="-299.9533" stroke="#711d52"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f1d0e7" r="7.2393446" cx="-229.50702"
+                class="id_从此" cy="113.98304" stroke="#786873"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#f3e7f1" r="6.862295" cx="-451.39014"
+                class="id_扁舟" cy="-79.80097" stroke="#797378"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#efbfe0" r="6.1081967" cx="272.32312"
+                class="id_淹留" cy="-233.60516" stroke="#775f70"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f4f5f7" r="6.1081967" cx="-556.37915"
+                class="id_江流" cy="-23.902998" stroke="#7a7a7b"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f3e7f1" r="7.2393446" cx="-90.792885"
+                class="id_人间" cy="-294.21335" stroke="#797378"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#f1d0e7" r="7.6163936" cx="195.55803"
+                class="id_相逢" cy="279.3503" stroke="#786873"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#eca1d2" r="4.977049" cx="-302.16302"
+                class="id_丹砂" cy="-452.0708" stroke="#765069"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#eb95cd" r="4.977049" cx="-407.3837"
+                class="id_白雪" cy="-374.84955" stroke="#754a66"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f4f2f6" r="9.50164" cx="-389.6985"
+                class="id_白首" cy="-228.42577" stroke="#7a797b"
+                stroke-opacity="1.0" stroke-width="1.652459"/>
+        <circle fill-opacity="1.0" fill="#edaed8" r="11.763933" cx="-291.2768"
+                class="id_朝廷" cy="-312.2595" stroke="#76576c"
+                stroke-opacity="1.0" stroke-width="2.0459015"/>
+        <circle fill-opacity="1.0" fill="#efc5e2" r="5.3540983" cx="-180.81068"
+                class="id_江海" cy="199.73155" stroke="#776271"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#eebade" r="4.6" cx="-52.153812"
+                class="id_沧浪" cy="-595.7141" stroke="#775d6f"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#717de8" r="6.4852457" cx="-201.54512"
+                class="id_潇湘" cy="-114.503456" stroke="#383e74"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#e235a3" r="5.731148" cx="-344.67038"
+                class="id_万国" cy="-410.1598" stroke="#711a51"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#e76fbd" r="5.731148" cx="-174.195"
+                class="id_清晨" cy="136.28458" stroke="#73375e"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#edacd7" r="5.731148" cx="-364.24533"
+                class="id_吾道" cy="-111.13669" stroke="#76566b"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#efbddf" r="5.3540983" cx="-58.77057"
+                class="id_浮生" cy="-18.89765" stroke="#775e6f"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f4f9f9" r="6.4852457" cx="29.56433"
+                class="id_江水" cy="-411.8096" stroke="#7a7c7c"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#f1d8eb" r="6.1081967" cx="240.18602"
+                class="id_忆昔" cy="-120.85459" stroke="#786c75"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f4f7f8" r="5.3540983" cx="-147.70862"
+                class="id_东流" cy="-497.675" stroke="#7a7b7c"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#eda8d5" r="6.4852457" cx="-8.372486"
+                class="id_白马" cy="176.60999" stroke="#76546a"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#e0269c" r="10.255737" cx="383.60117"
+                class="id_文章" cy="-117.68409" stroke="#70134e"
+                stroke-opacity="1.0" stroke-width="1.7836065"/>
+        <circle fill-opacity="1.0" fill="#f0f5f9" r="5.731148" cx="357.73926"
+                class="id_万事" cy="237.93456" stroke="#787a7c"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#e980c4" r="14.026229" cx="115.299835"
+                class="id_天下" cy="-44.472115" stroke="#744062"
+                stroke-opacity="1.0" stroke-width="2.4393442"/>
+        <circle fill-opacity="1.0" fill="#eeb7dc" r="7.6163936" cx="120.91758"
+                class="id_可怜" cy="-509.27933" stroke="#775b6e"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#f2daec" r="6.4852457" cx="38.544476"
+                class="id_沧海" cy="-147.44803" stroke="#796d76"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#f4eff5" r="9.12459" cx="-42.101433"
+                class="id_柴门" cy="-424.53687" stroke="#7a777a"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#f1d6ea" r="5.3540983" cx="-468.20917"
+                class="id_草木" cy="-527.08716" stroke="#786b75"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f4f6f8" r="6.4852457" cx="-702.57794"
+                class="id_云雨" cy="-149.28963" stroke="#7a7b7c"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#d6dcf5" r="5.3540983" cx="74.63391"
+                class="id_裴回" cy="188.86932" stroke="#6b6e7a"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f1d4e9" r="9.12459" cx="481.3232"
+                class="id_百年" cy="-2.2508998" stroke="#786a74"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="4.6" cx="128.46353"
+                class="id_使君" cy="-707.8129" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f3eaf3" r="6.1081967" cx="87.40167"
+                class="id_岁月" cy="-9.114384" stroke="#797579"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#2e3edf" r="11.763933" cx="-291.7104"
+                class="id_寂寞" cy="-500.45477" stroke="#171f6f"
+                stroke-opacity="1.0" stroke-width="2.0459015"/>
+        <circle fill-opacity="1.0" fill="#f3ecf4" r="9.878689" cx="-269.07034"
+                class="id_平生" cy="-21.232548" stroke="#79767a"
+                stroke-opacity="1.0" stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#0214d9" r="5.3540983" cx="-225.98996"
+                class="id_凄凉" cy="507.64594" stroke="#010a6c"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f1daec" r="9.878689" cx="339.1149"
+                class="id_将军" cy="-253.03839" stroke="#786d76"
+                stroke-opacity="1.0" stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#e23ba6" r="18.17377" cx="-353.3304"
+                class="id_乾坤" cy="-177.88867" stroke="#711d53"
+                stroke-opacity="1.0" stroke-width="3.1606557"/>
+        <circle fill-opacity="1.0" fill="#eeb8dd" r="6.862295" cx="-121.53625"
+                class="id_儿童" cy="-265.5553" stroke="#775c6e"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f0c9e4" r="6.1081967" cx="-7.472551"
+                class="id_纵横" cy="-53.128616" stroke="#786472"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f1d8eb" r="4.6" cx="48.052567"
+                class="id_不是" cy="-820.5626" stroke="#786c75"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#eda7d5" r="7.9934425" cx="531.4025"
+                class="id_春风" cy="-244.28633" stroke="#76536a"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#f4f3f7" r="7.6163936" cx="142.16188"
+                class="id_终日" cy="-264.75354" stroke="#7a797b"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#f1d5e9" r="4.6" cx="276.06516"
+                class="id_感激" cy="-155.11339" stroke="#786a74"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#eeb5dc" r="7.2393446" cx="-46.375854"
+                class="id_宾客" cy="31.941605" stroke="#775a6e"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#f1d1e8" r="7.2393446" cx="-211.98096"
+                class="id_处处" cy="-370.9423" stroke="#786874"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#c7cff3" r="5.731148" cx="-206.56392"
+                class="id_关山" cy="-427.7624" stroke="#636779"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#eca3d3" r="4.977049" cx="-10.503901"
+                class="id_尚书" cy="46.608006" stroke="#765169"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f2e2ef" r="7.6163936" cx="-19.768665"
+                class="id_三年" cy="-110.59574" stroke="#797177"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#eda8d6" r="4.6" cx="57.82503"
+                class="id_君王" cy="17.560831" stroke="#76546b"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e879c1" r="7.2393446" cx="-139.58282"
+                class="id_出入" cy="31.901947" stroke="#743c60"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#d3daf5" r="9.50164" cx="-261.0604"
+                class="id_多病" cy="-79.29175" stroke="#696d7a"
+                stroke-opacity="1.0" stroke-width="1.652459"/>
+        <circle fill-opacity="1.0" fill="#e878c1" r="4.977049" cx="-247.43622"
+                class="id_洛阳" cy="41.362125" stroke="#743c60"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#c8d0f4" r="6.862295" cx="347.89056"
+                class="id_怅望" cy="70.694435" stroke="#64687a"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f1d6ea" r="13.272131" cx="-45.916725"
+                class="id_今日" cy="-252.91696" stroke="#786b75"
+                stroke-opacity="1.0" stroke-width="2.3081968"/>
+        <circle fill-opacity="1.0" fill="#f3e7f1" r="4.977049" cx="-372.3849"
+                class="id_昨夜" cy="373.2736" stroke="#797378"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#c3caf3" r="7.6163936" cx="23.137457"
+                class="id_日暮" cy="-5.265884" stroke="#616579"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#eeb1da" r="5.731148" cx="2.2324674"
+                class="id_春草" cy="-344.8285" stroke="#77586d"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#edafd9" r="5.731148" cx="-276.88684"
+                class="id_分明" cy="-363.8324" stroke="#76576c"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f3e7f2" r="5.731148" cx="-241.5154"
+                class="id_青山" cy="235.02272" stroke="#797379"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f0c6e3" r="4.6" cx="-291.7678"
+                class="id_相望" cy="217.51648" stroke="#786371"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e2e8f7" r="7.6163936" cx="-133.0251"
+                class="id_道路" cy="301.08963" stroke="#71747b"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#d2d9f5" r="8.370491" cx="-80.20636"
+                class="id_为客" cy="-640.14105" stroke="#696c7a"
+                stroke-opacity="1.0" stroke-width="1.4557376"/>
+        <circle fill-opacity="1.0" fill="#e986c7" r="4.6" cx="96.425804"
+                class="id_佳人" cy="-556.405" stroke="#744363"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e772be" r="5.3540983" cx="-62.809647"
+                class="id_桃花" cy="-703.98114" stroke="#73395f"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f1d4e9" r="6.1081967" cx="186.95235"
+                class="id_西南" cy="-58.919773" stroke="#786a74"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f1d7ea" r="12.8950815" cx="-507.66776"
+                class="id_江湖" cy="-235.46498" stroke="#786b75"
+                stroke-opacity="1.0" stroke-width="2.2426229"/>
+        <circle fill-opacity="1.0" fill="#d9dff6" r="7.9934425" cx="-406.42197"
+                class="id_老病" cy="113.93618" stroke="#6c6f7b"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#aab3ef" r="7.9934425" cx="137.50621"
+                class="id_孤城" cy="-342.8499" stroke="#555977"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#d9dff6" r="6.862295" cx="198.5121"
+                class="id_生涯" cy="-328.4355" stroke="#6c6f7b"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#f3eaf3" r="4.6" cx="-90.13856"
+                class="id_烟尘" cy="-207.30873" stroke="#797579"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f2e3f0" r="6.1081967" cx="158.69025"
+                class="id_霜雪" cy="213.87643" stroke="#797178"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#abb4ef" r="11.763933" cx="151.57106"
+                class="id_秋风" cy="-633.79663" stroke="#555a77"
+                stroke-opacity="1.0" stroke-width="2.0459015"/>
+        <circle fill-opacity="1.0" fill="#eaeff8" r="4.6" cx="255.74174"
+                class="id_白露" cy="-461.774" stroke="#75777c"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e8eef8" r="5.731148" cx="-454.97534"
+                class="id_长沙" cy="-297.62335" stroke="#74777c"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#f2e3f0" r="8.74754" cx="-47.055386"
+                class="id_江上" cy="-895.4296" stroke="#797178"
+                stroke-opacity="1.0" stroke-width="1.5213113"/>
+        <circle fill-opacity="1.0" fill="#e874bf" r="6.4852457" cx="-26.448828"
+                class="id_凤凰" cy="-493.77292" stroke="#743a5f"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#eca4d4" r="5.3540983" cx="-494.24268"
+                class="id_南国" cy="126.38893" stroke="#76526a"
+                stroke-opacity="1.0" stroke-width="0.9311475"/>
+        <circle fill-opacity="1.0" fill="#f2e4f0" r="4.6" cx="251.80081"
+                class="id_远游" cy="-312.54074" stroke="#797278"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#e7edf8" r="4.6" cx="214.6197"
+                class="id_往来" cy="25.100904" stroke="#73767c"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f2f7f9" r="4.977049" cx="208.71451"
+                class="id_天涯" cy="449.33893" stroke="#797b7c"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#f2e0ee" r="4.6" cx="-201.84448"
+                class="id_乔木" cy="376.06113" stroke="#797077"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#f4f5f7" r="9.50164" cx="-429.99225"
+                class="id_洞庭" cy="66.856064" stroke="#7a7a7b"
+                stroke-opacity="1.0" stroke-width="1.652459"/>
+        <circle fill-opacity="1.0" fill="#eb97ce" r="7.2393446" cx="316.86197"
+                class="id_丹青" cy="-201.02852" stroke="#754b67"
+                stroke-opacity="1.0" stroke-width="1.2590164"/>
+        <circle fill-opacity="1.0" fill="#f3e7f1" r="6.1081967" cx="209.78268"
+                class="id_草堂" cy="-409.77924" stroke="#797378"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#f2f7f9" r="7.6163936" cx="-106.97035"
+                class="id_故园" cy="-487.8605" stroke="#797b7c"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#f4f9f9" r="9.12459" cx="-585.08624"
+                class="id_江边" cy="-84.12819" stroke="#7a7c7c"
+                stroke-opacity="1.0" stroke-width="1.5868852"/>
+        <circle fill-opacity="1.0" fill="#e97fc3" r="7.9934425" cx="-212.708"
+                class="id_春色" cy="-463.46402" stroke="#743f61"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#ea88c7" r="6.4852457" cx="-188.33624"
+                class="id_诸侯" cy="-11.733578" stroke="#754463"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#eda8d6" r="6.862295" cx="-331.65375"
+                class="id_衣冠" cy="-269.4147" stroke="#76546b"
+                stroke-opacity="1.0" stroke-width="1.1934426"/>
+        <circle fill-opacity="1.0" fill="#e980c4" r="6.1081967" cx="-65.932785"
+                class="id_北斗" cy="-391.58072" stroke="#744062"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#efbcdf" r="9.878689" cx="-57.55256"
+                class="id_闻道" cy="-209.38222" stroke="#775e6f"
+                stroke-opacity="1.0" stroke-width="1.7180328"/>
+        <circle fill-opacity="1.0" fill="#e5ebf7" r="5.731148" cx="562.2941"
+                class="id_蹉跎" cy="-13.224123" stroke="#72757b"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#dce2f6" r="6.4852457" cx="318.62097"
+                class="id_故国" cy="-414.32596" stroke="#6e717b"
+                stroke-opacity="1.0" stroke-width="1.1278688"/>
+        <circle fill-opacity="1.0" fill="#f4f9f9" r="7.9934425" cx="-99.16988"
+                class="id_巫山" cy="-432.75787" stroke="#7a7c7c"
+                stroke-opacity="1.0" stroke-width="1.3901639"/>
+        <circle fill-opacity="1.0" fill="#eeb9dd" r="7.6163936" cx="137.2851"
+                class="id_他日" cy="-434.96378" stroke="#775c6e"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#f3f8f9" r="4.977049" cx="195.703"
+                class="id_经过" cy="187.59984" stroke="#797c7c"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+        <circle fill-opacity="1.0" fill="#1627db" r="7.6163936" cx="187.33725"
+                class="id_别离" cy="-205.88107" stroke="#0b136d"
+                stroke-opacity="1.0" stroke-width="1.3245901"/>
+        <circle fill-opacity="1.0" fill="#f2e4f0" r="5.731148" cx="367.936"
+                class="id_江城" cy="-413.8733" stroke="#797278"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#efc0e0" r="5.731148" cx="-327.02914"
+                class="id_今朝" cy="15.721752" stroke="#776070"
+                stroke-opacity="1.0" stroke-width="0.9967213"/>
+        <circle fill-opacity="1.0" fill="#eda9d6" r="6.1081967" cx="23.657654"
+                class="id_由来" cy="-271.80814" stroke="#76546b"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#b4bdf1" r="6.1081967" cx="-44.539524"
+                class="id_他乡" cy="-317.43863" stroke="#5a5e78"
+                stroke-opacity="1.0" stroke-width="1.0622951"/>
+        <circle fill-opacity="1.0" fill="#c5cdf3" r="4.977049" cx="-7.1104727"
+                class="id_摇落" cy="-467.35925" stroke="#626679"
+                stroke-opacity="1.0" stroke-width="0.8655737"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="78" x="-502.0625" y="-346.38525" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_巫峡">
+            巫峡
+        </text>
+        <text font-size="60" x="-737.22876" y="51.057724" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_蛟龙">
+            蛟龙
+        </text>
+        <text font-size="113" x="109.66686" y="-44.353203" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_回首">
+            回首
+        </text>
+        <text font-size="52" x="504.84042" y="-157.18152" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_萧条">
+            萧条
+        </text>
+        <text font-size="84" x="268.61417" y="456.60062" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_故人">
+            故人
+        </text>
+        <text font-size="25" x="690.37415" y="-293.08075" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_风起">
+            风起
+        </text>
+        <text font-size="82" x="145.61958" y="-524.3822" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_白头">
+            白头
+        </text>
+        <text font-size="56" x="-229.91568" y="339.26495" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_相见">
+            相见
+        </text>
+        <text font-size="66" x="-169.51364" y="-265.72842" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_天地">
+            天地
+        </text>
+        <text font-size="48" x="-47.055386" y="-880.2048" fill-opacity="1.0"
+              fill="#000000" font-family="方正仿宋_GBK" style="text-anchor: middle;"
+              class="id_江上">
+            江上
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,5329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-20">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="co" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="valence" type="double" />
+      <attribute id="2" title="english" type="string" />
+    </attributes>
+    <nodes>
+      <node id="悠悠" label="悠悠">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="0.019912" />
+          <attvalue for="2" value="Leisurely" />
+        </attvalues>
+      </node>
+      <node id="几时" label="几时">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="-0.22726" />
+          <attvalue for="2" value="When" />
+        </attvalues>
+      </node>
+      <node id="功名" label="功名">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="1.495911" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="亦有" label="亦有">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.00734" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="骨肉" label="骨肉">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-1.142058" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="中原" label="中原">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="-0.045337" />
+          <attvalue for="2" value="Central Plain" />
+        </attvalues>
+      </node>
+      <node id="浮云" label="浮云">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="0.340106" />
+          <attvalue for="2" value="Floating Clouds" />
+        </attvalues>
+      </node>
+      <node id="男儿" label="男儿">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.385856" />
+          <attvalue for="2" value="True Man" />
+        </attvalues>
+      </node>
+      <node id="为我" label="为我">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.017783" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="风尘" label="风尘">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="-0.206492" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="十年" label="十年">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="-0.393346" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="出门" label="出门">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.273286" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="丈夫" label="丈夫">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.00582" />
+          <attvalue for="2" value="Great Man" />
+        </attvalues>
+      </node>
+      <node id="壮士" label="壮士">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.19442" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="落日" label="落日">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="-0.892182" />
+          <attvalue for="2" value="Setting Sun" />
+        </attvalues>
+      </node>
+      <node id="英雄" label="英雄">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="1.682886" />
+          <attvalue for="2" value="Hero" />
+        </attvalues>
+      </node>
+      <node id="寂寥" label="寂寥">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-1.433503" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="不敢" label="不敢">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="-0.274837" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="不足" label="不足">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.223339" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="萧萧" label="萧萧">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="-1.989295" />
+          <attvalue for="2" value="Rustling Bleak" />
+        </attvalues>
+      </node>
+      <node id="少年" label="少年">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="0.193051" />
+          <attvalue for="2" value="Youth" />
+        </attvalues>
+      </node>
+      <node id="岂知" label="岂知">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.027642" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="古人" label="古人">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-0.519631" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="借问" label="借问">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.019015" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="万里" label="万里">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="-0.288441" />
+          <attvalue for="2" value="Ten Thousand Miles" />
+        </attvalues>
+      </node>
+      <node id="巫峡" label="巫峡">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="-0.80119" />
+          <attvalue for="2" value="Wu Gorge" />
+        </attvalues>
+      </node>
+      <node id="北风" label="北风">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.517808" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="蛟龙" label="蛟龙">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="0.373908" />
+          <attvalue for="2" value="Flood Dragon" />
+        </attvalues>
+      </node>
+      <node id="今年" label="今年">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.313" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="去年" label="去年">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.675268" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="长安" label="长安">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="0.516277" />
+          <attvalue for="2" value="Chang'an" />
+        </attvalues>
+      </node>
+      <node id="昆仑" label="昆仑">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.629298" />
+          <attvalue for="2" value="Kunlun" />
+        </attvalues>
+      </node>
+      <node id="谁家" label="谁家">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.036491" />
+          <attvalue for="2" value="Whose House" />
+        </attvalues>
+      </node>
+      <node id="辛苦" label="辛苦">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-1.149271" />
+          <attvalue for="2" value="Hardship and Toil" />
+        </attvalues>
+      </node>
+      <node id="岂无" label="岂无">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.259411" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="故乡" label="故乡">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-1.168405" />
+          <attvalue for="2" value="Hometown" />
+        </attvalues>
+      </node>
+      <node id="青冥" label="青冥">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.167693" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="回首" label="回首">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="-0.627311" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="谁能" label="谁能">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.373621" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="萧条" label="萧条">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="-1.923" />
+          <attvalue for="2" value="Bleakness" />
+        </attvalues>
+      </node>
+      <node id="风吹" label="风吹">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="-0.415135" />
+          <attvalue for="2" value="Wind Blowing" />
+        </attvalues>
+      </node>
+      <node id="有馀" label="有馀">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="0.069551" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="不易" label="不易">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.474369" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="颜色" label="颜色">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="0.323978" />
+          <attvalue for="2" value="Countenance" />
+        </attvalues>
+      </node>
+      <node id="衣裳" label="衣裳">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="-0.061894" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="至今" label="至今">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="-0.476665" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="此时" label="此时">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.14817" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="漠漠" label="漠漠">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.717896" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="故人" label="故人">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="-0.669845" />
+          <attvalue for="2" value="Old Friend" />
+        </attvalues>
+      </node>
+      <node id="从来" label="从来">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.011186" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="不肯" label="不肯">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.352402" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="欢娱" label="欢娱">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.911517" />
+          <attvalue for="2" value="Joy and Pleasure" />
+        </attvalues>
+      </node>
+      <node id="纷纷" label="纷纷">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.036868" />
+          <attvalue for="2" value="One after Another" />
+        </attvalues>
+      </node>
+      <node id="四十" label="四十">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.100622" />
+          <attvalue for="2" value="Forty Years" />
+        </attvalues>
+      </node>
+      <node id="东西" label="东西">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.341342" />
+          <attvalue for="2" value="East and West" />
+        </attvalues>
+      </node>
+      <node id="头白" label="头白">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.233442" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="如今" label="如今">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.36892" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="归来" label="归来">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="-0.322166" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="为君" label="为君">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.026861" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="天子" label="天子">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="0.732112" />
+          <attvalue for="2" value="Son of Heaven" />
+        </attvalues>
+      </node>
+      <node id="当时" label="当时">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.098671" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="千里" label="千里">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="-0.17512" />
+          <attvalue for="2" value="A Thousand Miles" />
+        </attvalues>
+      </node>
+      <node id="风起" label="风起">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.325705" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="独立" label="独立">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.828912" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白头" label="白头">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="-0.185449" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="四海" label="四海">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.692863" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白日" label="白日">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="0.197342" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="风雨" label="风雨">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-0.663241" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="消息" label="消息">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="-0.258234" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="黄金" label="黄金">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="0.478295" />
+          <attvalue for="2" value="Yellow Gold" />
+        </attvalues>
+      </node>
+      <node id="杜陵" label="杜陵">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.391434" />
+          <attvalue for="2" value="Duling Mound" />
+        </attvalues>
+      </node>
+      <node id="万古" label="万古">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="-0.23389" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="青云" label="青云">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.288385" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="冥冥" label="冥冥">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.070807" />
+          <attvalue for="2" value="Dim and Dark" />
+        </attvalues>
+      </node>
+      <node id="相见" label="相见">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="-0.4431" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="茫茫" label="茫茫">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-1.540143" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="何所" label="何所">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.198044" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="公子" label="公子">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.704976" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="苍梧" label="苍梧">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.838628" />
+          <attvalue for="2" value="Cangwu" />
+        </attvalues>
+      </node>
+      <node id="新诗" label="新诗">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.709165" />
+          <attvalue for="2" value="New Verse" />
+        </attvalues>
+      </node>
+      <node id="苍生" label="苍生">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.501471" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="天地" label="天地">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="0.843408" />
+          <attvalue for="2" value="Heaven and Earth" />
+        </attvalues>
+      </node>
+      <node id="惆怅" label="惆怅">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-1.467544" />
+          <attvalue for="2" value="Melancholy" />
+        </attvalues>
+      </node>
+      <node id="富贵" label="富贵">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="1.351561" />
+          <attvalue for="2" value="Wealth and Honor" />
+        </attvalues>
+      </node>
+      <node id="蓬莱" label="蓬莱">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.783915" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="往往" label="往往">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.275385" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="骑马" label="骑马">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.389627" />
+          <attvalue for="2" value="Riding Horse" />
+        </attvalues>
+      </node>
+      <node id="游子" label="游子">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.00243" />
+          <attvalue for="2" value="Wandering Traveler" />
+        </attvalues>
+      </node>
+      <node id="青春" label="青春">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.700099" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白发" label="白发">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="-0.015129" />
+          <attvalue for="2" value="White Hair" />
+        </attvalues>
+      </node>
+      <node id="圣朝" label="圣朝">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="1.270143" />
+          <attvalue for="2" value="Sage Dynasty" />
+        </attvalues>
+      </node>
+      <node id="苍茫" label="苍茫">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-1.146025" />
+          <attvalue for="2" value="Vast and Boundless" />
+        </attvalues>
+      </node>
+      <node id="此身" label="此身">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.353353" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="咫尺" label="咫尺">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.016415" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="波涛" label="波涛">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.282322" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="主人" label="主人">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="0.084165" />
+          <attvalue for="2" value="Host" />
+        </attvalues>
+      </node>
+      <node id="光辉" label="光辉">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="1.212259" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="从此" label="从此">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="-0.00566" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="扁舟" label="扁舟">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-0.188639" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="淹留" label="淹留">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.129853" />
+          <attvalue for="2" value="Long Lingering" />
+        </attvalues>
+      </node>
+      <node id="江流" label="江流">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.301932" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="人间" label="人间">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="-0.192572" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="相逢" label="相逢">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.007927" />
+          <attvalue for="2" value="Encounter" />
+        </attvalues>
+      </node>
+      <node id="丹砂" label="丹砂">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.377597" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白雪" label="白雪">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.470019" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白首" label="白首">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="-0.277437" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="朝廷" label="朝廷">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="0.270209" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="江海" label="江海">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.081594" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="沧浪" label="沧浪">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.171238" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="潇湘" label="潇湘">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-1.440351" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="万国" label="万国">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="1.25096" />
+          <attvalue for="2" value="Myriad States" />
+        </attvalues>
+      </node>
+      <node id="清晨" label="清晨">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.780136" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="吾道" label="吾道">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.284322" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="浮生" label="浮生">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.148994" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="江水" label="江水">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.334274" />
+          <attvalue for="2" value="River Waters" />
+        </attvalues>
+      </node>
+      <node id="忆昔" label="忆昔">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.072464" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="东流" label="东流">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.321603" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="白马" label="白马">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.321049" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="文章" label="文章">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="1.371946" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="万事" label="万事">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.378526" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="天下" label="天下">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="0.645924" />
+          <attvalue for="2" value="All under Heaven" />
+        </attvalues>
+      </node>
+      <node id="可怜" label="可怜">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.195405" />
+          <attvalue for="2" value="Pitiable" />
+        </attvalues>
+      </node>
+      <node id="沧海" label="沧海">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.09053" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="干戈" label="干戈">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="0.075355" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="柴门" label="柴门">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="-0.258371" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="草木" label="草木">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.057682" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="云雨" label="云雨">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.311547" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="裴回" label="裴回">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.600437" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="百年" label="百年">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="-0.040587" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="使君" label="使君">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.013385" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="岁月" label="岁月">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.218293" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="寂寞" label="寂寞">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="-1.995293" />
+          <attvalue for="2" value="Loneliness" />
+        </attvalues>
+      </node>
+      <node id="平生" label="平生">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="-0.232063" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="凄凉" label="凄凉">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-2.367339" />
+          <attvalue for="2" value="Desolation" />
+        </attvalues>
+      </node>
+      <node id="将军" label="将军">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="-0.085333" />
+          <attvalue for="2" value="General" />
+        </attvalues>
+      </node>
+      <node id="乾坤" label="乾坤">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="1.199334" />
+          <attvalue for="2" value="Heaven and Earth" />
+        </attvalues>
+      </node>
+      <node id="儿童" label="儿童">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.186074" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="纵横" label="纵横">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.048967" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="不是" label="不是">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.072304" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="春风" label="春风">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="0.325886" />
+          <attvalue for="2" value="Spring Wind" />
+        </attvalues>
+      </node>
+      <node id="终日" label="终日">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.290521" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="感激" label="感激">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.044324" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="宾客" label="宾客">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.209165" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="处处" label="处处">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="-0.015805" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="关山" label="关山">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.719904" />
+          <attvalue for="2" value="Mountain Passes" />
+        </attvalues>
+      </node>
+      <node id="尚书" label="尚书">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.357953" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="三年" label="三年">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.155258" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="君王" label="君王">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.318684" />
+          <attvalue for="2" value="The Sovereign" />
+        </attvalues>
+      </node>
+      <node id="出入" label="出入">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.698697" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="多病" label="多病">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="-0.617244" />
+          <attvalue for="2" value="Sickly" />
+        </attvalues>
+      </node>
+      <node id="洛阳" label="洛阳">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.704536" />
+          <attvalue for="2" value="Luoyang" />
+        </attvalues>
+      </node>
+      <node id="怅望" label="怅望">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-0.70949" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="今日" label="今日">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="-0.056464" />
+          <attvalue for="2" value="Today" />
+        </attvalues>
+      </node>
+      <node id="昨夜" label="昨夜">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.19148" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="日暮" label="日暮">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.757461" />
+          <attvalue for="2" value="At Dusk" />
+        </attvalues>
+      </node>
+      <node id="春草" label="春草">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.245258" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="分明" label="分明">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.263905" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="青山" label="青山">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.196089" />
+          <attvalue for="2" value="Green Hills" />
+        </attvalues>
+      </node>
+      <node id="相望" label="相望">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.075067" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="何事" label="何事">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="-0.347533" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="道路" label="道路">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.494044" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="为客" label="为客">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="-0.626065" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="佳人" label="佳人">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="0.592826" />
+          <attvalue for="2" value="Beautiful Lady" />
+        </attvalues>
+      </node>
+      <node id="桃花" label="桃花">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.758466" />
+          <attvalue for="2" value="Peach Blossom" />
+        </attvalues>
+      </node>
+      <node id="西南" label="西南">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.042109" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="江湖" label="江湖">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="-0.065513" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="老病" label="老病">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="-0.574238" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="孤城" label="孤城">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="-0.965676" />
+          <attvalue for="2" value="Lonely City" />
+        </attvalues>
+      </node>
+      <node id="生涯" label="生涯">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="-0.57393" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="烟尘" label="烟尘">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.215887" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="霜雪" label="霜雪">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.159231" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="秋风" label="秋风">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="-0.958535" />
+          <attvalue for="2" value="Autumn Wind" />
+        </attvalues>
+      </node>
+      <node id="白露" label="白露">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.432312" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="长沙" label="长沙">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.443911" />
+          <attvalue for="2" value="Changsha" />
+        </attvalues>
+      </node>
+      <node id="江上" label="江上">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="-0.163463" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="凤凰" label="凤凰">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.737021" />
+          <attvalue for="2" value="Phoenix" />
+        </attvalues>
+      </node>
+      <node id="南国" label="南国">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="0.352968" />
+          <attvalue for="2" value="Southern Realm" />
+        </attvalues>
+      </node>
+      <node id="远游" label="远游">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.168477" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="往来" label="往来">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.453079" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="天涯" label="天涯">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.365981" />
+          <attvalue for="2" value="The Sky's Edge" />
+        </attvalues>
+      </node>
+      <node id="乔木" label="乔木">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="-0.139053" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="洞庭" label="洞庭">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="-0.305153" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="丹青" label="丹青">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.456555" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="草堂" label="草堂">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.189788" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="故园" label="故园">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-0.360417" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="江边" label="江边">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="-0.348597" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="春色" label="春色">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="0.654018" />
+          <attvalue for="2" value="Spring Radiance" />
+        </attvalues>
+      </node>
+      <node id="诸侯" label="诸侯">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.579319" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="衣冠" label="衣冠">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.314016" />
+          <attvalue for="2" value="Capped and Gowned" />
+        </attvalues>
+      </node>
+      <node id="北斗" label="北斗">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.638919" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="闻道" label="闻道">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="0.154143" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="蹉跎" label="蹉跎">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.467375" />
+          <attvalue for="2" value="Wasted Years" />
+        </attvalues>
+      </node>
+      <node id="故国" label="故国">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="-0.546436" />
+          <attvalue for="2" value="Homeland" />
+        </attvalues>
+      </node>
+      <node id="巫山" label="巫山">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="-0.339231" />
+          <attvalue for="2" value="Mount Wu" />
+        </attvalues>
+      </node>
+      <node id="他日" label="他日">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.181466" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="经过" label="经过">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.357999" />
+          <attvalue for="2" value="Passing By" />
+        </attvalues>
+      </node>
+      <node id="别离" label="别离">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="-2.193653" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="江城" label="江城">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="-0.167889" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="今朝" label="今朝">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.123198" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="由来" label="由来">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.307282" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+      <node id="他乡" label="他乡">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="-0.876623" />
+          <attvalue for="2" value="Foreign Land" />
+        </attvalues>
+      </node>
+      <node id="摇落" label="摇落">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="-0.737533" />
+          <attvalue for="2" value="" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="悠悠" target="丈夫" id="0" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="中原" id="1" weight="0.31421526274069844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="为我" id="2" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="亦有" id="3" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="出门" id="4" weight="0.4456095870198116">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="功名" id="5" weight="0.36822759646935277">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="十年" id="6" weight="0.38491237347687735">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="浮云" id="7" weight="0.3965337680515755">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="男儿" id="8" weight="0.41747433379471616">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="骨肉" id="9" weight="0.3532015583056649">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="吾道" id="10" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="淹留" id="11" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="漠漠" id="12" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="悠悠" target="沧海" id="13" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="为我" id="14" weight="0.31314710314979816">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="亦有" id="15" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="出门" id="16" weight="0.43095512867475777">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="功名" id="17" weight="0.4470072716027858">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="男儿" id="18" weight="0.4028198754496623">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="骨肉" id="19" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="纵横" id="20" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="青山" id="21" weight="0.31314710314979816">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="青云" id="22" weight="0.39033860887813604">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="凄凉" id="23" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="几时" target="尚书" id="24" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="丈夫" id="25" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="中原" id="26" weight="0.4470072716027858">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="为我" id="27" weight="0.45116831647247524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="亦有" id="28" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="出门" id="29" weight="0.47750507353979116">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="十年" id="30" weight="0.3985558495793664">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="浮云" id="31" weight="0.46166172994783977">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="男儿" id="32" weight="0.5502663426568035">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="骨肉" id="33" weight="0.47750507353979116">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="落日" id="34" weight="0.33020741565756906">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="富贵" id="35" weight="0.49253111170347913">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="巫山" id="36" weight="0.3913402314749622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="功名" target="长安" id="37" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="丈夫" id="38" weight="0.49545869362620526">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="中原" id="39" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="为我" id="40" weight="0.5969334372975341">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="出门" id="41" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="浮云" id="42" weight="0.43095512867475777">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="男儿" id="43" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="骨肉" id="44" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="岂无" id="45" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="亦有" target="道路" id="46" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="丈夫" id="47" weight="0.4135818472801688">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="中原" id="48" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="为我" id="49" weight="0.5342141997287754">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="出门" id="50" weight="0.4624790353761032">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="十年" id="51" weight="0.4528987154719539">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="浮云" id="52" weight="0.3532015583056649">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="男儿" id="53" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="万事" id="54" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="日暮" id="55" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="至今" id="56" weight="0.33304810646196914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="消息" id="57" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骨肉" target="白日" id="58" weight="0.32091488476830754">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="丈夫" id="59" weight="0.37871882769214604">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="为我" id="60" weight="0.4028198754496623">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="出门" id="61" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="男儿" id="62" weight="0.4028198754496623">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="出入" id="63" weight="0.35763884794450784">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="惆怅" id="64" weight="0.39033860887813604">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="故乡" id="65" weight="0.3678492483062844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="西南" id="66" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="岁月" id="67" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="蹉跎" id="68" weight="0.31314710314979816">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="感激" id="69" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中原" target="北斗" id="70" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="丈夫" id="71" weight="0.3933732860371999">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="为我" id="72" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="出门" id="73" weight="0.4456095870198116">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="男儿" id="74" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="颜色" id="75" weight="0.3416376732103751">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="万古" id="76" weight="0.3722933062895618">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="富贵" id="77" weight="0.36822759646935277">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮云" target="往来" id="78" weight="0.36822759646935277">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="丈夫" id="79" weight="0.38724509021285286">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="为我" id="80" weight="0.50607894650368">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="出门" id="81" weight="0.5342141997287754">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="十年" id="82" weight="0.5333743720455643">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="不敢" id="83" weight="0.43352647672274425">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="不足" id="84" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="借问" id="85" weight="0.5195597413837215">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="古人" id="86" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="壮士" id="87" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="寂寥" id="88" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="少年" id="89" weight="0.5155981818040484">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="岂知" id="90" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="英雄" id="91" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="萧萧" id="92" weight="0.37094773301513856">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="男儿" target="三年" id="93" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="丈夫" id="94" weight="0.38724509021285286">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="出门" id="95" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="十年" id="96" weight="0.3543684534262428">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="主人" id="97" weight="0.41747433379471616">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="清晨" id="98" weight="0.4098055212414714">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="白日" id="99" weight="0.38298285356244194">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="青冥" id="100" weight="0.5342141997287754">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="头白" id="101" weight="0.4098055212414714">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="相见" id="102" weight="0.3067113493946533">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="长安" id="103" weight="0.31314710314979816">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="借问" id="104" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="惆怅" id="105" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="日暮" id="106" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为我" target="道路" id="107" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风尘" target="十年" id="108" weight="0.3273275287850644">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="风尘" target="江海" id="109" weight="0.3031066201129131">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="风尘" target="天地" id="110" weight="0.3400064087838428">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="风尘" target="摇落" id="111" weight="0.3848594900536961">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="借问" id="112" weight="0.3678492483062844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="古人" id="113" weight="0.3193978262828649">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="岂知" id="114" weight="0.38250370665133826">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="四十" id="115" weight="0.4966072564981267">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="南国" id="116" weight="0.3678492483062844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="十年" target="洞庭" id="117" weight="0.37672108302481666">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="出门" target="丈夫" id="118" weight="0.4135818472801688">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="回首" id="119" weight="0.36251137075622">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="岂无" id="120" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="三年" id="121" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="怅望" id="122" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="相望" id="123" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="宾客" id="124" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="万古" id="125" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="诸侯" id="126" weight="0.36468465918423426">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丈夫" target="少年" id="127" weight="0.3274170052153398">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="不足" id="128" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="借问" id="129" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="古人" id="130" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="寂寥" id="131" weight="0.4163006703297038">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="岂知" id="132" weight="0.47940655069817717">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="英雄" id="133" weight="0.3964636484424834">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="尚书" id="134" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="白马" id="135" weight="0.42717024971556544">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="为君" id="136" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="西南" id="137" weight="0.4387900309015555">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="怅望" id="138" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="壮士" target="丹青" id="139" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="借问" id="140" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="少年" id="141" weight="0.31294416217394777">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="岂知" id="142" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="孤城" id="143" weight="0.3797973036393544">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="尚书" id="144" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="佳人" id="145" weight="0.33020741565756906">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="落日" target="浮生" id="146" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="不足" id="147" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="借问" id="148" weight="0.4647520923531232">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="古人" id="149" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="寂寥" id="150" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="少年" id="151" weight="0.4579998097407492">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="岂知" id="152" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="从来" id="153" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="天下" id="154" weight="0.34987151687126133">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="惆怅" id="155" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="西南" id="156" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="万古" id="157" weight="0.40609026996792724">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="丹青" id="158" weight="0.40609026996792724">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="君王" id="159" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="裴回" id="160" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="相逢" id="161" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="今朝" id="162" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="英雄" target="诸侯" id="163" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="不敢" id="164" weight="0.30915564756998604">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="不足" id="165" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="借问" id="166" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="古人" id="167" weight="0.3443351375773697">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="少年" id="168" weight="0.40719466753615535">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="岂知" id="169" weight="0.4034070864767365">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="萧萧" id="170" weight="0.40400305017810834">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="沧海" id="171" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="苍生" id="172" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="天涯" id="173" weight="0.4034070864767365">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寥" target="经过" id="174" weight="0.4034070864767365">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="不足" id="175" weight="0.33020741565756906">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="借问" id="176" weight="0.4470072716027858">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="古人" id="177" weight="0.30915564756998604">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="少年" id="178" weight="0.36961282489859754">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="岂知" id="179" weight="0.46166172994783977">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="不敢" target="昆仑" id="180" weight="0.30915564756998604">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="借问" id="181" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="古人" id="182" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="少年" id="183" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="岂知" id="184" weight="0.4244588545643194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="萧萧" id="185" weight="0.35846646644361235">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="万古" id="186" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="将军" id="187" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="波涛" id="188" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="咫尺" id="189" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="忆昔" id="190" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="黄金" id="191" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="主人" id="192" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不足" target="怅望" id="193" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="古人" id="194" weight="0.33597710587176066">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="岂知" id="195" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="四十" id="196" weight="0.3844285278951801">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="如今" id="197" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="归来" id="198" weight="0.37358629022422907">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="忆昔" id="199" weight="0.42763753515592645">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="白露" id="200" weight="0.3246751261184993">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="沧海" id="201" weight="0.34684668525762236">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="漠漠" id="202" weight="0.35846646644361235">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="青冥" id="203" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧萧" target="经过" id="204" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="借问" id="205" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="古人" id="206" weight="0.40719466753615535">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="岂知" id="207" weight="0.37631419331127425">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="长安" id="208" weight="0.40708131420114274">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="骑马" id="209" weight="0.4421652946795332">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="宾客" id="210" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="蓬莱" id="211" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="裴回" id="212" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="少年" target="处处" id="213" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂知" target="借问" id="214" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂知" target="古人" id="215" weight="0.4034070864767365">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂知" target="江海" id="216" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂知" target="至今" id="217" weight="0.33304810646196914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂知" target="颜色" id="218" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="借问" id="219" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="万事" id="220" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="欢娱" id="221" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="岁月" id="222" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="当时" id="223" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="纵横" id="224" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="今日" id="225" weight="0.31421526274069844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="古人" target="衣冠" id="226" weight="0.3443351375773697">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="淹留" id="227" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="天子" id="228" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="可怜" id="229" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="忆昔" id="230" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="江水" id="231" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="漠漠" id="232" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="别离" id="233" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="文章" id="234" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="丹青" id="235" weight="0.3801316697589363">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="借问" target="四海" id="236" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="巫峡" target="云雨" id="237" weight="0.3771555274330497">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="巫峡" target="分明" id="238" weight="0.3345314315390225">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="巫峡" target="北斗" id="239" weight="0.3220501649674963">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="今年" id="240" weight="0.49359767993215375">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="去年" id="241" weight="0.5070784748121953">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="长安" id="242" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="云雨" id="243" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="何所" id="244" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="洞庭" id="245" weight="0.46866542872906447">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="北风" target="南国" id="246" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蛟龙" target="去年" id="247" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="今年" target="去年" id="248" weight="0.5195597413837215">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="今年" target="长安" id="249" weight="0.4028198754496623">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="今年" target="洞庭" id="250" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="去年" target="长安" id="251" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="去年" target="今日" id="252" weight="0.3626666847641179">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="去年" target="巫山" id="253" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="岂无" id="254" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="故乡" id="255" weight="0.3678492483062844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="辛苦" id="256" weight="0.4163006703297038">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="颜色" id="257" weight="0.32623703189344316">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="往往" id="258" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="相见" id="259" weight="0.3585071671064851">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="富贵" id="260" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="长安" target="青云" id="261" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="万国" id="262" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="咫尺" id="263" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="天地" id="264" weight="0.3302674056687266">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="往来" id="265" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="漠漠" id="266" weight="0.45862705278877586">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="儿童" id="267" weight="0.3443351375773697">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="岁月" id="268" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="万古" id="269" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="诸侯" id="270" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="丹青" id="271" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="孤城" id="272" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="淹留" id="273" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="烟尘" id="274" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="由来" id="275" weight="0.45862705278877586">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="昆仑" target="远游" id="276" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="岂无" id="277" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="故乡" id="278" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="多病" id="279" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="诸侯" id="280" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="往往" id="281" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="辛苦" target="今朝" id="282" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="故乡" id="283" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="千里" id="284" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="沧海" id="285" weight="0.49545869362620526">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="白日" id="286" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="怅望" id="287" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="烟尘" id="288" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="洞庭" id="289" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="宾客" id="290" weight="0.3801316697589363">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岂无" target="尚书" id="291" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="凄凉" id="292" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="千里" id="293" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="茫茫" id="294" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="惆怅" id="295" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="游子" id="296" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="道路" id="297" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="万事" id="298" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故乡" target="白马" id="299" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青冥" target="主人" id="300" weight="0.3532015583056649">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青冥" target="清晨" id="301" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青冥" target="日暮" id="302" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青冥" target="君王" id="303" weight="0.47750507353979116">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青冥" target="归来" id="304" weight="0.37631419331127425">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="回首" target="苍梧" id="305" weight="0.3135785133029991">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="回首" target="三年" id="306" weight="0.3751141042991997">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="回首" target="生涯" id="307" weight="0.39757297131033037">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="回首" target="四海" id="308" weight="0.3135785133029991">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="谁能" target="冥冥" id="309" weight="0.36468465918423426">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="谁能" target="四十" id="310" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="谁能" target="生涯" id="311" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="当时" id="312" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="惆怅" id="313" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="四海" id="314" weight="0.3612195949924504">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="蹉跎" id="315" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="圣朝" id="316" weight="0.3461935568287624">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="萧条" target="江城" id="317" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风吹" target="裴回" id="318" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风吹" target="浮生" id="319" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="不易" id="320" weight="0.37556166646838496">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="不肯" id="321" weight="0.4694966321746375">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="富贵" id="322" weight="0.37556166646838496">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="蓬莱" id="323" weight="0.41282796944998773">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="游子" id="324" weight="0.3705015869909157">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="有馀" target="诸侯" id="325" weight="0.3116384402087626">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不易" target="颜色" id="326" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不易" target="平生" id="327" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不易" target="江湖" id="328" weight="0.30915564756998604">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不易" target="清晨" id="329" weight="0.45116831647247524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不易" target="由来" id="330" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="黄金" id="331" weight="0.3013243809879578">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="平生" id="332" weight="0.32623703189344316">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="可怜" id="333" weight="0.3104303837815062">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="终日" id="334" weight="0.3771555274330497">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="新诗" id="335" weight="0.35275676624057833">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="颜色" target="乔木" id="336" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="衣裳" target="秋风" id="337" weight="0.32576670550998416">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="至今" target="潇湘" id="338" weight="0.37184358632767023">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="至今" target="天下" id="339" weight="0.3448428825870899">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="至今" target="淹留" id="340" weight="0.38346336751366034">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="至今" target="西南" id="341" weight="0.38346336751366034">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="至今" target="东西" id="342" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="此时" target="咫尺" id="343" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="此时" target="苍茫" id="344" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="此时" target="江边" id="345" weight="0.36822759646935277">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="沧海" id="346" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="往来" id="347" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="归来" id="348" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="风雨" id="349" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="光辉" id="350" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="可怜" id="351" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="将军" id="352" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="忆昔" id="353" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="丹青" id="354" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="孤城" id="355" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="淹留" id="356" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="由来" id="357" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="漠漠" target="远游" id="358" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故人" target="游子" id="359" weight="0.3307181755459965">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="故人" target="相逢" id="360" weight="0.3307181755459965">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="故人" target="天涯" id="361" weight="0.3491858898840764">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="故人" target="新诗" id="362" weight="0.3085693700874547">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="从来" target="白首" id="363" weight="0.3612195949924504">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="从来" target="衣冠" id="364" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不肯" target="欢娱" id="365" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不肯" target="诸侯" id="366" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="欢娱" target="咫尺" id="367" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="欢娱" target="江水" id="368" weight="0.36468465918423426">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="欢娱" target="今日" id="369" weight="0.3250848421265601">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="欢娱" target="为客" id="370" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纷纷" target="江上" id="371" weight="0.4012081882639977">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="如今" id="372" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="归来" id="373" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="当时" id="374" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="丹青" id="375" weight="0.3801316697589363">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="文章" id="376" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="感激" id="377" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="四十" target="生涯" id="378" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="头白" id="379" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="归来" id="380" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="日暮" id="381" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="消息" id="382" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="西南" id="383" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="骑马" id="384" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="主人" id="385" weight="0.43095512867475777">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="潇湘" id="386" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="乾坤" id="387" weight="0.30672869574801487">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="扁舟" id="388" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="文章" id="389" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="三年" id="390" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="故园" id="391" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="咫尺" id="392" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东西" target="由来" id="393" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="头白" target="归来" id="394" weight="0.3499774362439584">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="头白" target="相见" id="395" weight="0.3067113493946533">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="如今" target="千里" id="396" weight="0.36053562830469704">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="如今" target="白发" id="397" weight="0.3461935568287624">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="如今" target="巫山" id="398" weight="0.37631419331127425">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="如今" target="故园" id="399" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="归来" target="日暮" id="400" weight="0.387357645648935">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="归来" target="秋风" id="401" weight="0.30703408119099185">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="归来" target="今日" id="402" weight="0.35071636678076423">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="为君" target="淹留" id="403" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为君" target="西南" id="404" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为君" target="千里" id="405" weight="0.37556166646838496">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="天子" target="骑马" id="406" weight="0.3067113493946533">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="天子" target="朝廷" id="407" weight="0.3250121431295714">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="天子" target="洛阳" id="408" weight="0.33304810646196914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="天子" target="茫茫" id="409" weight="0.3067113493946533">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="天子" target="苍生" id="410" weight="0.40942542896522804">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="当时" target="千里" id="411" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="当时" target="惆怅" id="412" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="当时" target="忆昔" id="413" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="万事" id="414" weight="0.3341988712373811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="忆昔" id="415" weight="0.3225154474929133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="惆怅" id="416" weight="0.3225154474929133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="岁月" id="417" weight="0.3225154474929133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="西南" id="418" weight="0.3225154474929133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="怅望" id="419" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="故国" id="420" weight="0.3116384402087626">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="蹉跎" id="421" weight="0.3341988712373811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="千里" target="感激" id="422" weight="0.37556166646838496">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风起" target="春风" id="423" weight="0.3913402314749622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="独立" target="白日" id="424" weight="0.32091488476830754">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="独立" target="寂寞" id="425" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白头" target="北斗" id="426" weight="0.3797973036393544">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="白头" target="春草" id="427" weight="0.325425428745474">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白头" target="故国" id="428" weight="0.3013243809879578">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="四海" target="蹉跎" id="429" weight="0.45116831647247524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白日" target="黄金" id="430" weight="0.31906920173829517">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白日" target="青春" id="431" weight="0.4402854659351363">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="白日" target="从此" id="432" weight="0.3378018260572875">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白日" target="裴回" id="433" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风雨" target="黄金" id="434" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="风雨" target="从此" id="435" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="消息" target="黄金" id="436" weight="0.3797973036393544">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="消息" target="东流" id="437" weight="0.39033860887813604">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="消息" target="洛阳" id="438" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="消息" target="故园" id="439" weight="0.3220501649674963">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="消息" target="春色" id="440" weight="0.3797973036393544">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="黄金" target="苍生" id="441" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="黄金" target="往往" id="442" weight="0.37631419331127425">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="黄金" target="诸侯" id="443" weight="0.4902699449537912">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="黄金" target="出入" id="444" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="黄金" target="青云" id="445" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="杜陵" target="朝廷" id="446" weight="0.4151351291682621">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="杜陵" target="衣冠" id="447" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="孤城" id="448" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="丹青" id="449" weight="0.32521970031887104">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="纵横" id="450" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="儿童" id="451" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="怅望" id="452" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="光辉" id="453" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="往来" id="454" weight="0.4088754060111751">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="由来" id="455" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万古" target="西南" id="456" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青云" target="白首" id="457" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青云" target="诸侯" id="458" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青云" target="从此" id="459" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青云" target="闻道" id="460" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="冥冥" target="北斗" id="461" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="冥冥" target="巫山" id="462" weight="0.3274170052153398">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="相见" target="多病" id="463" weight="0.3660400367027095">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="相见" target="道路" id="464" weight="0.3411369850545883">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="相见" target="往往" id="465" weight="0.33304810646196914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="相见" target="江海" id="466" weight="0.31933040837341836">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="相见" target="经过" id="467" weight="0.33304810646196914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="茫茫" target="凄凉" id="468" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="茫茫" target="往往" id="469" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="茫茫" target="江海" id="470" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="公子" target="白发" id="471" weight="0.3612195949924504">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="公子" target="平生" id="472" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍梧" target="诸侯" id="473" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍梧" target="江湖" id="474" weight="0.30915564756998604">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="新诗" target="百年" id="475" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍生" target="寂寞" id="476" weight="0.3844285278951801">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="苍生" target="衣冠" id="477" weight="0.4845891142403436">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="苍生" target="处处" id="478" weight="0.3801316697589363">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍生" target="白首" id="479" weight="0.42346856168207414">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="天地" target="主人" id="480" weight="0.3416376732103751">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="天地" target="咫尺" id="481" weight="0.37871882769214604">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="天地" target="人间" id="482" weight="0.3200570053069501">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="天地" target="北斗" id="483" weight="0.35275676624057833">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="惆怅" target="富贵" id="484" weight="0.5377850760852773">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="惆怅" target="咫尺" id="485" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="惆怅" target="日暮" id="486" weight="0.4387900309015555">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="惆怅" target="西南" id="487" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="蓬莱" id="488" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="三年" id="489" weight="0.4954586936262052">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="丹青" id="490" weight="0.4088754060111751">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="终日" id="491" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="生涯" id="492" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="远游" id="493" weight="0.49253111170347913">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="柴门" id="494" weight="0.36822759646935277">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="富贵" target="可怜" id="495" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="闻道" id="496" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="别离" id="497" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="春草" id="498" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="他日" id="499" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="佳人" id="500" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="可怜" id="501" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="蓬莱" target="孤城" id="502" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="往往" target="江海" id="503" weight="0.4487613372875524">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骑马" target="相逢" id="504" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骑马" target="衣冠" id="505" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="骑马" target="他乡" id="506" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="从此" id="507" weight="0.40609026996792724">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="岁月" id="508" weight="0.4387900309015555">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="道路" id="509" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="三年" id="510" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="生涯" id="511" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="别离" id="512" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="游子" target="出入" id="513" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青春" target="圣朝" id="514" weight="0.4244588545643194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青春" target="白发" id="515" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青春" target="春色" id="516" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白发" target="圣朝" id="517" weight="0.3461935568287624">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白发" target="此身" id="518" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白发" target="苍茫" id="519" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白发" target="长沙" id="520" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="他日" id="521" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="别离" id="522" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="天下" id="523" weight="0.3674112245856322">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="将军" id="524" weight="0.43095512867475777">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="沧海" id="525" weight="0.4135818472801688">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="圣朝" target="多病" id="526" weight="0.3461935568287624">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="咫尺" id="527" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="波涛" id="528" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="乾坤" id="529" weight="0.30672869574801487">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="平生" id="530" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="吾道" id="531" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="多病" id="532" weight="0.42346856168207414">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="衣冠" id="533" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="苍茫" target="道路" id="534" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="此身" target="他日" id="535" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="此身" target="可怜" id="536" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="主人" id="537" weight="0.5038172110115604">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="波涛" id="538" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="长沙" id="539" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="江水" id="540" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="儿童" id="541" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="咫尺" target="出入" id="542" weight="0.4743787138785671">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="波涛" target="主人" id="543" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="波涛" target="白雪" id="544" weight="0.4135818472801688">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="波涛" target="沧海" id="545" weight="0.36468465918423426">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="主人" target="清晨" id="546" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="主人" target="凤凰" id="547" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="光辉" target="忆昔" id="548" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="光辉" target="由来" id="549" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="光辉" target="他日" id="550" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="从此" target="岁月" id="551" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="从此" target="出入" id="552" weight="0.32521970031887104">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="从此" target="诸侯" id="553" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="扁舟" target="南国" id="554" weight="0.3896893883881856">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="扁舟" target="衣冠" id="555" weight="0.3443351375773697">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="丹青" id="556" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="孤城" id="557" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="由来" id="558" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="远游" id="559" weight="0.5377850760852773">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="春草" id="560" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="淹留" target="生涯" id="561" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江流" target="白首" id="562" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江流" target="老病" id="563" weight="0.42968402810800704">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="人间" target="宾客" id="564" weight="0.32521970031887104">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="人间" target="江水" id="565" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="人间" target="沧海" id="566" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丹砂" target="乾坤" id="567" weight="0.3213831540930688">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="丹砂" target="寂寞" id="568" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丹砂" target="春草" id="569" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白雪" target="万国" id="570" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白首" target="平生" id="571" weight="0.30672869574801487">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白首" target="春草" id="572" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白首" target="衣冠" id="573" weight="0.37501713965865463">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白首" target="处处" id="574" weight="0.3648067392968782">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="白首" target="北斗" id="575" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="朝廷" target="尚书" id="576" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="朝廷" target="洛阳" id="577" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="朝廷" target="沧浪" id="578" weight="0.3246751261184993">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="朝廷" target="烟尘" id="579" weight="0.4151351291682621">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="朝廷" target="春色" id="580" weight="0.37358629022422907">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="浮生" id="581" weight="0.43504363919900163">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="清晨" id="582" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="三年" id="583" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="白马" id="584" weight="0.399864149191618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="平生" id="585" weight="0.32576616212856324">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江海" target="宾客" id="586" weight="0.3801316697589363">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧浪" target="为客" id="587" weight="0.38325363463304074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧浪" target="草堂" id="588" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="潇湘" target="忆昔" id="589" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="潇湘" target="洞庭" id="590" weight="0.4564539857665844">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="潇湘" target="万国" id="591" weight="0.38724509021285286">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万国" target="处处" id="592" weight="0.3675126107801713">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="万国" target="草木" id="593" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="清晨" target="浮生" id="594" weight="0.42242458022023655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="吾道" target="长沙" id="595" weight="0.4098055212414714">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="吾道" target="儿童" id="596" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮生" target="由来" id="597" weight="0.41074115647576864">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="浮生" target="他日" id="598" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江水" target="东流" id="599" weight="0.5716052004472769">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="江水" target="忆昔" id="600" weight="0.4694966321746375">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="江水" target="佳人" id="601" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江水" target="可怜" id="602" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="忆昔" target="将军" id="603" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="忆昔" target="尚书" id="604" weight="0.4244588545643194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="忆昔" target="洛阳" id="605" weight="0.4244588545643194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="东流" target="故园" id="606" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白马" target="三年" id="607" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白马" target="尚书" id="608" weight="0.4135818472801688">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="白马" target="宾客" id="609" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="文章" target="万事" id="610" weight="0.3067113493946533">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="文章" target="丹青" id="611" weight="0.35076360658003203">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="文章" target="别离" id="612" weight="0.3411369850545883">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="万事" target="百年" id="613" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="天下" target="尚书" id="614" weight="0.3674112245856322">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="天下" target="西南" id="615" weight="0.32679470478901057">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="天下" target="岁月" id="616" weight="0.3943530950467833">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="天下" target="沧海" id="617" weight="0.31517492360302046">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="不是" id="618" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="终日" id="619" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="佳人" id="620" weight="0.4954586936262052">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="桃花" id="621" weight="0.37112041293937914">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="生涯" id="622" weight="0.3257661621285632">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="他日" id="623" weight="0.3964636484424834">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="处处" id="624" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="故园" id="625" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="故国" id="626" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="可怜" target="秋风" id="627" weight="0.3161400839845403">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="宾客" id="628" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="丹青" id="629" weight="0.3449521797515526">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="北斗" id="630" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="由来" id="631" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="烟尘" id="632" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="沧海" target="春色" id="633" weight="0.3274170052153398">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="柴门" target="儿童" id="634" weight="0.38250370665133826">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="柴门" target="三年" id="635" weight="0.3626666847641179">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="柴门" target="桃花" id="636" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="裴回" target="往来" id="637" weight="0.4637873754512404">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="百年" target="草堂" id="638" weight="0.3151813774938811">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="百年" target="蹉跎" id="639" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="百年" target="经过" id="640" weight="0.3532015583056649">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="百年" target="故国" id="641" weight="0.3933732860371999">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="使君" target="佳人" id="642" weight="0.49253111170347913">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岁月" target="孤城" id="643" weight="0.42968402810800704">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="岁月" target="老病" id="644" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岁月" target="霜雪" id="645" weight="0.38643867375253566">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岁月" target="终日" id="646" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="岁月" target="别离" id="647" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寞" target="佳人" id="648" weight="0.3246751261184993">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="寂寞" target="摇落" id="649" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="平生" target="乾坤" id="650" weight="0.3020045301457787">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="平生" target="怅望" id="651" weight="0.3678492483062844">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="平生" target="经过" id="652" weight="0.339483860217114">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="乾坤" target="尚书" id="653" weight="0.4457672287196763">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="乾坤" target="衣冠" id="654" weight="0.3223468594743295">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="儿童" target="由来" id="655" weight="0.45862705278877586">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="儿童" target="宾客" id="656" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="儿童" target="处处" id="657" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纵横" target="分明" id="658" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纵横" target="青山" id="659" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纵横" target="丹青" id="660" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纵横" target="宾客" id="661" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="纵横" target="为客" id="662" weight="0.33020741565756906">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="不是" target="江上" id="663" weight="0.37556166646838496">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="春风" target="怅望" id="664" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="春风" target="蹉跎" id="665" weight="0.3499774362439584">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="春风" target="摇落" id="666" weight="0.37631419331127425">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="终日" target="丹青" id="667" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="终日" target="他日" id="668" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="终日" target="春草" id="669" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="感激" target="宾客" id="670" weight="0.4088754060111751">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="感激" target="丹青" id="671" weight="0.5050853151516491">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="感激" target="北斗" id="672" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="感激" target="生涯" id="673" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="宾客" target="出入" id="674" weight="0.32521970031887104">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="宾客" target="三年" id="675" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="宾客" target="尚书" id="676" weight="0.39384936784748714">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="处处" target="三年" id="677" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="处处" target="关山" id="678" weight="0.3675126107801713">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="处处" target="故园" id="679" weight="0.40609026996792724">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="处处" target="孤城" id="680" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="处处" target="衣冠" id="681" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="关山" target="摇落" id="682" weight="0.5342141997287754">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="关山" target="孤城" id="683" weight="0.3499774362439584">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="关山" target="故园" id="684" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="关山" target="衣冠" id="685" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="关山" target="洞庭" id="686" weight="0.3198567997614465">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="尚书" target="三年" id="687" weight="0.47940655069817717">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="生涯" id="688" weight="0.4163006703297038">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="道路" id="689" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="草堂" id="690" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="故园" id="691" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="诸侯" id="692" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="春草" id="693" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="由来" id="694" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="三年" target="他日" id="695" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="君王" target="出入" id="696" weight="0.4088754060111751">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="君王" target="生涯" id="697" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="出入" target="青山" id="698" weight="0.3675126107801713">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="出入" target="春草" id="699" weight="0.3675126107801713">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="出入" target="由来" id="700" weight="0.3558291870357033">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="多病" target="由来" id="701" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="多病" target="他乡" id="702" weight="0.3081733760169786">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="洛阳" target="相望" id="703" weight="0.47750507353979116">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="洛阳" target="道路" id="704" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="怅望" target="霜雪" id="705" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="怅望" target="丹青" id="706" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="怅望" target="西南" id="707" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="怅望" target="蹉跎" id="708" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="今日" target="烟尘" id="709" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="今日" target="白露" id="710" weight="0.3043043702097304">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="今日" target="由来" id="711" weight="0.33670462331255013">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="昨夜" target="青山" id="712" weight="0.4361422783087873">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="日暮" target="春草" id="713" weight="0.3585013539606141">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="日暮" target="凤凰" id="714" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="春草" target="生涯" id="715" weight="0.47110831936030206">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="春草" target="由来" id="716" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="分明" target="北斗" id="717" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="青山" target="诸侯" id="718" weight="0.38724509021285286">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="相望" target="老病" id="719" weight="0.3913402314749622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="道路" target="霜雪" id="720" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="道路" target="天涯" id="721" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="为客" target="江上" id="722" weight="0.42163710560857165">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="佳人" target="生涯" id="723" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="佳人" target="他日" id="724" weight="0.39986414919161795">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="佳人" target="凤凰" id="725" weight="0.42860788544385675">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="佳人" target="孤城" id="726" weight="0.3913402314749622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="佳人" target="秋风" id="727" weight="0.3246751261184993">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="桃花" target="春色" id="728" weight="0.36259649522272347">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="桃花" target="江上" id="729" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="西南" target="衣冠" id="730" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="西南" target="闻道" id="731" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="西南" target="摇落" id="732" weight="0.4244588545643194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江湖" target="长沙" id="733" weight="0.3543684534262428">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="江湖" target="衣冠" id="734" weight="0.3193978262828649">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="孤城" target="由来" id="735" weight="0.42968402810800704">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="孤城" target="丹青" id="736" weight="0.30768452578265815">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="孤城" target="远游" id="737" weight="0.3913402314749622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="孤城" target="衣冠" id="738" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="孤城" target="生涯" id="739" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="生涯" target="远游" id="740" weight="0.4184331246404244">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="生涯" target="丹青" id="741" weight="0.33477741894812035">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="生涯" target="北斗" id="742" weight="0.45862705278877586">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="生涯" target="由来" id="743" weight="0.36538690566495274">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="烟尘" target="由来" id="744" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="烟尘" target="闻道" id="745" weight="0.354509898380802">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="秋风" target="白露" id="746" weight="0.3246751261184993">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="秋风" target="巫山" id="747" weight="0.30703408119099185">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="秋风" target="摇落" id="748" weight="0.30964908795481133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="长沙" target="衣冠" id="749" weight="0.3770703294094206">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="凤凰" target="他日" id="750" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="凤凰" target="巫山" id="751" weight="0.3274170052153398">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="凤凰" target="故园" id="752" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="南国" target="洞庭" id="753" weight="0.33247585874021157">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="远游" target="丹青" id="754" weight="0.4088754060111751">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="远游" target="由来" id="755" weight="0.4394848927280074">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丹青" target="他日" id="756" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丹青" target="别离" id="757" weight="0.3162084434993139">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="丹青" target="由来" id="758" weight="0.4484166524269994">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="故园" target="巫山" id="759" weight="0.4579998097407492">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="故园" target="由来" id="760" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故园" target="摇落" id="761" weight="0.3848381110279299">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江边" target="今朝" id="762" weight="0.32686480123834893">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="春色" target="他乡" id="763" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="诸侯" target="他日" id="764" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="诸侯" target="别离" id="765" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="诸侯" target="由来" id="766" weight="0.375561666468385">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="衣冠" target="巫山" id="767" weight="0.31724224441190746">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="北斗" target="巫山" id="768" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="闻道" target="由来" id="769" weight="0.30146367940533025">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故国" target="他乡" id="770" weight="0.4694966321746375">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="故国" target="江城" id="771" weight="0.38724509021285286">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="故国" target="他日" id="772" weight="0.3359409229319955">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="巫山" target="摇落" id="773" weight="0.4703005479046287">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="巫山" target="由来" id="774" weight="0.33829401249949054">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="他日" target="别离" id="775" weight="0.3071971866797567">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="他日" target="由来" id="776" weight="0.34681793021614615">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="江城" target="他乡" id="777" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="今朝" target="他乡" id="778" weight="0.39812209749700356">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
