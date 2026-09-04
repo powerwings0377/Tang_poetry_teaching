@@ -1,0 +1,22 @@
+Seed-composition sensitivity (paper Section 4.6, fourth check; Supplementary Table S2)
+Twelve resampled seed sets, each drawing 35 of the 50 seeds per polarity; the entire
+pipeline is recomputed from the corpus under each configuration.
+
+Config	Early>High>Mid	Mid>Late	Canon<Corpus	LiBai_top
+1	True	True	True	True
+2	True	True	True	True
+3	True	True	True	True
+4	True	True	True	True
+5	True	True	True	True
+6	True	True	True	True
+7	True	False	True	True
+8	True	True	True	True
+9	True	False	True	True
+10	True	True	True	True
+11	True	True	True	True
+12	True	True	True	True
+
+Early > High > Mid holds: 12/12
+Mid > Late holds: 10/12 (this gap is non-significant by default, Tukey p = 0.054)
+Canon < Corpus holds: 12/12
+Li Bai top-ranked: 12/12
